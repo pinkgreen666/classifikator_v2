@@ -1,0 +1,148 @@
+{
+    "115531": [
+        {
+            "name": "тест1",
+            "children": []
+        },
+        {
+            "name": "Комплекты для покопийки",
+            "children": []
+        },
+        {
+            "name": "Расходники",
+            "children": []
+        },
+        {
+            "name": "ЗИП",
+            "children": []
+        },
+        {
+            "name": "ЗИП",
+            "children": []
+        },
+        {
+            "name": "НР",
+            "children": []
+        },
+        {
+            "name": "Проектные машины",
+            "children": []
+        },
+        {
+            "name": "ЗИП",
+            "children": []
+        },
+        {
+            "name": "2. Konica Minolta",
+            "children": [
+                {
+                    "name": "Расходка",
+                    "children": []
+                },
+                {
+                    "name": "Техника",
+                    "children": []
+                },
+                {
+                    "name": "Опции",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Запчасти Avision",
+            "children": []
+        },
+        {
+            "name": "МФУ",
+            "children": []
+        },
+        {
+            "name": "Опции",
+            "children": []
+        },
+        {
+            "name": "расходка_спец",
+            "children": []
+        },
+        {
+            "name": "1. Kyocera",
+            "children": [
+                {
+                    "name": "Опционы",
+                    "children": []
+                },
+                {
+                    "name": "Блоки и комплекты",
+                    "children": []
+                },
+                {
+                    "name": "расходка",
+                    "children": []
+                },
+                {
+                    "name": "ЗИП",
+                    "children": []
+                },
+                {
+                    "name": "MK",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "4. Avision",
+            "children": [
+                {
+                    "name": "МФУ",
+                    "children": []
+                },
+                {
+                    "name": "сканеры",
+                    "children": []
+                },
+                {
+                    "name": "расходные материалы",
+                    "children": []
+                },
+                {
+                    "name": "Принтера",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Техника",
+            "children": []
+        },
+        {
+            "name": "3. Ricoh",
+            "children": [
+                {
+                    "name": "ОПЦИОНЫ",
+                    "children": []
+                },
+                {
+                    "name": "Техника",
+                    "children": []
+                },
+                {
+                    "name": "РАСХОДНИКИ",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Техника",
+            "children": []
+        },
+        {
+            "name": "Опционы sale",
+            "children": []
+        },
+        {
+            "name": "Блоки_спец",
+            "children": []
+        }
+    ]
+}

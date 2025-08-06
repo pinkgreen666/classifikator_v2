@@ -1,0 +1,4499 @@
+{
+    "131792": [
+        {
+            "name": "Серверы (Brand) и опции",
+            "children": [
+                {
+                    "name": "4-процессорные серверы",
+                    "children": [
+                        {
+                            "name": "Norsi-Trans",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "2-процессорные серверы",
+                    "children": [
+                        {
+                            "name": "DELL PowerEdge R7625",
+                            "children": []
+                        },
+                        {
+                            "name": "HP ProLiant DL380",
+                            "children": []
+                        },
+                        {
+                            "name": "Lenovo ThinkSystem SR630",
+                            "children": []
+                        },
+                        {
+                            "name": "OpenYard",
+                            "children": []
+                        },
+                        {
+                            "name": "Гравитон",
+                            "children": []
+                        },
+                        {
+                            "name": "YADRO",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge R450",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge R660",
+                            "children": []
+                        },
+                        {
+                            "name": "xFusion 2288H V5 series",
+                            "children": []
+                        },
+                        {
+                            "name": "Norsi-Trans",
+                            "children": []
+                        },
+                        {
+                            "name": "xFusion 1288H V6 series",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge R650",
+                            "children": []
+                        },
+                        {
+                            "name": "xFusion 2288H V6 series",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge R720",
+                            "children": []
+                        },
+                        {
+                            "name": "HP ProLiant DL360",
+                            "children": []
+                        },
+                        {
+                            "name": "Lenovo ThinkSystem SR650",
+                            "children": []
+                        },
+                        {
+                            "name": "Aquarius T50",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge R750",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge R760",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Опции для серверов (Brand)",
+                    "children": [
+                        {
+                            "name": "RAID-контроллеры, карты и платы управления",
+                            "children": []
+                        },
+                        {
+                            "name": "Жесткие диски",
+                            "children": []
+                        },
+                        {
+                            "name": "Память",
+                            "children": []
+                        },
+                        {
+                            "name": "Процессоры",
+                            "children": []
+                        },
+                        {
+                            "name": "Другие опции",
+                            "children": []
+                        },
+                        {
+                            "name": "Опции для Blade серверов",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "1-процессорные серверы",
+                    "children": [
+                        {
+                            "name": "DELL PowerEdge T360",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge R250",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge T150",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge T350",
+                            "children": []
+                        },
+                        {
+                            "name": "Lenovo ThinkSystem SR250",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge R360",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge R350",
+                            "children": []
+                        },
+                        {
+                            "name": "Lenovo ThinkSystem SR655",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge R6615",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Серверные платформы и опции",
+            "children": [
+                {
+                    "name": "Память для серверов",
+                    "children": [
+                        {
+                            "name": "Hynix память для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "Kingston память для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "Micron память для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "Supermicro память для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "OpenYard память для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "Память для платформ Intel",
+                            "children": []
+                        },
+                        {
+                            "name": "Acer память для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "Crucial память для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "SNR память для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "Samsung память для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "Fujitsu память для серверов",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Процессоры",
+                    "children": [
+                        {
+                            "name": "CPU EPYC",
+                            "children": []
+                        },
+                        {
+                            "name": "CPU Xeon",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "1-процессорные серверные платформы",
+                    "children": [
+                        {
+                            "name": "ASUS RS300",
+                            "children": []
+                        },
+                        {
+                            "name": "ASUS RS520A",
+                            "children": []
+                        },
+                        {
+                            "name": "Supermicro SuperServer Tower",
+                            "children": []
+                        },
+                        {
+                            "name": "Supermicro SuperServer Rack",
+                            "children": []
+                        },
+                        {
+                            "name": "Tyan",
+                            "children": []
+                        },
+                        {
+                            "name": "ASUS TS300",
+                            "children": []
+                        },
+                        {
+                            "name": "Gigabyte",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "2-процессорные серверные платформы",
+                    "children": [
+                        {
+                            "name": "Acer Altos",
+                            "children": []
+                        },
+                        {
+                            "name": "OpenYard",
+                            "children": []
+                        },
+                        {
+                            "name": "Supermicro SuperServer Rack",
+                            "children": []
+                        },
+                        {
+                            "name": "Supermicro SuperServer Tower",
+                            "children": []
+                        },
+                        {
+                            "name": "Supermicro SuperWorkstation",
+                            "children": []
+                        },
+                        {
+                            "name": "SNR",
+                            "children": []
+                        },
+                        {
+                            "name": "AIC",
+                            "children": []
+                        },
+                        {
+                            "name": "ASUS ESC8000",
+                            "children": []
+                        },
+                        {
+                            "name": "ASUS ESC4000",
+                            "children": []
+                        },
+                        {
+                            "name": "ASUS RS720",
+                            "children": []
+                        },
+                        {
+                            "name": "ASUS RS700 (Rack 1U)",
+                            "children": []
+                        },
+                        {
+                            "name": "ASUS RS500 (Rack 1U)",
+                            "children": []
+                        },
+                        {
+                            "name": "ASUS RS720 (Rack 2U)",
+                            "children": []
+                        },
+                        {
+                            "name": "Gigabyte",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Салазки для дисков и корзины",
+                    "children": [
+                        {
+                            "name": "Салазки и корзины для дисков SuperMicro",
+                            "children": []
+                        },
+                        {
+                            "name": "Салазки и корзины для дисков Lenovo",
+                            "children": []
+                        },
+                        {
+                            "name": "Салазки и корзины для дисков SNR",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Прочие серверные опции",
+                    "children": [
+                        {
+                            "name": "Прочие серверные опции ASUS",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие серверные опции Brocade",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие серверные опции Gigabyte",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие серверные опции SuperMicro",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие серверные опции AIC",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие серверные опции SNR",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие серверные опции Acer",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие серверные опции Huawei",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие серверные опции LR-Link",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие серверные опции Intel",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Жесткие диски Enterprise",
+                    "children": [
+                        {
+                            "name": "Жесткие диски серверные Seagate Enterprise",
+                            "children": []
+                        },
+                        {
+                            "name": "Жесткие диски серверные Toshiba Enterprise",
+                            "children": []
+                        },
+                        {
+                            "name": "Жесткие диски OpenYard",
+                            "children": []
+                        },
+                        {
+                            "name": "Жесткие диски серверные WD Enterprise",
+                            "children": []
+                        },
+                        {
+                            "name": "Жесткие диски серверные Supermicro",
+                            "children": []
+                        },
+                        {
+                            "name": "Жесткие диски серверные Acer",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Серверные материнские платы",
+                    "children": [
+                        {
+                            "name": "Supermicro серверные материнские платы",
+                            "children": []
+                        },
+                        {
+                            "name": "ASUS серверные материнские платы",
+                            "children": []
+                        },
+                        {
+                            "name": "Intel серверные материнские платы",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Серверные твердотельные накопители SSD",
+                    "children": [
+                        {
+                            "name": "Cерверные твердотельные накопители Intel SSD Enterprise",
+                            "children": []
+                        },
+                        {
+                            "name": "Cерверные твердотельные накопители Kingston",
+                            "children": []
+                        },
+                        {
+                            "name": "Cерверные твердотельные накопители KIOXIA SSD",
+                            "children": []
+                        },
+                        {
+                            "name": "Cерверные твердотельные накопители Supermicro",
+                            "children": []
+                        },
+                        {
+                            "name": "Cерверные твердотельные накопители для платформ Intel",
+                            "children": []
+                        },
+                        {
+                            "name": "Cерверные твердотельные накопители Micron SSD",
+                            "children": []
+                        },
+                        {
+                            "name": "Серверные твердотельные накопители OpenYard SSD",
+                            "children": []
+                        },
+                        {
+                            "name": "Cерверные твердотельные накопители PHISON",
+                            "children": []
+                        },
+                        {
+                            "name": "Cерверные твердотельные накопители Fujitsu SSD",
+                            "children": []
+                        },
+                        {
+                            "name": "Cерверные твердотельные накопители Western Digital SSD",
+                            "children": []
+                        },
+                        {
+                            "name": "Cерверные твердотельные накопители Sony SSD",
+                            "children": []
+                        },
+                        {
+                            "name": "Cерверные твердотельные накопители Acer SSD",
+                            "children": []
+                        },
+                        {
+                            "name": "Cерверные твердотельные накопители GS Nanotech",
+                            "children": []
+                        },
+                        {
+                            "name": "Cерверные твердотельные накопители Samsung SSD Enterprise",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Сетевые адаптеры для серверов",
+                    "children": [
+                        {
+                            "name": "Intel сетевые адаптеры для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "Silicom сетевые адаптеры для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "SuperMicro сетевые адаптеры для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "Acer сетевые адаптеры для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "Asus сетевые адаптеры для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "Gigabyte сетевые адаптеры для серверов",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Blade серверные платформы",
+                    "children": [
+                        {
+                            "name": "Supermicro Blade серверы",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Блоки питания для серверов",
+                    "children": [
+                        {
+                            "name": "Блоки питания SuperMicro",
+                            "children": []
+                        },
+                        {
+                            "name": "Блоки питания Gigabyte",
+                            "children": []
+                        },
+                        {
+                            "name": "Блоки питания ASUS",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Корпуса серверные",
+                    "children": [
+                        {
+                            "name": "Supermicro серверные корпуса",
+                            "children": []
+                        },
+                        {
+                            "name": "INWIN серверные корпуса",
+                            "children": []
+                        },
+                        {
+                            "name": "Intel серверные корпуса",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Вентиляторы и радиаторы для серверов",
+                    "children": [
+                        {
+                            "name": "Вентиляторы и радиаторы для серверов Supermicro",
+                            "children": []
+                        },
+                        {
+                            "name": "Вентиляторы и радиаторы для серверов Gigabyte",
+                            "children": []
+                        },
+                        {
+                            "name": "Вентиляторы и радиаторы для серверов SNR",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Контроллеры для серверов",
+                    "children": [
+                        {
+                            "name": "Контроллеры Gigabyte",
+                            "children": []
+                        },
+                        {
+                            "name": "Контроллеры Qlogic",
+                            "children": []
+                        },
+                        {
+                            "name": "Контроллеры Broadcom (LSI, Avago)",
+                            "children": []
+                        },
+                        {
+                            "name": "Контроллеры Supermicro",
+                            "children": []
+                        },
+                        {
+                            "name": "Контроллеры LR-Link",
+                            "children": []
+                        },
+                        {
+                            "name": "Контроллеры Intel",
+                            "children": []
+                        },
+                        {
+                            "name": "Контроллеры Adaptec (Microsemi)",
+                            "children": []
+                        },
+                        {
+                            "name": "Контроллеры Acer",
+                            "children": []
+                        },
+                        {
+                            "name": "Контролеры ASUS",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Компьютеры и опции",
+            "children": [
+                {
+                    "name": "Опции для настольных компьютеров",
+                    "children": [
+                        {
+                            "name": "Видеокарты",
+                            "children": []
+                        },
+                        {
+                            "name": "Другие опции для настольных ПК",
+                            "children": []
+                        },
+                        {
+                            "name": "Память",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Тонкие клиенты",
+                    "children": [
+                        {
+                            "name": "HP Compaq",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Моноблоки",
+                    "children": []
+                },
+                {
+                    "name": "Настольные компьютеры",
+                    "children": [
+                        {
+                            "name": "Бизнес-серия",
+                            "children": [
+                                {
+                                    "name": "Aquarius",
+                                    "children": []
+                                },
+                                {
+                                    "name": "IRBIS",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Lenovo ThinkCentre M Series",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Lenovo ThinkCentre Neo",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP серия ProDesk 600",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MSI PRO",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Graviton",
+                                    "children": []
+                                },
+                                {
+                                    "name": "KVADRA",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP серия EliteDesk 600",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP серия EliteDesk 800",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Рабочие станции",
+                            "children": [
+                                {
+                                    "name": "Dell Precision",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP серия Z1",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP серия Z2",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP серия Z4",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Norsi-Trans",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Lenovo ThinkStation",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Altos",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP серия Z6",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Мини ПК",
+                            "children": [
+                                {
+                                    "name": "IRBIS",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MSI Cubi",
+                                    "children": []
+                                },
+                                {
+                                    "name": "БЕШТАУ",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "ПК DELL OptiPlex, Vostro",
+                            "children": []
+                        },
+                        {
+                            "name": "Розничные настольные компьютеры",
+                            "children": []
+                        },
+                        {
+                            "name": "Экономичная серия",
+                            "children": [
+                                {
+                                    "name": "HP серия 260",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP серия 280",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP серия 290",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP серия 400",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ноутбуки и планшетные устройства",
+            "children": [
+                {
+                    "name": "Ноутбуки, мобильные рабочие станции",
+                    "children": [
+                        {
+                            "name": "Ноутбуки",
+                            "children": []
+                        },
+                        {
+                            "name": "Игровые ноутбуки",
+                            "children": []
+                        },
+                        {
+                            "name": "Мобильные рабочие станции",
+                            "children": []
+                        },
+                        {
+                            "name": "Трансформеры",
+                            "children": []
+                        },
+                        {
+                            "name": "Ультрабуки",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Планшетные ПК",
+                    "children": []
+                },
+                {
+                    "name": "Опции для ноутбуков",
+                    "children": [
+                        {
+                            "name": "Сумки",
+                            "children": []
+                        },
+                        {
+                            "name": "Аксессуары для ноутбуков",
+                            "children": []
+                        },
+                        {
+                            "name": "Платы расширения ,MultiBay, Doc-station",
+                            "children": []
+                        },
+                        {
+                            "name": "Зарядные устройства и батареи",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Опции для планшетных ПК",
+                    "children": [
+                        {
+                            "name": "Аксессуары",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Принтеры, сканеры, МФУ",
+            "children": [
+                {
+                    "name": "Опции к принтерам, сканерам, МФУ",
+                    "children": []
+                },
+                {
+                    "name": "Широкоформатные Принтеры/Плоттеры",
+                    "children": []
+                },
+                {
+                    "name": "Широкоформатные МФУ",
+                    "children": []
+                },
+                {
+                    "name": "Сканеры ",
+                    "children": [
+                        {
+                            "name": "Протяжные",
+                            "children": []
+                        },
+                        {
+                            "name": "Фотоаппаратные",
+                            "children": []
+                        },
+                        {
+                            "name": "Планшетные",
+                            "children": []
+                        },
+                        {
+                            "name": "Широкоформатные",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "МФУ",
+                    "children": [
+                        {
+                            "name": "МФУ лазерные/светодиодные/электрографические",
+                            "children": [
+                                {
+                                    "name": "Цветные",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Монохромные",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "МФУ Струйные",
+                            "children": [
+                                {
+                                    "name": "Цветные",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Принтеры",
+                    "children": [
+                        {
+                            "name": "Принтеры лазерные/светодиодные/электрографические",
+                            "children": [
+                                {
+                                    "name": "Монохромные",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Цветные",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Принтеры струйные",
+                            "children": [
+                                {
+                                    "name": "Цветные",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Комплектующие",
+            "children": [
+                {
+                    "name": "Оптические приводы",
+                    "children": []
+                },
+                {
+                    "name": "Процессоры",
+                    "children": []
+                },
+                {
+                    "name": "Материнские платы",
+                    "children": [
+                        {
+                            "name": "Материнские платы для процесоров AMD клиентские",
+                            "children": []
+                        },
+                        {
+                            "name": "Материнские платы для процесоров Intel клиентские",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Системы охлаждения",
+                    "children": []
+                },
+                {
+                    "name": "Твердотельные накопители SSD",
+                    "children": [
+                        {
+                            "name": "SSD NVMe внутренние",
+                            "children": []
+                        },
+                        {
+                            "name": "SSD SATA внутренние",
+                            "children": []
+                        },
+                        {
+                            "name": "SSD внешние",
+                            "children": []
+                        },
+                        {
+                            "name": "SSD SAS внутренние",
+                            "children": []
+                        },
+                        {
+                            "name": "SSD Optane Memory",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Видеокарты",
+                    "children": [
+                        {
+                            "name": "Видеокарты на чипсетах ATI",
+                            "children": []
+                        },
+                        {
+                            "name": "Видеокарты на чипсетах NVIDIA",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Видеокарты профессиональные",
+                    "children": [
+                        {
+                            "name": "PNY NVIDIA Pro Graphics",
+                            "children": []
+                        },
+                        {
+                            "name": "NVIDIA Pro Graphics",
+                            "children": []
+                        },
+                        {
+                            "name": "NVIDIA TESLA",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Жесткие диски",
+                    "children": [
+                        {
+                            "name": "HDD SAS внутренние",
+                            "children": []
+                        },
+                        {
+                            "name": "HDD SATA внутренние",
+                            "children": []
+                        },
+                        {
+                            "name": "HDD для мобильных устройств",
+                            "children": []
+                        },
+                        {
+                            "name": "HDD внешние",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Контроллеры для серверов",
+                    "children": [
+                        {
+                            "name": "Контроллеры Broadcom (LSI)",
+                            "children": []
+                        },
+                        {
+                            "name": "Кабели для контроллеров",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Корпуса",
+                    "children": []
+                },
+                {
+                    "name": "Оперативная память ",
+                    "children": [
+                        {
+                            "name": "Память для ноутбуков",
+                            "children": []
+                        },
+                        {
+                            "name": "Память DDR2",
+                            "children": []
+                        },
+                        {
+                            "name": "Память DDR3 клиентская",
+                            "children": []
+                        },
+                        {
+                            "name": "Память DDR4 клиентская",
+                            "children": []
+                        },
+                        {
+                            "name": "Память DDR5 клиентская",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Аксессуары и дополнительное оборудование",
+                    "children": []
+                },
+                {
+                    "name": "БП для корпусов",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Источники бесперебойного питания",
+            "children": [
+                {
+                    "name": "ИБП для ПК",
+                    "children": [
+                        {
+                            "name": "Back-UPS ",
+                            "children": []
+                        },
+                        {
+                            "name": "ИБП для дома и офиса",
+                            "children": []
+                        },
+                        {
+                            "name": "ИБП для ПК linе interactive",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "ИБП для серверов и сетевых устройств",
+                    "children": [
+                        {
+                            "name": "ИБП linе interactive",
+                            "children": []
+                        },
+                        {
+                            "name": "ИБП  line interactive RM",
+                            "children": []
+                        },
+                        {
+                            "name": "ИБП  online",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Опции и дополнительное оборудование для ИБП",
+                    "children": []
+                },
+                {
+                    "name": "Стабилизаторы напряжения",
+                    "children": []
+                },
+                {
+                    "name": "ИБП Huawei",
+                    "children": []
+                },
+                {
+                    "name": "ИБП большой мощности",
+                    "children": [
+                        {
+                            "name": "MGE Galaxy",
+                            "children": [
+                                {
+                                    "name": "ИБП MGE Galaxy",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Symmetra",
+                            "children": [
+                                {
+                                    "name": "Cиловые модули",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Батарейные модули",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Опции для Symmetra",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smart UPS VT",
+                            "children": [
+                                {
+                                    "name": "Опции для Smart UPS VT",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ИБП Smart UPS VT",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Powercom Vanguard",
+                            "children": [
+                                {
+                                    "name": "ИБП Powercom Vanguard",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Опции для Powercom Vanguard",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Бастион",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Батареи APC",
+                    "children": []
+                },
+                {
+                    "name": "Батареи универсальные",
+                    "children": []
+                },
+                {
+                    "name": "Сетевые фильтры",
+                    "children": []
+                },
+                {
+                    "name": "ИБП Hiden",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Сетевое оборудование",
+            "children": [
+                {
+                    "name": "Оборудование беспроводных сетей",
+                    "children": [
+                        {
+                            "name": "Уличные точки доступа/радиомосты",
+                            "children": []
+                        },
+                        {
+                            "name": "Беспроводные сетевые адаптеры",
+                            "children": []
+                        },
+                        {
+                            "name": "Беспроводные маршрутизаторы",
+                            "children": []
+                        },
+                        {
+                            "name": "Контроллеры беспроводных сетей",
+                            "children": []
+                        },
+                        {
+                            "name": "Опции для беспроводных сетей",
+                            "children": []
+                        },
+                        {
+                            "name": "Точки доступа для корпоративных сетей",
+                            "children": []
+                        },
+                        {
+                            "name": "Точки доступа SOHO",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Пассивное сетевое оборудование",
+                    "children": [
+                        {
+                            "name": "Коннекторы",
+                            "children": []
+                        },
+                        {
+                            "name": "Монтажный инструмент",
+                            "children": []
+                        },
+                        {
+                            "name": "Патч-корды",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие компоненты СКС",
+                            "children": []
+                        },
+                        {
+                            "name": "Оптические компоненты СКС",
+                            "children": []
+                        },
+                        {
+                            "name": "Розетки и патч-панели",
+                            "children": []
+                        },
+                        {
+                            "name": "Кабель",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Телекоммуникации",
+                    "children": [
+                        {
+                            "name": "VoIP&VideoPhone  ",
+                            "children": []
+                        },
+                        {
+                            "name": "Опции для телекоммуникаций",
+                            "children": []
+                        },
+                        {
+                            "name": "DSL-коммутаторы большой емкости",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Кабеленесущие системы",
+                    "children": [
+                        {
+                            "name": "Прочие элементы для кабеленесущих систем",
+                            "children": []
+                        },
+                        {
+                            "name": "Короба, плинтуса, компоненты для  монтажа",
+                            "children": []
+                        },
+                        {
+                            "name": "Кабельные лотки",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Локальные сети",
+                    "children": [
+                        {
+                            "name": "Неуправляемые коммутаторы",
+                            "children": []
+                        },
+                        {
+                            "name": "Безопасность локальных сетей",
+                            "children": []
+                        },
+                        {
+                            "name": "Конверторы",
+                            "children": []
+                        },
+                        {
+                            "name": "Маршрутизаторы",
+                            "children": []
+                        },
+                        {
+                            "name": "Управляемые коммутаторы",
+                            "children": [
+                                {
+                                    "name": "Smart (WEB) управляемые",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Коммутаторы для рабочих групп",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Коммутаторы ядра сети",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "IP-камеры",
+                            "children": []
+                        },
+                        {
+                            "name": "Трансиверы",
+                            "children": []
+                        },
+                        {
+                            "name": "Опции для коммутаторов",
+                            "children": []
+                        },
+                        {
+                            "name": "Опции к маршрутизаторам",
+                            "children": []
+                        },
+                        {
+                            "name": "Серверы USB-устройств",
+                            "children": []
+                        },
+                        {
+                            "name": "Лицензии",
+                            "children": []
+                        },
+                        {
+                            "name": "Сетевые карты",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Pro AV-оборудование (Профессиональное аудио-видео)",
+            "children": [
+                {
+                    "name": "Оборудование для конференц-систем",
+                    "children": []
+                },
+                {
+                    "name": "Решения для коллективной работы",
+                    "children": []
+                },
+                {
+                    "name": "Коммерческие усилители мощности и цифровые процессоры",
+                    "children": []
+                },
+                {
+                    "name": "Видеоконтроллеры",
+                    "children": []
+                },
+                {
+                    "name": "Оборудование для передачи, обработки и коммутации видеосигналов",
+                    "children": []
+                },
+                {
+                    "name": "Ресиверы/Проигрыватели/Усилители",
+                    "children": []
+                },
+                {
+                    "name": "Системы управления",
+                    "children": []
+                },
+                {
+                    "name": "Акустические системы",
+                    "children": [
+                        {
+                            "name": "Беспроводные/интерьерные аудиосистемы",
+                            "children": []
+                        },
+                        {
+                            "name": "Для коммерческих инсталляций",
+                            "children": []
+                        },
+                        {
+                            "name": "Портативные системы",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Видео-отображающее оборудование",
+                    "children": [
+                        {
+                            "name": "Опции к коммерческим дисплеям",
+                            "children": []
+                        },
+                        {
+                            "name": "Cactus: проекционные экраны",
+                            "children": []
+                        },
+                        {
+                            "name": "LED экраны",
+                            "children": []
+                        },
+                        {
+                            "name": "Коммерческие телевизоры",
+                            "children": []
+                        },
+                        {
+                            "name": "Проекторы",
+                            "children": []
+                        },
+                        {
+                            "name": "Опции к проекторам",
+                            "children": []
+                        },
+                        {
+                            "name": "Профессиональные панели",
+                            "children": []
+                        },
+                        {
+                            "name": "Nextouch: интерактивное оборудование",
+                            "children": []
+                        },
+                        {
+                            "name": "Promethean: Интерактивное оборудование",
+                            "children": []
+                        },
+                        {
+                            "name": "Optoma: Интерактивное оборудование",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Кабели и переходники (Video)",
+                    "children": []
+                },
+                {
+                    "name": "Камеры для Видеоконференций",
+                    "children": []
+                },
+                {
+                    "name": "Микрофоны",
+                    "children": []
+                },
+                {
+                    "name": "Микшеры",
+                    "children": []
+                },
+                {
+                    "name": "Монтажное оборудование (Video)",
+                    "children": []
+                },
+                {
+                    "name": "Панели управления",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Коммуникационные шкафы, KVM",
+            "children": [
+                {
+                    "name": "Шкафы",
+                    "children": []
+                },
+                {
+                    "name": "KVM-оборудование",
+                    "children": []
+                },
+                {
+                    "name": "Стойки, полки",
+                    "children": []
+                },
+                {
+                    "name": "PDU",
+                    "children": []
+                },
+                {
+                    "name": "Опции к шкафам, KVM",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Системы хранения информации",
+            "children": [
+                {
+                    "name": "Системы хранения данных",
+                    "children": []
+                },
+                {
+                    "name": "Ленточные устройства",
+                    "children": [
+                        {
+                            "name": "Ленточные автозагрузчики и библиотеки",
+                            "children": []
+                        },
+                        {
+                            "name": "Одиночные ленточные накопители",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Опции к системам хранения",
+                    "children": []
+                },
+                {
+                    "name": "Внешние дисковые массивы",
+                    "children": []
+                },
+                {
+                    "name": "Носители информации",
+                    "children": [
+                        {
+                            "name": "Flash память SD",
+                            "children": []
+                        },
+                        {
+                            "name": "Карты памяти CFexpress",
+                            "children": []
+                        },
+                        {
+                            "name": "Ленточные носители",
+                            "children": []
+                        },
+                        {
+                            "name": "Flash карты USB",
+                            "children": []
+                        },
+                        {
+                            "name": "Flash память CF",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "NAS (Network Attach Storage)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Расходные материалы",
+            "children": [
+                {
+                    "name": "Картриджи лазерные",
+                    "children": []
+                },
+                {
+                    "name": "Картриджи струйные",
+                    "children": []
+                },
+                {
+                    "name": "Запчасти для HP A3 (MPS)",
+                    "children": []
+                },
+                {
+                    "name": "Картриджи для ленточных принтеров для маркировки",
+                    "children": []
+                },
+                {
+                    "name": "Бумага, фотобумага",
+                    "children": []
+                },
+                {
+                    "name": "Картриджи для широкоформатной печати",
+                    "children": []
+                },
+                {
+                    "name": "Картриджи для промышленной печати",
+                    "children": []
+                },
+                {
+                    "name": "Картриджи для HP (MPS)",
+                    "children": []
+                },
+                {
+                    "name": "Совместимые картриджи",
+                    "children": []
+                },
+                {
+                    "name": "Тонеры для копиров",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Средства контроля и безопасности",
+            "children": [
+                {
+                    "name": "Видеонаблюдение и контроль среды",
+                    "children": []
+                },
+                {
+                    "name": "Датчики и аксессуары",
+                    "children": []
+                },
+                {
+                    "name": "Продукты сетевой безопасности (IPS)",
+                    "children": []
+                },
+                {
+                    "name": "СКУД",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Информационная безопасность",
+            "children": [
+                {
+                    "name": "Аладдин Р.Д.",
+                    "children": []
+                },
+                {
+                    "name": "Прочее",
+                    "children": []
+                },
+                {
+                    "name": "Код Безопасности",
+                    "children": [
+                        {
+                            "name": "Secret Net Studio",
+                            "children": []
+                        },
+                        {
+                            "name": "NFR-образцы",
+                            "children": []
+                        },
+                        {
+                            "name": "Security Studio",
+                            "children": []
+                        },
+                        {
+                            "name": "Средства идентификации",
+                            "children": []
+                        },
+                        {
+                            "name": "TrustAccess",
+                            "children": [
+                                {
+                                    "name": "TrustAccess ИСПДН_дистрибутивы товар",
+                                    "children": []
+                                },
+                                {
+                                    "name": "TrustAccess ИСПДн_Софт право",
+                                    "children": []
+                                },
+                                {
+                                    "name": "TrustAccess Гостайна_Софт право",
+                                    "children": []
+                                },
+                                {
+                                    "name": "TrustAccess Гостайна_Софт (обновление) право",
+                                    "children": []
+                                },
+                                {
+                                    "name": "TrustAccess Гостайна_Дистрибутивы товар",
+                                    "children": []
+                                },
+                                {
+                                    "name": "TrustAccess ИСПДн_Софт (обновление) право",
+                                    "children": []
+                                },
+                                {
+                                    "name": "TrustAccess Гостайна_Техподдержка товар",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Jinn",
+                            "children": []
+                        },
+                        {
+                            "name": "Secret Net",
+                            "children": [
+                                {
+                                    "name": "secret net LSP–SOFT право",
+                                    "children": []
+                                },
+                                {
+                                    "name": "secret net 7–дистрибутивы товар",
+                                    "children": []
+                                },
+                                {
+                                    "name": "secret net 7–софт право",
+                                    "children": []
+                                },
+                                {
+                                    "name": "secret net 6.5 –Soft право",
+                                    "children": []
+                                },
+                                {
+                                    "name": "аппаратная поддержка товар",
+                                    "children": []
+                                },
+                                {
+                                    "name": "secret net 7–софт обновление право",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Secret net 5.1 - права",
+                                    "children": []
+                                },
+                                {
+                                    "name": "secret net LSP–дистрибутивы товар",
+                                    "children": []
+                                },
+                                {
+                                    "name": "secret net 6.5 –дистрибутивы товар",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Инвентаризация",
+                            "children": [
+                                {
+                                    "name": "КБИ сертифицированный _Софт право",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Дистрибутивы товар",
+                                    "children": []
+                                },
+                                {
+                                    "name": "КБИ сертифицированный _Поддержка товар",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Софт право",
+                                    "children": []
+                                },
+                                {
+                                    "name": "КБИ сертифицированный _Дистрибутивы товар",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Софт (обновление) право",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Trustverse",
+                            "children": []
+                        },
+                        {
+                            "name": "KB OLD",
+                            "children": []
+                        },
+                        {
+                            "name": "SecurityMailArchive",
+                            "children": []
+                        },
+                        {
+                            "name": "Поддержка",
+                            "children": []
+                        },
+                        {
+                            "name": "Континент",
+                            "children": []
+                        },
+                        {
+                            "name": "Соболь",
+                            "children": []
+                        },
+                        {
+                            "name": "Trusted Boot Loader",
+                            "children": [
+                                {
+                                    "name": "Trusted Boot Loader Софт (обновление) право",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Trusted Boot Loader Дистрибутивы товар",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Trusted Boot Loader Софт право",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Honeypot Manager",
+                            "children": [
+                                {
+                                    "name": "Honeypot Manager Дистрибутивы товар",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Honeypot Manager Софт (обновление) право",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Honeypot Manager Софт право",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Security Studio Suite (SSEP)",
+                            "children": [
+                                {
+                                    "name": "Security Studio Suite (SSEP) Без антивируса_Софт право",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Studio Suite (SSEP) Без антивируса_Дистрибутивы товар",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Security Studio Suite (SSEP) C антивирусом_Софт право",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Security Studio Suite (SSEP) C антивирусом_Дистрибутивы товар",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "vGate",
+                            "children": []
+                        },
+                        {
+                            "name": "СКЗИ М-506А-XP",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Рутокен",
+                    "children": [
+                        {
+                            "name": "Рутокен Light",
+                            "children": []
+                        },
+                        {
+                            "name": "Рутокен ЭЦП 3.0",
+                            "children": []
+                        },
+                        {
+                            "name": "Рутокен ЭЦП Bluetooth",
+                            "children": []
+                        },
+                        {
+                            "name": "Аутентификаторы Рутокен",
+                            "children": []
+                        },
+                        {
+                            "name": "Считыватели для смарт-карт",
+                            "children": []
+                        },
+                        {
+                            "name": "Рутокен ЭЦП 2.0 Flash",
+                            "children": []
+                        },
+                        {
+                            "name": "Аксессуары",
+                            "children": []
+                        },
+                        {
+                            "name": "Смарт-карты",
+                            "children": []
+                        },
+                        {
+                            "name": "Комплекты документации",
+                            "children": []
+                        },
+                        {
+                            "name": "Рутокен ЭЦП 2.0",
+                            "children": []
+                        },
+                        {
+                            "name": "Рутокен S",
+                            "children": []
+                        },
+                        {
+                            "name": "Рутокен VPN",
+                            "children": []
+                        },
+                        {
+                            "name": "Рутокен ЭЦП PKI",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "McAfee",
+                    "children": []
+                },
+                {
+                    "name": "Stonesoft",
+                    "children": []
+                },
+                {
+                    "name": "Smart-Soft",
+                    "children": [
+                        {
+                            "name": "Traffic Inspector Anti-Virus powered by Kaspersky Special (NEW-Renewal)",
+                            "children": []
+                        },
+                        {
+                            "name": "Multifactor для Traffic Inspector Next Generation",
+                            "children": []
+                        },
+                        {
+                            "name": "Traffic Inspector Next Generation (NEW-Renewal)",
+                            "children": []
+                        },
+                        {
+                            "name": "Traffic Inspector Anti-Spam powered by Kaspersky  Special",
+                            "children": []
+                        },
+                        {
+                            "name": "Kaspersky Anti-Virus для Traffic Inspector Next Generation (NEW-Renewal)",
+                            "children": []
+                        },
+                        {
+                            "name": "NetPolice Office для Traffic Inspector Next Generation",
+                            "children": []
+                        },
+                        {
+                            "name": "NetPolice School для Traffic Inspector Next Generation",
+                            "children": []
+                        },
+                        {
+                            "name": "SkyDNS.Школа",
+                            "children": []
+                        },
+                        {
+                            "name": "Traffic Inspector Next Generation SaaS",
+                            "children": []
+                        },
+                        {
+                            "name": "Traffic Inspector Anti-Spam powered by Kaspersky (NEW-Reneawal)",
+                            "children": []
+                        },
+                        {
+                            "name": "Traffic Inspector GOLD",
+                            "children": []
+                        },
+                        {
+                            "name": "Adguard для Traffic Inspector",
+                            "children": []
+                        },
+                        {
+                            "name": "NetPolice School для Traffic Inspector (NEW-Renewal)",
+                            "children": []
+                        },
+                        {
+                            "name": "Traffic Inspector Next Generation Light (NEW-Renewal)",
+                            "children": []
+                        },
+                        {
+                            "name": "SkyDNS.ВУЗ",
+                            "children": []
+                        },
+                        {
+                            "name": "Traffic Inspector Anti-Virus powered by Kaspersky (NEW-Renewal)",
+                            "children": []
+                        },
+                        {
+                            "name": "SkyDNS.Бизнес",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "ALTELL",
+                    "children": []
+                },
+                {
+                    "name": "Ideco",
+                    "children": []
+                },
+                {
+                    "name": "Bitdefender",
+                    "children": []
+                },
+                {
+                    "name": "TITUS",
+                    "children": []
+                },
+                {
+                    "name": "Fortinet",
+                    "children": []
+                },
+                {
+                    "name": "Positive Technologies",
+                    "children": []
+                },
+                {
+                    "name": "КриптоПро",
+                    "children": []
+                },
+                {
+                    "name": "IBM Security",
+                    "children": []
+                },
+                {
+                    "name": "FireMon",
+                    "children": []
+                },
+                {
+                    "name": "SpectorSoft",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Автоматическая идентификация, маркировка, торговое оборудование",
+            "children": [
+                {
+                    "name": "Терминалы сбора данных и планшетные компьютеры",
+                    "children": []
+                },
+                {
+                    "name": "Сканеры штрихового кода для промышленности",
+                    "children": []
+                },
+                {
+                    "name": "Кассовые терминалы (POS)",
+                    "children": []
+                },
+                {
+                    "name": "Микрокиоски и Прайсчеккеры",
+                    "children": []
+                },
+                {
+                    "name": "Принтеры этикеток мобильные и ручные",
+                    "children": []
+                },
+                {
+                    "name": "Принтеры этикеток индустриального класса",
+                    "children": []
+                },
+                {
+                    "name": "Принтеры этикеток настольные",
+                    "children": []
+                },
+                {
+                    "name": "Принтеры печати на пластиковых картах",
+                    "children": []
+                },
+                {
+                    "name": "Чековые принтеры и Фискальные регистраторы",
+                    "children": []
+                },
+                {
+                    "name": "Этикетки, Риббоны и Браслеты",
+                    "children": []
+                },
+                {
+                    "name": "Сканеры штрихового кода общего назначения",
+                    "children": []
+                },
+                {
+                    "name": "Опции для принтеров этикеток, сканеров штрихкода и терминалов сбора данных",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Программы расширения гарантии",
+            "children": []
+        },
+        {
+            "name": "Телефония",
+            "children": [
+                {
+                    "name": "IP телефоны SIP/H.323",
+                    "children": []
+                },
+                {
+                    "name": "Опции для АТС",
+                    "children": []
+                },
+                {
+                    "name": "Опции для радиотелефонов",
+                    "children": []
+                },
+                {
+                    "name": "Опции к IP телефонам SIP/H.323",
+                    "children": []
+                },
+                {
+                    "name": "Проводные телефоны",
+                    "children": []
+                },
+                {
+                    "name": "Радиотелефоны",
+                    "children": []
+                },
+                {
+                    "name": "АТС",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Запчасти для оборудования",
+            "children": [
+                {
+                    "name": "Запчасти для печатной техники",
+                    "children": []
+                },
+                {
+                    "name": "Запчасти для оборудования",
+                    "children": []
+                },
+                {
+                    "name": "Запчасти для печатной техники HP",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Кресла",
+            "children": [
+                {
+                    "name": "Офисные кресла",
+                    "children": []
+                },
+                {
+                    "name": "Кресла для геймеров",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Товары после ремонта",
+            "children": []
+        },
+        {
+            "name": "Умный дом",
+            "children": [
+                {
+                    "name": "Датчики умного дома",
+                    "children": []
+                },
+                {
+                    "name": "Управление умным домом",
+                    "children": []
+                },
+                {
+                    "name": "Умные камеры",
+                    "children": []
+                },
+                {
+                    "name": "Умные розетки",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Малая бытовая техника",
+            "children": [
+                {
+                    "name": "Вертикальные пылесосы",
+                    "children": []
+                },
+                {
+                    "name": "Роботы-пылесосы",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Аксессуары и портативная электроника",
+            "children": [
+                {
+                    "name": "Клавиатуры",
+                    "children": []
+                },
+                {
+                    "name": "Комплект (клавиатура+мышь)",
+                    "children": []
+                },
+                {
+                    "name": "USB адаптеры",
+                    "children": []
+                },
+                {
+                    "name": "Web-камеры",
+                    "children": []
+                },
+                {
+                    "name": "Акустические системы",
+                    "children": []
+                },
+                {
+                    "name": "Гарнитуры",
+                    "children": [
+                        {
+                            "name": "Проводные гарнитуры",
+                            "children": []
+                        },
+                        {
+                            "name": "Беспроводные гарнитуры",
+                            "children": []
+                        },
+                        {
+                            "name": "Гарнитуры для UC",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Смарт-часы",
+                    "children": []
+                },
+                {
+                    "name": "Мыши",
+                    "children": []
+                },
+                {
+                    "name": "Дополнительные полезные устройства",
+                    "children": []
+                },
+                {
+                    "name": "Рули, Джойстики",
+                    "children": []
+                },
+                {
+                    "name": "Аксессуары",
+                    "children": []
+                },
+                {
+                    "name": "Наушники",
+                    "children": []
+                },
+                {
+                    "name": "Очки дополненной реальности",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Мониторы, телевизоры",
+            "children": [
+                {
+                    "name": "LCD Мониторы",
+                    "children": [
+                        {
+                            "name": "22\"-25\"",
+                            "children": []
+                        },
+                        {
+                            "name": "25\"-32\"",
+                            "children": []
+                        },
+                        {
+                            "name": "до 19\"",
+                            "children": []
+                        },
+                        {
+                            "name": "19\"-22\"",
+                            "children": []
+                        },
+                        {
+                            "name": "32\" и выше",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Крепления для мониторов и информационных панелей",
+                    "children": []
+                },
+                {
+                    "name": "Аксессуары для мониторов и телевизоров",
+                    "children": []
+                },
+                {
+                    "name": "Телевизоры",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "29. Электронные книги",
+            "children": []
+        },
+        {
+            "name": "09. Источники бесперебойного питания",
+            "children": [
+                {
+                    "name": " Батареи APC",
+                    "children": []
+                },
+                {
+                    "name": " Батареи универсальные",
+                    "children": []
+                },
+                {
+                    "name": "ИБП большой мощности",
+                    "children": [
+                        {
+                            "name": "Бастион",
+                            "children": []
+                        },
+                        {
+                            "name": "Symmetra",
+                            "children": [
+                                {
+                                    "name": "Батарейные модули",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Cиловые модули",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Опции для Symmetra",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "MGE Galaxy",
+                            "children": [
+                                {
+                                    "name": "ИБП MGE Galaxy",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Smart UPS VT",
+                            "children": [
+                                {
+                                    "name": "ИБП Smart UPS VT",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Опции для Smart UPS VT",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Powercom Vanguard",
+                            "children": [
+                                {
+                                    "name": "Опции для Powercom Vanguard",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ИБП Powercom Vanguard",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ИБП для серверов и сетевых устройств",
+                    "children": [
+                        {
+                            "name": "ИБП  line interactive RM",
+                            "children": []
+                        },
+                        {
+                            "name": "ИБП  online",
+                            "children": []
+                        },
+                        {
+                            "name": "ИБП linе interactive",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Опции и дополнительное оборудование для ИБП",
+                    "children": []
+                },
+                {
+                    "name": "ИБП Huawei",
+                    "children": []
+                },
+                {
+                    "name": " Сетевые фильтры",
+                    "children": []
+                },
+                {
+                    "name": "Стабилизаторы напряжения",
+                    "children": []
+                },
+                {
+                    "name": "ИБП для ПК",
+                    "children": [
+                        {
+                            "name": "Back-UPS ",
+                            "children": []
+                        },
+                        {
+                            "name": "ИБП для ПК linе interactive",
+                            "children": []
+                        },
+                        {
+                            "name": "ИБП для дома и офиса",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "ИБП Hiden",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "11. Pro AV-оборудование (Профессиональное аудио-видео)",
+            "children": [
+                {
+                    "name": "Микшеры",
+                    "children": []
+                },
+                {
+                    "name": "Коммерческие усилители мощности и цифровые процессоры",
+                    "children": []
+                },
+                {
+                    "name": "Панели управления",
+                    "children": []
+                },
+                {
+                    "name": "Наушники",
+                    "children": []
+                },
+                {
+                    "name": "Оборудование для передачи, обработки и коммутации видеосигналов",
+                    "children": []
+                },
+                {
+                    "name": "Видеоконтроллеры",
+                    "children": []
+                },
+                {
+                    "name": "Ресиверы/Проигрыватели/Усилители",
+                    "children": []
+                },
+                {
+                    "name": "Монтажное оборудование (Video)",
+                    "children": []
+                },
+                {
+                    "name": "Акустические системы",
+                    "children": [
+                        {
+                            "name": "Для коммерческих инсталляций",
+                            "children": []
+                        },
+                        {
+                            "name": "Звуковые проекторы и панели (саундбары)",
+                            "children": []
+                        },
+                        {
+                            "name": "Портативные системы",
+                            "children": []
+                        },
+                        {
+                            "name": "HI-FI напольные, полочные",
+                            "children": []
+                        },
+                        {
+                            "name": "Беспроводные/интерьерные аудиосистемы",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Оборудование для конференц-систем",
+                    "children": []
+                },
+                {
+                    "name": "Видео-отображающее оборудование",
+                    "children": [
+                        {
+                            "name": "Опции к проекторам",
+                            "children": []
+                        },
+                        {
+                            "name": "Optoma: Интерактивное оборудование",
+                            "children": []
+                        },
+                        {
+                            "name": "Cactus: проекционные экраны",
+                            "children": []
+                        },
+                        {
+                            "name": "Nextouch: интерактивное оборудование",
+                            "children": []
+                        },
+                        {
+                            "name": "LED экраны",
+                            "children": []
+                        },
+                        {
+                            "name": "Коммерческие телевизоры",
+                            "children": []
+                        },
+                        {
+                            "name": "Проекторы",
+                            "children": []
+                        },
+                        {
+                            "name": "Опции к коммерческим дисплеям",
+                            "children": []
+                        },
+                        {
+                            "name": "Профессиональные панели",
+                            "children": []
+                        },
+                        {
+                            "name": "Promethean: Интерактивное оборудование",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Кабели и переходники (Video)",
+                    "children": []
+                },
+                {
+                    "name": "Системы управления",
+                    "children": []
+                },
+                {
+                    "name": "Камеры для Видеоконференций",
+                    "children": []
+                },
+                {
+                    "name": "Микрофоны",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "08. Комплектующие",
+            "children": [
+                {
+                    "name": "Видеокарты",
+                    "children": [
+                        {
+                            "name": "Видеокарты на чипсетах ATI",
+                            "children": []
+                        },
+                        {
+                            "name": "Видеокарты на чипсетах NVIDIA",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Процессоры",
+                    "children": []
+                },
+                {
+                    "name": "Аксессуары и дополнительное оборудование",
+                    "children": []
+                },
+                {
+                    "name": "БП для корпусов",
+                    "children": []
+                },
+                {
+                    "name": "Оперативная память ",
+                    "children": [
+                        {
+                            "name": "Память DDR5 клиентская",
+                            "children": []
+                        },
+                        {
+                            "name": "Память DDR4 клиентская",
+                            "children": []
+                        },
+                        {
+                            "name": "Память DDR3 клиентская",
+                            "children": []
+                        },
+                        {
+                            "name": "Память для ноутбуков",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Жесткие диски",
+                    "children": [
+                        {
+                            "name": "HDD SAS внутренние",
+                            "children": []
+                        },
+                        {
+                            "name": "HDD для мобильных устройств",
+                            "children": []
+                        },
+                        {
+                            "name": "HDD внешние",
+                            "children": []
+                        },
+                        {
+                            "name": "HDD SATA внутренние",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Корпуса",
+                    "children": []
+                },
+                {
+                    "name": "Системы охлаждения",
+                    "children": []
+                },
+                {
+                    "name": "Оптические приводы",
+                    "children": []
+                },
+                {
+                    "name": "Видеокарты профессиональные",
+                    "children": [
+                        {
+                            "name": "PNY NVIDIA Pro Graphics",
+                            "children": []
+                        },
+                        {
+                            "name": "NVIDIA TESLA",
+                            "children": []
+                        },
+                        {
+                            "name": "NVIDIA Pro Graphics",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Материнские платы",
+                    "children": [
+                        {
+                            "name": "Материнские платы для процесоров Intel клиентские",
+                            "children": []
+                        },
+                        {
+                            "name": "Материнские платы для процесоров AMD клиентские",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Твердотельные накопители SSD",
+                    "children": [
+                        {
+                            "name": "SSD внешние",
+                            "children": []
+                        },
+                        {
+                            "name": "SSD SAS внутренние",
+                            "children": []
+                        },
+                        {
+                            "name": "SSD Optane Memory",
+                            "children": []
+                        },
+                        {
+                            "name": "SSD SATA внутренние",
+                            "children": []
+                        },
+                        {
+                            "name": "SSD NVMe внутренние",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Контроллеры для серверов",
+                    "children": [
+                        {
+                            "name": "Кабели для контроллеров",
+                            "children": []
+                        },
+                        {
+                            "name": "Контроллеры Broadcom (LSI)",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "01. Серверы (Brand) и опции",
+            "children": [
+                {
+                    "name": " 4-процессорные серверы",
+                    "children": [
+                        {
+                            "name": "Norsi-Trans",
+                            "children": []
+                        },
+                        {
+                            "name": "HP ProLiant DL980",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Опции для серверов (Brand)",
+                    "children": [
+                        {
+                            "name": "Другие опции",
+                            "children": []
+                        },
+                        {
+                            "name": "  Опции для Blade серверов",
+                            "children": []
+                        },
+                        {
+                            "name": " Жесткие диски",
+                            "children": []
+                        },
+                        {
+                            "name": " Процессоры",
+                            "children": []
+                        },
+                        {
+                            "name": " RAID-контроллеры, карты и платы управления",
+                            "children": []
+                        },
+                        {
+                            "name": " Память",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": " 2-процессорные серверы",
+                    "children": [
+                        {
+                            "name": "DELL PowerEdge R450",
+                            "children": []
+                        },
+                        {
+                            "name": "YADRO",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge T550",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge R440",
+                            "children": []
+                        },
+                        {
+                            "name": "Lenovo ThinkSystem SR630",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge R660",
+                            "children": []
+                        },
+                        {
+                            "name": "xFusion 2288H V6 series",
+                            "children": []
+                        },
+                        {
+                            "name": "HP ProLiant DL380",
+                            "children": []
+                        },
+                        {
+                            "name": "UTINET",
+                            "children": []
+                        },
+                        {
+                            "name": "xFusion 2288H V5 series",
+                            "children": []
+                        },
+                        {
+                            "name": "OpenYard",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge R650",
+                            "children": []
+                        },
+                        {
+                            "name": "Lenovo ThinkSystem SR650",
+                            "children": []
+                        },
+                        {
+                            "name": "Гравитон",
+                            "children": []
+                        },
+                        {
+                            "name": "Norsi-Trans",
+                            "children": []
+                        },
+                        {
+                            "name": "xFusion 1288H V6 series",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge R540",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge R760",
+                            "children": []
+                        },
+                        {
+                            "name": "HP ProLiant DL360",
+                            "children": []
+                        },
+                        {
+                            "name": "Aquarius T50",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge R750",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": " 1-процессорные серверы",
+                    "children": [
+                        {
+                            "name": "DELL PowerEdge R350",
+                            "children": []
+                        },
+                        {
+                            "name": "Lenovo ThinkSystem SR655",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge R360",
+                            "children": []
+                        },
+                        {
+                            "name": "Lenovo ThinkSystem SR250",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge T150",
+                            "children": []
+                        },
+                        {
+                            "name": "HP ProLiant ML30",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge R250",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL PowerEdge T350",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "26. Кресла",
+            "children": [
+                {
+                    "name": "Кресла для геймеров",
+                    "children": []
+                },
+                {
+                    "name": "Офисные кресла",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "19. Автоматическая идентификация, маркировка, торговое оборудование",
+            "children": [
+                {
+                    "name": "Принтеры этикеток индустриального класса",
+                    "children": []
+                },
+                {
+                    "name": "Опции для принтеров этикеток, сканеров штрихкода и терминалов сбора данных",
+                    "children": []
+                },
+                {
+                    "name": "Микрокиоски и Прайсчеккеры",
+                    "children": []
+                },
+                {
+                    "name": "Принтеры этикеток мобильные и ручные",
+                    "children": []
+                },
+                {
+                    "name": "Сканеры штрихового кода общего назначения",
+                    "children": []
+                },
+                {
+                    "name": "Сканеры штрихового кода для промышленности",
+                    "children": []
+                },
+                {
+                    "name": "Принтеры печати на пластиковых картах",
+                    "children": []
+                },
+                {
+                    "name": "Принтеры этикеток настольные",
+                    "children": []
+                },
+                {
+                    "name": "Чековые принтеры и Фискальные регистраторы",
+                    "children": []
+                },
+                {
+                    "name": "Терминалы сбора данных и планшетные компьютеры",
+                    "children": []
+                },
+                {
+                    "name": "Кассовые терминалы (POS)",
+                    "children": []
+                },
+                {
+                    "name": "Этикетки, Риббоны и Браслеты",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "04. Ноутбуки и планшетные устройства",
+            "children": [
+                {
+                    "name": "Ноутбуки, мобильные рабочие станции",
+                    "children": [
+                        {
+                            "name": "Трансформеры",
+                            "children": []
+                        },
+                        {
+                            "name": "Мобильные рабочие станции",
+                            "children": []
+                        },
+                        {
+                            "name": "Ультрабуки",
+                            "children": []
+                        },
+                        {
+                            "name": "Игровые ноутбуки",
+                            "children": []
+                        },
+                        {
+                            "name": "Ноутбуки",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": " Опции для ноутбуков",
+                    "children": [
+                        {
+                            "name": "Аксессуары для ноутбуков",
+                            "children": []
+                        },
+                        {
+                            "name": "Зарядные устройства и батареи",
+                            "children": []
+                        },
+                        {
+                            "name": "Платы расширения ,MultiBay, Doc-station",
+                            "children": []
+                        },
+                        {
+                            "name": "Сумки",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": " Планшетные ПК",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "22. Электрика",
+            "children": []
+        },
+        {
+            "name": "07. Программное обеспечение",
+            "children": [
+                {
+                    "name": "Серверные операционные системы",
+                    "children": []
+                },
+                {
+                    "name": "Антивирусные программы",
+                    "children": []
+                },
+                {
+                    "name": "Офисные пакеты",
+                    "children": []
+                },
+                {
+                    "name": "Дополнительные офисные продукты",
+                    "children": [
+                        {
+                            "name": "Средства автоматизированного перевода",
+                            "children": [
+                                {
+                                    "name": "PROMT",
+                                    "children": [
+                                        {
+                                            "name": "Переводческое программное обеспечение для Windows",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Переводческое программное обеспечение для Linux",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Прочее",
+                    "children": []
+                },
+                {
+                    "name": "SQL сервер",
+                    "children": []
+                },
+                {
+                    "name": "Клиентские операционные системы",
+                    "children": []
+                },
+                {
+                    "name": "САПР",
+                    "children": [
+                        {
+                            "name": "Eligovision-права",
+                            "children": []
+                        },
+                        {
+                            "name": "Нанософт Разработка",
+                            "children": [
+                                {
+                                    "name": "NSR NormaCS Specification",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Платформа nanoCAD",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Лира-САПР-права НДС",
+                            "children": []
+                        },
+                        {
+                            "name": "SCAD Office права",
+                            "children": []
+                        },
+                        {
+                            "name": "Zwsoft",
+                            "children": []
+                        },
+                        {
+                            "name": "Renga-права",
+                            "children": [
+                                {
+                                    "name": "Базовые продукты Renga",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "АСКОН-права",
+                            "children": [
+                                {
+                                    "name": "Учебные комплекты АСКОН",
+                                    "children": []
+                                },
+                                {
+                                    "name": "КОМПАС. Обновления",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Приложения для КОМПАС",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Базовые продукты",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Дополнительное комплексное ПО",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Комплекты КОМПАС",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Акционные позиции",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "10. Сетевое оборудование",
+            "children": [
+                {
+                    "name": "Телекоммуникации",
+                    "children": [
+                        {
+                            "name": "VoIP&amp;VideoPhone  ",
+                            "children": []
+                        },
+                        {
+                            "name": "Опции для телекоммуникаций",
+                            "children": []
+                        },
+                        {
+                            "name": "DSL-коммутаторы большой емкости",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Оборудование беспроводных сетей",
+                    "children": [
+                        {
+                            "name": " Беспроводные маршрутизаторы",
+                            "children": []
+                        },
+                        {
+                            "name": " Опции для беспроводных сетей",
+                            "children": []
+                        },
+                        {
+                            "name": " Беспроводные сетевые адаптеры",
+                            "children": []
+                        },
+                        {
+                            "name": " Точки доступа для корпоративных сетей",
+                            "children": []
+                        },
+                        {
+                            "name": " Точки доступа SOHO",
+                            "children": []
+                        },
+                        {
+                            "name": " Контроллеры беспроводных сетей",
+                            "children": []
+                        },
+                        {
+                            "name": " Уличные точки доступа/радиомосты",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Пассивное сетевое оборудование",
+                    "children": [
+                        {
+                            "name": "Оптические компоненты СКС",
+                            "children": []
+                        },
+                        {
+                            "name": "Монтажный инструмент",
+                            "children": []
+                        },
+                        {
+                            "name": "Патч-корды",
+                            "children": []
+                        },
+                        {
+                            "name": "Кабель",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие компоненты СКС",
+                            "children": []
+                        },
+                        {
+                            "name": "Розетки и патч-панели",
+                            "children": []
+                        },
+                        {
+                            "name": "Коннекторы",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Кабеленесущие системы",
+                    "children": [
+                        {
+                            "name": "Прочие элементы для кабеленесущих систем",
+                            "children": []
+                        },
+                        {
+                            "name": "Кабельные лотки",
+                            "children": []
+                        },
+                        {
+                            "name": "Короба, плинтуса, компоненты для  монтажа",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Локальные сети",
+                    "children": [
+                        {
+                            "name": "Опции для коммутаторов",
+                            "children": []
+                        },
+                        {
+                            "name": "Маршрутизаторы",
+                            "children": []
+                        },
+                        {
+                            "name": " Трансиверы",
+                            "children": []
+                        },
+                        {
+                            "name": "Безопасность локальных сетей",
+                            "children": []
+                        },
+                        {
+                            "name": "Лицензии",
+                            "children": []
+                        },
+                        {
+                            "name": "Опции к маршрутизаторам",
+                            "children": []
+                        },
+                        {
+                            "name": " IP-камеры",
+                            "children": []
+                        },
+                        {
+                            "name": "Серверы USB-устройств",
+                            "children": []
+                        },
+                        {
+                            "name": "  Управляемые коммутаторы",
+                            "children": [
+                                {
+                                    "name": "Коммутаторы для рабочих групп",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Коммутаторы ядра сети",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Smart (WEB) управляемые",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "  Неуправляемые коммутаторы",
+                            "children": []
+                        },
+                        {
+                            "name": "Конверторы",
+                            "children": []
+                        },
+                        {
+                            "name": " Сетевые карты",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "20. Программы расширения гарантии",
+            "children": []
+        },
+        {
+            "name": "24. Телефония",
+            "children": [
+                {
+                    "name": "Опции к IP телефонам SIP/H.323",
+                    "children": []
+                },
+                {
+                    "name": " Проводные телефоны",
+                    "children": []
+                },
+                {
+                    "name": "Опции для радиотелефонов",
+                    "children": []
+                },
+                {
+                    "name": "АТС",
+                    "children": []
+                },
+                {
+                    "name": "Опции для АТС",
+                    "children": []
+                },
+                {
+                    "name": " Радиотелефоны",
+                    "children": []
+                },
+                {
+                    "name": " IP телефоны SIP/H.323",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "16. Смартфоны, мобильные телефоны и аксессуары",
+            "children": [
+                {
+                    "name": "Смартфоны и мобильные телефоны",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "34. Малая бытовая техника",
+            "children": [
+                {
+                    "name": "Вертикальные пылесосы",
+                    "children": []
+                },
+                {
+                    "name": "Роботы-пылесосы",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "13. Системы хранения информации",
+            "children": [
+                {
+                    "name": " Носители информации",
+                    "children": [
+                        {
+                            "name": "Flash память SD",
+                            "children": []
+                        },
+                        {
+                            "name": "Ленточные носители",
+                            "children": []
+                        },
+                        {
+                            "name": "Flash карты USB",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": " Внешние дисковые массивы",
+                    "children": []
+                },
+                {
+                    "name": "Системы хранения данных Unified",
+                    "children": []
+                },
+                {
+                    "name": "Ленточные устройства",
+                    "children": [
+                        {
+                            "name": "Одиночные ленточные накопители",
+                            "children": []
+                        },
+                        {
+                            "name": "Ленточные автозагрузчики и библиотеки",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "NAS (Network Attach Storage)",
+                    "children": []
+                },
+                {
+                    "name": "Опции к системам хранения",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "17. Средства контроля и безопасности",
+            "children": [
+                {
+                    "name": "Датчики и аксессуары",
+                    "children": []
+                },
+                {
+                    "name": "Видеонаблюдение и контроль среды",
+                    "children": []
+                },
+                {
+                    "name": "Продукты сетевой безопасности (IPS)",
+                    "children": []
+                },
+                {
+                    "name": "СКУД",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "12. Коммуникационные шкафы, KVM",
+            "children": [
+                {
+                    "name": "  Шкафы",
+                    "children": []
+                },
+                {
+                    "name": " Стойки, полки",
+                    "children": []
+                },
+                {
+                    "name": "  KVM-оборудование",
+                    "children": []
+                },
+                {
+                    "name": "PDU",
+                    "children": []
+                },
+                {
+                    "name": "Опции к шкафам, KVM",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "03. Компьютеры и опции",
+            "children": [
+                {
+                    "name": "  Настольные компьютеры",
+                    "children": [
+                        {
+                            "name": " Экономичная серия",
+                            "children": [
+                                {
+                                    "name": "HP серия 280",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP серия 290",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Acer Veriton",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP серия 400",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP серия 260",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "ПК Irbis",
+                            "children": []
+                        },
+                        {
+                            "name": "ПК DELL OptiPlex, Vostro",
+                            "children": []
+                        },
+                        {
+                            "name": " Розничные настольные компьютеры",
+                            "children": []
+                        },
+                        {
+                            "name": " Бизнес-серия",
+                            "children": [
+                                {
+                                    "name": "KVADRA",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Graviton",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Lenovo ThinkCentre Neo",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP серия ProDesk 600",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Aquarius",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP серия EliteDesk 800",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Lenovo ThinkCentre M Series",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MSI PRO",
+                                    "children": []
+                                },
+                                {
+                                    "name": "IRBIS",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Рабочие станции",
+                            "children": [
+                                {
+                                    "name": "Altos",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Dell Precision",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP серия Z1",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Lenovo ThinkStation",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP серия Z6",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP серия Z4",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP серия Z2",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Norsi-Trans",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Мини ПК",
+                            "children": [
+                                {
+                                    "name": "IRBIS",
+                                    "children": []
+                                },
+                                {
+                                    "name": "БЕШТАУ",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MSI Cubi",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": " Опции для настольных компьютеров",
+                    "children": [
+                        {
+                            "name": "Видеокарты",
+                            "children": []
+                        },
+                        {
+                            "name": "Другие опции для настольных ПК",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Моноблоки",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "05. Мониторы, телевизоры",
+            "children": [
+                {
+                    "name": "  LCD Мониторы",
+                    "children": [
+                        {
+                            "name": "32\" и выше",
+                            "children": []
+                        },
+                        {
+                            "name": "22\"-25\"",
+                            "children": []
+                        },
+                        {
+                            "name": "19\"-22\"",
+                            "children": []
+                        },
+                        {
+                            "name": "до 19\"",
+                            "children": []
+                        },
+                        {
+                            "name": "25\"-32\"",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Крепления для мониторов и информационных панелей",
+                    "children": []
+                },
+                {
+                    "name": "Телевизоры",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "15. Аксессуары и портативная электроника",
+            "children": [
+                {
+                    "name": " Мыши",
+                    "children": []
+                },
+                {
+                    "name": "Наушники",
+                    "children": []
+                },
+                {
+                    "name": "Смарт-часы",
+                    "children": []
+                },
+                {
+                    "name": "Очки дополненной реальности",
+                    "children": []
+                },
+                {
+                    "name": "Акустические системы",
+                    "children": []
+                },
+                {
+                    "name": "Аксессуары",
+                    "children": []
+                },
+                {
+                    "name": "Web-камеры",
+                    "children": []
+                },
+                {
+                    "name": "Комплект (клавиатура+мышь)",
+                    "children": []
+                },
+                {
+                    "name": " Клавиатуры",
+                    "children": []
+                },
+                {
+                    "name": "Дополнительные полезные устройства",
+                    "children": []
+                },
+                {
+                    "name": "Гарнитуры",
+                    "children": [
+                        {
+                            "name": "Беспроводные гарнитуры",
+                            "children": []
+                        },
+                        {
+                            "name": "Гарнитуры для UC",
+                            "children": []
+                        },
+                        {
+                            "name": "Проводные гарнитуры",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "USB адаптеры",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "06. Принтеры, сканеры, МФУ",
+            "children": [
+                {
+                    "name": " Сканеры ",
+                    "children": [
+                        {
+                            "name": "Широкоформатные",
+                            "children": []
+                        },
+                        {
+                            "name": "Фотоаппаратные",
+                            "children": []
+                        },
+                        {
+                            "name": "Протяжные",
+                            "children": []
+                        },
+                        {
+                            "name": "Планшетные",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "МФУ",
+                    "children": [
+                        {
+                            "name": "МФУ Струйные",
+                            "children": [
+                                {
+                                    "name": "Цветные",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "МФУ лазерные/светодиодные/электрографические",
+                            "children": [
+                                {
+                                    "name": "Цветные",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Монохромные",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Опции к принтерам, сканерам, МФУ",
+                    "children": []
+                },
+                {
+                    "name": "Широкоформатные МФУ",
+                    "children": []
+                },
+                {
+                    "name": "Широкоформатные Принтеры/Плоттеры",
+                    "children": []
+                },
+                {
+                    "name": "Принтеры",
+                    "children": [
+                        {
+                            "name": "Принтеры лазерные/светодиодные/электрографические",
+                            "children": [
+                                {
+                                    "name": "Монохромные",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Цветные",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "27. Товары после ремонта",
+            "children": []
+        },
+        {
+            "name": "14. Расходные материалы",
+            "children": [
+                {
+                    "name": " Картриджи лазерные",
+                    "children": []
+                },
+                {
+                    "name": "Картриджи для HP (MPS)",
+                    "children": []
+                },
+                {
+                    "name": "Картриджи для ленточных принтеров для маркировки",
+                    "children": []
+                },
+                {
+                    "name": "Тонеры для копиров",
+                    "children": []
+                },
+                {
+                    "name": "  Картриджи для широкоформатной печати",
+                    "children": []
+                },
+                {
+                    "name": "Совместимые картриджи",
+                    "children": []
+                },
+                {
+                    "name": "  Бумага, фотобумага",
+                    "children": []
+                },
+                {
+                    "name": " Картриджи струйные",
+                    "children": []
+                },
+                {
+                    "name": "Запчасти для HP A3 (MPS)",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "33. Умный дом",
+            "children": [
+                {
+                    "name": "Умные розетки",
+                    "children": []
+                },
+                {
+                    "name": "Управление умным домом",
+                    "children": []
+                },
+                {
+                    "name": "Умные камеры",
+                    "children": []
+                },
+                {
+                    "name": "Датчики умного дома",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "25. Запчасти для оборудования",
+            "children": [
+                {
+                    "name": "Запчасти для печатной техники HP",
+                    "children": []
+                },
+                {
+                    "name": "Запчасти для печатной техники",
+                    "children": []
+                },
+                {
+                    "name": "Запчасти для ПК HP",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "18. Информационная безопасность",
+            "children": [
+                {
+                    "name": "Прочее",
+                    "children": []
+                },
+                {
+                    "name": "Рутокен",
+                    "children": [
+                        {
+                            "name": "Рутокен Light",
+                            "children": []
+                        },
+                        {
+                            "name": "Рутокен ЭЦП 2.0",
+                            "children": []
+                        },
+                        {
+                            "name": "Рутокен ЭЦП 3.0",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Код Безопасности",
+                    "children": [
+                        {
+                            "name": "Secret Net Studio",
+                            "children": []
+                        },
+                        {
+                            "name": "TrustAccess",
+                            "children": [
+                                {
+                                    "name": "TrustAccess ИСПДн_Софт право",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Аладдин Р.Д.",
+                    "children": []
+                },
+                {
+                    "name": "Smart-Soft",
+                    "children": [
+                        {
+                            "name": "Traffic Inspector GOLD",
+                            "children": []
+                        },
+                        {
+                            "name": "Kaspersky Anti-Virus для Traffic Inspector Next Generation (NEW-Renewal)",
+                            "children": []
+                        },
+                        {
+                            "name": "Traffic Inspector Anti-Virus powered by Kaspersky (NEW-Renewal)",
+                            "children": []
+                        },
+                        {
+                            "name": "Traffic Inspector Next Generation SaaS",
+                            "children": []
+                        },
+                        {
+                            "name": "Traffic Inspector Next Generation (NEW-Renewal)",
+                            "children": []
+                        },
+                        {
+                            "name": "NetPolice Office для Traffic Inspector Next Generation",
+                            "children": []
+                        },
+                        {
+                            "name": "NetPolice School для Traffic Inspector Next Generation",
+                            "children": []
+                        },
+                        {
+                            "name": "Traffic Inspector Anti-Virus powered by Kaspersky Special (NEW-Renewal)",
+                            "children": []
+                        },
+                        {
+                            "name": "Traffic Inspector Next Generation Light (NEW-Renewal)",
+                            "children": []
+                        },
+                        {
+                            "name": "Multifactor для Traffic Inspector Next Generation",
+                            "children": []
+                        },
+                        {
+                            "name": "Traffic Inspector Anti-Spam powered by Kaspersky  Special",
+                            "children": []
+                        },
+                        {
+                            "name": "Traffic Inspector Anti-Spam powered by Kaspersky (NEW-Reneawal)",
+                            "children": []
+                        },
+                        {
+                            "name": "NetPolice School для Traffic Inspector (NEW-Renewal)",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Электрика",
+            "children": []
+        },
+        {
+            "name": "Программное обеспечение",
+            "children": [
+                {
+                    "name": "SQL сервер",
+                    "children": []
+                },
+                {
+                    "name": "Дополнительные офисные продукты",
+                    "children": [
+                        {
+                            "name": "Средства автоматизированного перевода",
+                            "children": [
+                                {
+                                    "name": "PROMT",
+                                    "children": [
+                                        {
+                                            "name": "Переводческое программное обеспечение для Windows",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Переводческое программное обеспечение для Linux",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Антивирусные программы",
+                    "children": []
+                },
+                {
+                    "name": "Прочее",
+                    "children": []
+                },
+                {
+                    "name": "Офисные пакеты",
+                    "children": []
+                },
+                {
+                    "name": "Клиентские операционные системы",
+                    "children": []
+                },
+                {
+                    "name": "Серверные операционные системы",
+                    "children": []
+                },
+                {
+                    "name": "САПР",
+                    "children": [
+                        {
+                            "name": "Renga-права",
+                            "children": [
+                                {
+                                    "name": "Базовые продукты Renga",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Лира-САПР-права НДС",
+                            "children": []
+                        },
+                        {
+                            "name": "SCAD Office права",
+                            "children": []
+                        },
+                        {
+                            "name": "АСКОН-права",
+                            "children": [
+                                {
+                                    "name": "Учебные комплекты АСКОН",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Дополнительное комплексное ПО",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Базовые продукты",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Комплекты КОМПАС",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Приложения для КОМПАС",
+                                    "children": []
+                                },
+                                {
+                                    "name": "КОМПАС. Обновления",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Акционные позиции",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Eligovision-права",
+                            "children": []
+                        },
+                        {
+                            "name": "Zwsoft",
+                            "children": []
+                        },
+                        {
+                            "name": "Нанософт Разработка",
+                            "children": [
+                                {
+                                    "name": "Платформа nanoCAD",
+                                    "children": []
+                                },
+                                {
+                                    "name": "NSR NormaCS Specification",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "02. Серверные платформы и опции",
+            "children": [
+                {
+                    "name": "2-процессорные серверные платформы",
+                    "children": [
+                        {
+                            "name": "ASUS RS720 (Rack 2U)",
+                            "children": []
+                        },
+                        {
+                            "name": "Acer Altos",
+                            "children": []
+                        },
+                        {
+                            "name": "AIC",
+                            "children": []
+                        },
+                        {
+                            "name": "Supermicro SuperServer Tower",
+                            "children": []
+                        },
+                        {
+                            "name": "ASUS RS720",
+                            "children": []
+                        },
+                        {
+                            "name": "Supermicro SuperWorkstation",
+                            "children": []
+                        },
+                        {
+                            "name": "OpenYard",
+                            "children": []
+                        },
+                        {
+                            "name": "Supermicro SuperServer Rack",
+                            "children": []
+                        },
+                        {
+                            "name": "ASUS RS700 (Rack 1U)",
+                            "children": []
+                        },
+                        {
+                            "name": "SNR",
+                            "children": []
+                        },
+                        {
+                            "name": "Gigabyte",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Серверные твердотельные накопители SSD",
+                    "children": [
+                        {
+                            "name": "Cерверные твердотельные накопители для платформ Intel",
+                            "children": []
+                        },
+                        {
+                            "name": "Cерверные твердотельные накопители Kingston",
+                            "children": []
+                        },
+                        {
+                            "name": "Cерверные твердотельные накопители Intel SSD Enterprise",
+                            "children": []
+                        },
+                        {
+                            "name": "Cерверные твердотельные накопители Micron SSD",
+                            "children": []
+                        },
+                        {
+                            "name": "Серверные твердотельные накопители OpenYard SSD",
+                            "children": []
+                        },
+                        {
+                            "name": "Cерверные твердотельные накопители Supermicro",
+                            "children": []
+                        },
+                        {
+                            "name": "Cерверные твердотельные накопители Samsung SSD Enterprise",
+                            "children": []
+                        },
+                        {
+                            "name": "Cерверные твердотельные накопители KIOXIA SSD",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Контроллеры для серверов",
+                    "children": [
+                        {
+                            "name": "Контроллеры LR-Link",
+                            "children": []
+                        },
+                        {
+                            "name": "Контроллеры Supermicro",
+                            "children": []
+                        },
+                        {
+                            "name": "Контроллеры Qlogic",
+                            "children": []
+                        },
+                        {
+                            "name": "Контроллеры Broadcom (LSI, Avago)",
+                            "children": []
+                        },
+                        {
+                            "name": "Контроллеры Gigabyte",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Жесткие диски Enterprise",
+                    "children": [
+                        {
+                            "name": "Жесткие диски OpenYard",
+                            "children": []
+                        },
+                        {
+                            "name": "Жесткие диски серверные WD Enterprise",
+                            "children": []
+                        },
+                        {
+                            "name": "Жесткие диски серверные Toshiba Enterprise",
+                            "children": []
+                        },
+                        {
+                            "name": "Жесткие диски серверные Seagate Enterprise",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Blade серверные платформы",
+                    "children": [
+                        {
+                            "name": "Supermicro Blade серверы",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Прочие серверные опции",
+                    "children": [
+                        {
+                            "name": "Прочие серверные опции AIC",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие серверные опции Gigabyte",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие серверные опции Brocade",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие серверные опции SuperMicro",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие серверные опции ASUS",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие серверные опции SNR",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Серверные материнские платы",
+                    "children": [
+                        {
+                            "name": "ASUS серверные материнские платы",
+                            "children": []
+                        },
+                        {
+                            "name": "Supermicro серверные материнские платы",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Корпуса серверные",
+                    "children": [
+                        {
+                            "name": "Supermicro серверные корпуса",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Вентиляторы и радиаторы для серверов",
+                    "children": [
+                        {
+                            "name": "Вентиляторы и радиаторы для серверов Gigabyte",
+                            "children": []
+                        },
+                        {
+                            "name": "Вентиляторы и радиаторы для серверов Supermicro",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Блоки питания для серверов",
+                    "children": [
+                        {
+                            "name": "Блоки питания SuperMicro",
+                            "children": []
+                        },
+                        {
+                            "name": "Блоки питания ASUS",
+                            "children": []
+                        },
+                        {
+                            "name": "Блоки питания Gigabyte",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "1-процессорные серверные платформы",
+                    "children": [
+                        {
+                            "name": "Supermicro SuperServer Tower",
+                            "children": []
+                        },
+                        {
+                            "name": "ASUS RS520A",
+                            "children": []
+                        },
+                        {
+                            "name": "ASUS RS300",
+                            "children": []
+                        },
+                        {
+                            "name": "Supermicro SuperServer Rack",
+                            "children": []
+                        },
+                        {
+                            "name": "ASUS TS300",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Процессоры",
+                    "children": [
+                        {
+                            "name": "CPU EPYC",
+                            "children": []
+                        },
+                        {
+                            "name": "CPU Xeon",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Салазки для дисков и корзины",
+                    "children": [
+                        {
+                            "name": "Салазки и корзины для дисков SuperMicro",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Сетевые адаптеры для серверов",
+                    "children": [
+                        {
+                            "name": "SuperMicro сетевые адаптеры для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "Intel сетевые адаптеры для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "Silicom сетевые адаптеры для серверов",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Память для серверов",
+                    "children": [
+                        {
+                            "name": "Kingston память для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "Supermicro память для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "Samsung память для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "Micron память для серверов",
+                            "children": []
+                        },
+                        {
+                            "name": "Hynix память для серверов",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

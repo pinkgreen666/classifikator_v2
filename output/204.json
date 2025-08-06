@@ -1,0 +1,5930 @@
+{
+    "204": [
+        {
+            "name": "Видеокарты на чипсете ATI",
+            "children": []
+        },
+        {
+            "name": "Видеo- & TV карты и системы",
+            "children": []
+        },
+        {
+            "name": "IP-камеры HIKVISION",
+            "children": []
+        },
+        {
+            "name": "Корпуса JONSBO",
+            "children": []
+        },
+        {
+            "name": "Блендеры Gorenje",
+            "children": []
+        },
+        {
+            "name": "SSD QUMO",
+            "children": []
+        },
+        {
+            "name": "Чайники Redmond",
+            "children": []
+        },
+        {
+            "name": "Источники питания FSP",
+            "children": []
+        },
+        {
+            "name": "Расх мат-лы Panasonic (оригинал)",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы Pantum(оригинал)",
+            "children": []
+        },
+        {
+            "name": "Источники питания CyberPower",
+            "children": []
+        },
+        {
+            "name": "Микрокомпьютеры Lenovo",
+            "children": []
+        },
+        {
+            "name": "ЖК телевизоры Hyundai",
+            "children": [
+                {
+                    "name": "Духовые шкафы прочие",
+                    "children": []
+                },
+                {
+                    "name": "Шлифмашины прочие",
+                    "children": []
+                },
+                {
+                    "name": "IP-камеры прочие",
+                    "children": []
+                },
+                {
+                    "name": "Дрели Patriot",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Моддинг",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование MultiCo",
+            "children": []
+        },
+        {
+            "name": "Шкафы пылевлагозащищенные",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы SAKURA",
+            "children": []
+        },
+        {
+            "name": "Сети: монтажное оборудование",
+            "children": []
+        },
+        {
+            "name": "Кабель в бухтах UTP",
+            "children": [
+                {
+                    "name": "ЖК мониторы GIGABYTE",
+                    "children": []
+                },
+                {
+                    "name": "Фрезеры Ресанта",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Мыши Bloody",
+            "children": []
+        },
+        {
+            "name": "Корпуса BE QUIET",
+            "children": []
+        },
+        {
+            "name": "Светодиодные лампы E14",
+            "children": [
+                {
+                    "name": "Наушники QUMO",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Беспроводные зарядные у-ва Qi",
+            "children": []
+        },
+        {
+            "name": "Ноутбуки IRBIS",
+            "children": []
+        },
+        {
+            "name": "Блоки питания Winard/Qori",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы ДЛЯ Xerox",
+            "children": []
+        },
+        {
+            "name": "Кресла Thermaltake",
+            "children": []
+        },
+        {
+            "name": "Холодильники Hansa",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы Epson (оригинал)",
+            "children": []
+        },
+        {
+            "name": "Строительные пылесосы Makita",
+            "children": []
+        },
+        {
+            "name": "Холодильники Hotpoint-Ariston",
+            "children": []
+        },
+        {
+            "name": "Чайники SMEG",
+            "children": []
+        },
+        {
+            "name": "Садовые насосы Вихрь",
+            "children": []
+        },
+        {
+            "name": "Компьютеры Acer",
+            "children": []
+        },
+        {
+            "name": "Мотоблоки и Культиваторы Зубр",
+            "children": []
+        },
+        {
+            "name": "Сумки для ноутбуков CANYON",
+            "children": []
+        },
+        {
+            "name": "Материнские платы ASRock",
+            "children": []
+        },
+        {
+            "name": "Планшеты Apple",
+            "children": []
+        },
+        {
+            "name": "Строительные пылесосы Patriot",
+            "children": []
+        },
+        {
+            "name": "Технические фены ЗУБР",
+            "children": []
+        },
+        {
+            "name": "Серверные платформы прочие",
+            "children": []
+        },
+        {
+            "name": "Сумки для ноутбуков ExeGate",
+            "children": []
+        },
+        {
+            "name": "АТС и системн.телефоны Panasonic",
+            "children": []
+        },
+        {
+            "name": "Оборудование для видеомонтажа",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети ZyXEL",
+            "children": []
+        },
+        {
+            "name": "Часы Perfeo",
+            "children": []
+        },
+        {
+            "name": "Модули памяти Patriot",
+            "children": []
+        },
+        {
+            "name": "SSD AMD",
+            "children": []
+        },
+        {
+            "name": "Интерактивные доски",
+            "children": []
+        },
+        {
+            "name": "Автомагнитолы",
+            "children": []
+        },
+        {
+            "name": "Водонагреватели Ariston",
+            "children": []
+        },
+        {
+            "name": "Конвекторы и обогреватели",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети ORIENT",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование Cisco",
+            "children": []
+        },
+        {
+            "name": "Коммуникаторы, смартфоны прочие",
+            "children": []
+        },
+        {
+            "name": "Шуруповерты DeWalt",
+            "children": []
+        },
+        {
+            "name": "Садовые инструменты Patriot",
+            "children": []
+        },
+        {
+            "name": "Игровые манипуляторы прочие",
+            "children": []
+        },
+        {
+            "name": "Беспроводное оборудование",
+            "children": []
+        },
+        {
+            "name": "УШМ и штроборезы прочие",
+            "children": []
+        },
+        {
+            "name": "Шуруповерты Bosch",
+            "children": []
+        },
+        {
+            "name": "Прочие автопринадлежности",
+            "children": []
+        },
+        {
+            "name": "Вытяжки Darina",
+            "children": []
+        },
+        {
+            "name": "Кулеры AMD",
+            "children": []
+        },
+        {
+            "name": "Серверные платформы SuperMicro",
+            "children": []
+        },
+        {
+            "name": "Шуруповерты METABO",
+            "children": []
+        },
+        {
+            "name": "Кулеры ASUS",
+            "children": []
+        },
+        {
+            "name": "Блендеры Scarlett",
+            "children": []
+        },
+        {
+            "name": "Колонки JBL, Harman/Kardon",
+            "children": []
+        },
+        {
+            "name": "Автовидеорегистраторы",
+            "children": []
+        },
+        {
+            "name": "Мини-печи",
+            "children": []
+        },
+        {
+            "name": "IP-камеры D-Link",
+            "children": []
+        },
+        {
+            "name": "Блоки питания прочие",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры GIGABYTE",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети UBIQUITI",
+            "children": []
+        },
+        {
+            "name": "Цепные пилы Makita",
+            "children": []
+        },
+        {
+            "name": "Цепные пилы Patriot",
+            "children": []
+        },
+        {
+            "name": "Швейные машины Comfort",
+            "children": []
+        },
+        {
+            "name": "УШМ и штроборезы Patriot",
+            "children": []
+        },
+        {
+            "name": "Мотоблоки и Культиваторы Ресанта",
+            "children": []
+        },
+        {
+            "name": "Посудомойки Hansa",
+            "children": []
+        },
+        {
+            "name": "Мини-мойки Patriot",
+            "children": []
+        },
+        {
+            "name": "Роботы-пылесосы iBoto",
+            "children": []
+        },
+        {
+            "name": "Моноблоки HP/Compaq",
+            "children": []
+        },
+        {
+            "name": "Кулеры Cooler Master",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование Hikvision",
+            "children": []
+        },
+        {
+            "name": "Мыши Dialog",
+            "children": []
+        },
+        {
+            "name": "Блендеры Polaris",
+            "children": []
+        },
+        {
+            "name": "Корпуса Aerocool",
+            "children": []
+        },
+        {
+            "name": "Микрофоны",
+            "children": []
+        },
+        {
+            "name": "Веб-камеры ExeGate",
+            "children": []
+        },
+        {
+            "name": "Холодильники POZIS",
+            "children": []
+        },
+        {
+            "name": "Коммуникаторы, смартфоны BQ",
+            "children": []
+        },
+        {
+            "name": "Активное оборудование Schneider",
+            "children": []
+        },
+        {
+            "name": "Бритвы/Триммеры Braun",
+            "children": []
+        },
+        {
+            "name": "Сварочное оборудование Patriot",
+            "children": []
+        },
+        {
+            "name": "Цепные пилы ЗУБР",
+            "children": []
+        },
+        {
+            "name": "Цепные пилы Ресанта",
+            "children": []
+        },
+        {
+            "name": "Цепные пилы прочие",
+            "children": []
+        },
+        {
+            "name": "Шлифмашины Bosch",
+            "children": []
+        },
+        {
+            "name": "Карты SD Netac",
+            "children": []
+        },
+        {
+            "name": "Карты SD SanDisk",
+            "children": []
+        },
+        {
+            "name": "SSD Samsung",
+            "children": []
+        },
+        {
+            "name": "Батуты",
+            "children": []
+        },
+        {
+            "name": "Блоки проявки",
+            "children": []
+        },
+        {
+            "name": "Карты CompactFlash",
+            "children": []
+        },
+        {
+            "name": "Винчестеры WD",
+            "children": []
+        },
+        {
+            "name": "Ноутбуки прочие",
+            "children": []
+        },
+        {
+            "name": "Материнские платы ASUS",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети Huawei",
+            "children": []
+        },
+        {
+            "name": "SSD Kingston",
+            "children": []
+        },
+        {
+            "name": "Игровые манипуляторы Logitech",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети UPVEL",
+            "children": []
+        },
+        {
+            "name": "Картридеры",
+            "children": []
+        },
+        {
+            "name": "SSD Kingspec",
+            "children": []
+        },
+        {
+            "name": "SSD SanDisk",
+            "children": []
+        },
+        {
+            "name": "SSD SmartBuy",
+            "children": []
+        },
+        {
+            "name": "Блоки питания Cooler Master",
+            "children": []
+        },
+        {
+            "name": "Блоки питания PowerCool",
+            "children": []
+        },
+        {
+            "name": "Зарядки для USB-устройств",
+            "children": [
+                {
+                    "name": "Варочные панели Candy",
+                    "children": []
+                },
+                {
+                    "name": "Серверные аксессуары DELL",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Ключи",
+            "children": []
+        },
+        {
+            "name": "Головки, биты",
+            "children": []
+        },
+        {
+            "name": "Веб-камеры Logitech",
+            "children": []
+        },
+        {
+            "name": "Мыши SPEEDLINK",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы Valday",
+            "children": [
+                {
+                    "name": "Кресла Cactus",
+                    "children": []
+                },
+                {
+                    "name": "Ноутбуки Rikor",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Веб-камеры CANYON",
+            "children": [
+                {
+                    "name": "Швейцарские ножи Victorinox",
+                    "children": []
+                },
+                {
+                    "name": "Холодильники LG",
+                    "children": []
+                },
+                {
+                    "name": "SSD Apacer",
+                    "children": []
+                },
+                {
+                    "name": "Масла моторные",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Веб-камеры Creative Live!",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры ASUS",
+            "children": []
+        },
+        {
+            "name": "Смартфоны STRIKE",
+            "children": []
+        },
+        {
+            "name": "Смартфоны OPPO",
+            "children": []
+        },
+        {
+            "name": "Бумага Hi-Image",
+            "children": []
+        },
+        {
+            "name": "Бумага Lomond",
+            "children": []
+        },
+        {
+            "name": "Бумага",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы Cactus",
+            "children": []
+        },
+        {
+            "name": "Принтеры и МФУ Катюша",
+            "children": []
+        },
+        {
+            "name": "СВЧ-печи прочие",
+            "children": []
+        },
+        {
+            "name": "Новогодние гирлянды",
+            "children": []
+        },
+        {
+            "name": "Продукты РЕД СОФТ",
+            "children": []
+        },
+        {
+            "name": "Мясорубки Bosch",
+            "children": []
+        },
+        {
+            "name": "Пылесосы Kitfort",
+            "children": []
+        },
+        {
+            "name": "Смартфоны MAXVI",
+            "children": []
+        },
+        {
+            "name": "ЖК телевизоры LG",
+            "children": []
+        },
+        {
+            "name": "ЖК телевизоры Samsung",
+            "children": []
+        },
+        {
+            "name": "ЖК телевизоры SONY",
+            "children": []
+        },
+        {
+            "name": "ЖК телевизоры прочие",
+            "children": []
+        },
+        {
+            "name": "Источники питания TRIPPLITE",
+            "children": []
+        },
+        {
+            "name": "Наушники Razer ",
+            "children": []
+        },
+        {
+            "name": "Материнские платы MSI",
+            "children": []
+        },
+        {
+            "name": "DVD ROM",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы DELL",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы Philips",
+            "children": []
+        },
+        {
+            "name": "ЖК телевизоры BBK",
+            "children": []
+        },
+        {
+            "name": "Проекторы ViewSonic",
+            "children": []
+        },
+        {
+            "name": "Швейные машины Brother",
+            "children": []
+        },
+        {
+            "name": "Экраны для проекторов Cactus ",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы ProfiLine",
+            "children": []
+        },
+        {
+            "name": "Дистанционно упр. модели/игрушки",
+            "children": []
+        },
+        {
+            "name": "Товары для кормления",
+            "children": []
+        },
+        {
+            "name": "Электронные конструкторы",
+            "children": []
+        },
+        {
+            "name": "Аудиокабели/переходники",
+            "children": []
+        },
+        {
+            "name": "Видеокабели/переход. аналоговые",
+            "children": []
+        },
+        {
+            "name": "Гидромассажеры",
+            "children": [
+                {
+                    "name": "Смартфоны INFINIX",
+                    "children": []
+                },
+                {
+                    "name": "Тепловентил. и тепл. пушки",
+                    "children": []
+                },
+                {
+                    "name": "Миксеры CENTEK",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Пылесосы Thomas",
+            "children": []
+        },
+        {
+            "name": "Блоки питания для ноутбуков",
+            "children": []
+        },
+        {
+            "name": "Колонки Microlab",
+            "children": []
+        },
+        {
+            "name": "Наушники KOSS",
+            "children": []
+        },
+        {
+            "name": "Наушники Lenovo ",
+            "children": []
+        },
+        {
+            "name": "Корпуса Crown",
+            "children": []
+        },
+        {
+            "name": "Корпуса Exegate",
+            "children": []
+        },
+        {
+            "name": "Тормоза",
+            "children": []
+        },
+        {
+            "name": "Фильтры",
+            "children": []
+        },
+        {
+            "name": "Электрика",
+            "children": []
+        },
+        {
+            "name": "Посудомойки Bosch",
+            "children": []
+        },
+        {
+            "name": "Очистители и мойки воздуха",
+            "children": []
+        },
+        {
+            "name": "Холодильники Bosch",
+            "children": []
+        },
+        {
+            "name": "Стиральные машины Korting",
+            "children": []
+        },
+        {
+            "name": "Холодильники Indesit",
+            "children": []
+        },
+        {
+            "name": "Стиральные машины SCHAUB LORENZ",
+            "children": []
+        },
+        {
+            "name": "Швейные машины Jaguar",
+            "children": []
+        },
+        {
+            "name": "Швейные машины Janome",
+            "children": []
+        },
+        {
+            "name": "Винчестеры Toshiba",
+            "children": []
+        },
+        {
+            "name": "Швейные машины Merrylock",
+            "children": []
+        },
+        {
+            "name": "Кресла, Стулья Chairman",
+            "children": []
+        },
+        {
+            "name": "Телефоны TEXET",
+            "children": []
+        },
+        {
+            "name": "Сумки, маркеры для CD",
+            "children": []
+        },
+        {
+            "name": "Светодиодные лампы E40",
+            "children": []
+        },
+        {
+            "name": "Крышки, Дверцы",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы LG",
+            "children": []
+        },
+        {
+            "name": "Колонки SVEN",
+            "children": []
+        },
+        {
+            "name": "Источники питания Ippon",
+            "children": []
+        },
+        {
+            "name": "Контроллеры LSI/3ware",
+            "children": []
+        },
+        {
+            "name": "Колонки Marshall",
+            "children": []
+        },
+        {
+            "name": "Колонки  SmartBuy",
+            "children": [
+                {
+                    "name": "Чайники Gorenje",
+                    "children": []
+                },
+                {
+                    "name": "Смартфоны Xiaomi",
+                    "children": []
+                },
+                {
+                    "name": "Весы напольные Polaris",
+                    "children": []
+                },
+                {
+                    "name": "Садовые инструменты Gardena",
+                    "children": []
+                },
+                {
+                    "name": "Столы",
+                    "children": []
+                },
+                {
+                    "name": "Духовые шкафы Electrolux",
+                    "children": []
+                },
+                {
+                    "name": "Посудомойки Gorenje",
+                    "children": []
+                },
+                {
+                    "name": "Рубанки ЗУБР",
+                    "children": []
+                },
+                {
+                    "name": "Утюги Redmond",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Наушники Trust",
+            "children": []
+        },
+        {
+            "name": "Видеокарты GIGABYTE",
+            "children": []
+        },
+        {
+            "name": "Видеокарты ZOTAC",
+            "children": []
+        },
+        {
+            "name": "Серверные платформы INTEL",
+            "children": []
+        },
+        {
+            "name": "СВЧ-печи Panasonic",
+            "children": []
+        },
+        {
+            "name": "СВЧ-печи Scarlett",
+            "children": []
+        },
+        {
+            "name": "Пылесосы LG",
+            "children": []
+        },
+        {
+            "name": "Пылесосы Philips",
+            "children": []
+        },
+        {
+            "name": "Пылесосы Samsung",
+            "children": []
+        },
+        {
+            "name": "Роботы-пылесосы ILIFE",
+            "children": []
+        },
+        {
+            "name": "Роботы-пылесосы Starwind",
+            "children": []
+        },
+        {
+            "name": "Ирригаторы",
+            "children": []
+        },
+        {
+            "name": "Спортинвентарь",
+            "children": []
+        },
+        {
+            "name": "Кабель в бухтах коаксиальный",
+            "children": []
+        },
+        {
+            "name": "Наушники Audio-Technica",
+            "children": []
+        },
+        {
+            "name": "Наушники FIIO",
+            "children": []
+        },
+        {
+            "name": "Мыши Logitech",
+            "children": []
+        },
+        {
+            "name": "Внешние HDD прочие",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы ASUS",
+            "children": []
+        },
+        {
+            "name": "Принтеры и МФУ KONICA MINOLTA",
+            "children": []
+        },
+        {
+            "name": "Веб-камеры SVEN",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры Dialog",
+            "children": []
+        },
+        {
+            "name": "Сканеры Epson",
+            "children": []
+        },
+        {
+            "name": "Сканеры прочие",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование H3C",
+            "children": []
+        },
+        {
+            "name": "Аккумуляторы для UPS",
+            "children": []
+        },
+        {
+            "name": "Уничтожители бумаги",
+            "children": []
+        },
+        {
+            "name": "Блоки питания Zalman",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование INTEL",
+            "children": []
+        },
+        {
+            "name": "Dialup и ADSL модемы",
+            "children": []
+        },
+        {
+            "name": "Модули SFP, трансиверы",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование Mercusys",
+            "children": []
+        },
+        {
+            "name": "Диваны",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры SmartBuy",
+            "children": []
+        },
+        {
+            "name": "Игровые манипуляторы SVEN",
+            "children": []
+        },
+        {
+            "name": "Валы тефлоновые (верхние)",
+            "children": []
+        },
+        {
+            "name": "Стиральные машины LG",
+            "children": []
+        },
+        {
+            "name": "Удлинители питания 220В",
+            "children": []
+        },
+        {
+            "name": "Антивирусы и безопасность в сети",
+            "children": [
+                {
+                    "name": "Снегоуборщики Patriot",
+                    "children": []
+                },
+                {
+                    "name": "Принтеры и МФУ Pantum",
+                    "children": []
+                },
+                {
+                    "name": "Роботы-пылесосы Xiaomi",
+                    "children": []
+                },
+                {
+                    "name": "Планшеты Huawei",
+                    "children": []
+                },
+                {
+                    "name": "Кулеры EKWB",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Детские игры и обучающее ПО",
+            "children": []
+        },
+        {
+            "name": "Сетевые хранилища (NAS) QNAP",
+            "children": []
+        },
+        {
+            "name": "Климатические шкафы",
+            "children": []
+        },
+        {
+            "name": "Аксессуары к монтажным шкафам",
+            "children": []
+        },
+        {
+            "name": "Волоконно-оптическое оборуд-е",
+            "children": []
+        },
+        {
+            "name": "Мыши GIGABYTE",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры Logitech",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры прочие",
+            "children": []
+        },
+        {
+            "name": "Игровые манипуляторы Defender",
+            "children": []
+        },
+        {
+            "name": "USB Flash Drive Adata",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование Mellanox",
+            "children": []
+        },
+        {
+            "name": "Колонки Yamaha",
+            "children": []
+        },
+        {
+            "name": "Колонки прочие",
+            "children": []
+        },
+        {
+            "name": "Звуковые карты Behringer ",
+            "children": []
+        },
+        {
+            "name": "Звуковые карты Creative",
+            "children": []
+        },
+        {
+            "name": "Наушники Defender",
+            "children": []
+        },
+        {
+            "name": "Видеокарты MATROX",
+            "children": []
+        },
+        {
+            "name": "Кулеры Noctua",
+            "children": []
+        },
+        {
+            "name": "Пароочистители Прочие",
+            "children": []
+        },
+        {
+            "name": "СВЧ-печи BEKO",
+            "children": []
+        },
+        {
+            "name": "Технические фены Ресанта  ",
+            "children": []
+        },
+        {
+            "name": "Системы хранения данных прочие",
+            "children": []
+        },
+        {
+            "name": "Коротроны, Валы переноса",
+            "children": []
+        },
+        {
+            "name": "Ролики, Наборы роликов, Насадки",
+            "children": []
+        },
+        {
+            "name": "Принтеры печати этикеток Brother",
+            "children": []
+        },
+        {
+            "name": "Источники питания Exegate",
+            "children": []
+        },
+        {
+            "name": "Веб-камеры Defender",
+            "children": []
+        },
+        {
+            "name": "Снегоуборщики прочие",
+            "children": []
+        },
+        {
+            "name": "Запчасти для ремонта прочее",
+            "children": []
+        },
+        {
+            "name": "Активное оборудование Legrand",
+            "children": []
+        },
+        {
+            "name": "Кабель-каналы, клеммы Legrand",
+            "children": []
+        },
+        {
+            "name": "Контрольные панели прочие",
+            "children": []
+        },
+        {
+            "name": "Розетки и выключатели Schneider",
+            "children": []
+        },
+        {
+            "name": "Серверы DELL",
+            "children": []
+        },
+        {
+            "name": "Серверы LENOVO",
+            "children": []
+        },
+        {
+            "name": "Моноблоки НИКС",
+            "children": []
+        },
+        {
+            "name": "Ноутбуки Samsung",
+            "children": []
+        },
+        {
+            "name": "Кулеры Alphacool",
+            "children": []
+        },
+        {
+            "name": "Щитки, шкафы, аксессуары Legrand",
+            "children": []
+        },
+        {
+            "name": "Щитки и шкафы прочие",
+            "children": []
+        },
+        {
+            "name": "Модули памяти NoName",
+            "children": []
+        },
+        {
+            "name": "Аксессуары климатконтроля DKC",
+            "children": []
+        },
+        {
+            "name": "Наушники Bloody",
+            "children": []
+        },
+        {
+            "name": "Корпуса DELUX",
+            "children": []
+        },
+        {
+            "name": "Вентиляторы и решетки DKC",
+            "children": []
+        },
+        {
+            "name": "Кондиционеры DKC",
+            "children": []
+        },
+        {
+            "name": "Корпуса INWIN",
+            "children": []
+        },
+        {
+            "name": "Металлические шкафы DKC",
+            "children": []
+        },
+        {
+            "name": "Серверные корпуса AIC",
+            "children": []
+        },
+        {
+            "name": "Серверные корпуса Inwin",
+            "children": []
+        },
+        {
+            "name": "Источники питания Legrand",
+            "children": []
+        },
+        {
+            "name": "Источники питания PowerCom",
+            "children": []
+        },
+        {
+            "name": "Бинокли",
+            "children": []
+        },
+        {
+            "name": "ЖК телевизоры IRBIS",
+            "children": []
+        },
+        {
+            "name": "Источн. питания SYSTEME ELECTRIC",
+            "children": []
+        },
+        {
+            "name": "Источники питания прочие",
+            "children": []
+        },
+        {
+            "name": "Сетевые фильтры 5bites",
+            "children": []
+        },
+        {
+            "name": "Портативные аккумуляторы Xiaomi",
+            "children": []
+        },
+        {
+            "name": "Телефоны DECT Gigaset",
+            "children": []
+        },
+        {
+            "name": "Телефоны ВЕКТОР",
+            "children": []
+        },
+        {
+            "name": "Оргтехника - прочее",
+            "children": []
+        },
+        {
+            "name": "Телефоны RITMIX",
+            "children": []
+        },
+        {
+            "name": "Калькуляторы",
+            "children": []
+        },
+        {
+            "name": "Шлифмашины DeWalt",
+            "children": []
+        },
+        {
+            "name": "Кресла, Стулья Метта",
+            "children": []
+        },
+        {
+            "name": "Кресла, Стулья прочие",
+            "children": []
+        },
+        {
+            "name": "Ударопрочные шкафы DKC",
+            "children": []
+        },
+        {
+            "name": "Коммуникаторы и смартфоны ASUS",
+            "children": []
+        },
+        {
+            "name": "Оригинальные аксессуары Samsung",
+            "children": []
+        },
+        {
+            "name": "HDD боксы/кредлы/шасси AgeStar",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы CET",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы Hi-Black",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы InkTec",
+            "children": []
+        },
+        {
+            "name": "Измерительная техника Bosch",
+            "children": []
+        },
+        {
+            "name": "Измерительная техника Ресанта",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы NV-Print",
+            "children": []
+        },
+        {
+            "name": "Светодиодные лампы GX53",
+            "children": [
+                {
+                    "name": "Бритвы/Триммеры Panasonic",
+                    "children": []
+                },
+                {
+                    "name": "Бритвы/Триммеры Philips",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Светодиодные лампы MR16 GU10",
+            "children": []
+        },
+        {
+            "name": "Светодиодные панели",
+            "children": []
+        },
+        {
+            "name": "Игр. манипуляторы ThrustMaster",
+            "children": []
+        },
+        {
+            "name": "Товары для умного дома Aqara",
+            "children": []
+        },
+        {
+            "name": "Товары для умного дома Digma",
+            "children": []
+        },
+        {
+            "name": "Садовые светильники",
+            "children": []
+        },
+        {
+            "name": "Принтеры и МФУ hp",
+            "children": []
+        },
+        {
+            "name": "Электронные книги прочие",
+            "children": []
+        },
+        {
+            "name": "Велоаксессуары и велозапчасти",
+            "children": []
+        },
+        {
+            "name": "Предметы личной гигиены",
+            "children": []
+        },
+        {
+            "name": "Терминалы сбора данных",
+            "children": []
+        },
+        {
+            "name": "Радары/датчики/камеры парковки",
+            "children": []
+        },
+        {
+            "name": "Щётки стеклоочистителя",
+            "children": []
+        },
+        {
+            "name": "Наборы инструментов",
+            "children": []
+        },
+        {
+            "name": "Кабели/ переходники USB",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы Brother (оригинал)",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы Toshiba (оригинал)",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы Xerox (оригинал)",
+            "children": []
+        },
+        {
+            "name": "Зимние товары",
+            "children": []
+        },
+        {
+            "name": "Кабели/переходники прочие",
+            "children": []
+        },
+        {
+            "name": "Медицинская техника",
+            "children": []
+        },
+        {
+            "name": "Швейные машины Singer",
+            "children": []
+        },
+        {
+            "name": "Весы напольные Supra",
+            "children": []
+        },
+        {
+            "name": "Утюги Scarlett",
+            "children": []
+        },
+        {
+            "name": "Чайники Bosch",
+            "children": []
+        },
+        {
+            "name": "Чайники прочие",
+            "children": []
+        },
+        {
+            "name": "Вакуумная упаковка",
+            "children": []
+        },
+        {
+            "name": "Весы кухонные",
+            "children": []
+        },
+        {
+            "name": "Кастрюли и ковши",
+            "children": []
+        },
+        {
+            "name": "Сковородки и воки",
+            "children": []
+        },
+        {
+            "name": "Газонокосилки Gardena",
+            "children": []
+        },
+        {
+            "name": "VoIP/Skype оборудование",
+            "children": []
+        },
+        {
+            "name": "Садовые инструменты Ресанта",
+            "children": []
+        },
+        {
+            "name": "Устр-ва управления/контроля DKC",
+            "children": []
+        },
+        {
+            "name": "Шкафы DKC из фибергласа",
+            "children": []
+        },
+        {
+            "name": "Электронные компоненты",
+            "children": []
+        },
+        {
+            "name": "Аккумуляторы для инструмента",
+            "children": []
+        },
+        {
+            "name": "Дрели Вихрь",
+            "children": []
+        },
+        {
+            "name": "Дрели ЗУБР",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы Kyocera (оригинал)",
+            "children": [
+                {
+                    "name": "ЖК телевизоры TELEFUNKEN",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Измерительные приборы прочие",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы Lexmark (оригинал)",
+            "children": []
+        },
+        {
+            "name": "Мини-мойки Bosch",
+            "children": []
+        },
+        {
+            "name": "Мини-мойки Huter",
+            "children": []
+        },
+        {
+            "name": "Мини-мойки Karcher",
+            "children": []
+        },
+        {
+            "name": "Мини-мойки Ресанта",
+            "children": []
+        },
+        {
+            "name": "Рубанки Bosch",
+            "children": []
+        },
+        {
+            "name": "Проверенные практикой",
+            "children": []
+        },
+        {
+            "name": "Серверные аксессуары Lenovo",
+            "children": []
+        },
+        {
+            "name": "Моноблоки DELL",
+            "children": []
+        },
+        {
+            "name": "Моноблоки Lenovo",
+            "children": []
+        },
+        {
+            "name": "SSD PNY",
+            "children": []
+        },
+        {
+            "name": "Вытяжки BEKO",
+            "children": []
+        },
+        {
+            "name": "Моноблоки MSI",
+            "children": []
+        },
+        {
+            "name": "Рубанки Makita",
+            "children": []
+        },
+        {
+            "name": "Технические фены прочие",
+            "children": []
+        },
+        {
+            "name": "Ноутбуки GIGABYTE",
+            "children": []
+        },
+        {
+            "name": "УШМ и штроборезы Bort",
+            "children": []
+        },
+        {
+            "name": "УШМ и штроборезы Bosch",
+            "children": []
+        },
+        {
+            "name": "Фрезеры Makita",
+            "children": [
+                {
+                    "name": "Кофеварки Polaris",
+                    "children": []
+                },
+                {
+                    "name": "Чайники Philips",
+                    "children": []
+                },
+                {
+                    "name": "Вытяжки Elikor",
+                    "children": []
+                },
+                {
+                    "name": "Мыши ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "Смартфоны REALME",
+                    "children": []
+                },
+                {
+                    "name": "Блендеры Philips",
+                    "children": []
+                },
+                {
+                    "name": "Кофеварки DeLonghi",
+                    "children": []
+                },
+                {
+                    "name": "Миксеры Bosch",
+                    "children": []
+                },
+                {
+                    "name": "Водонагреватели Gorenje",
+                    "children": []
+                },
+                {
+                    "name": "Стиральные машины Samsung",
+                    "children": []
+                },
+                {
+                    "name": "Пылесосы Polaris",
+                    "children": []
+                },
+                {
+                    "name": "Мыши QUMO",
+                    "children": []
+                },
+                {
+                    "name": "Колонки Ginzzu",
+                    "children": []
+                },
+                {
+                    "name": "Корпуса Winard/Qori",
+                    "children": []
+                },
+                {
+                    "name": "Корпуса PHANTEKS",
+                    "children": []
+                },
+                {
+                    "name": "Миксеры Kitfort",
+                    "children": []
+                },
+                {
+                    "name": "Миксеры Starwind",
+                    "children": []
+                },
+                {
+                    "name": "Чайники Polaris",
+                    "children": []
+                },
+                {
+                    "name": "Холодильники Атлант",
+                    "children": []
+                },
+                {
+                    "name": "Пылесосы Gorenje",
+                    "children": []
+                },
+                {
+                    "name": "SSD Patriot",
+                    "children": []
+                },
+                {
+                    "name": "Утюги Gorenje",
+                    "children": []
+                },
+                {
+                    "name": "Стиральные машины Hansa",
+                    "children": []
+                },
+                {
+                    "name": "Фены/Щипцы/Выпрямители Philips",
+                    "children": []
+                },
+                {
+                    "name": "Шуруповерты Bort ",
+                    "children": []
+                },
+                {
+                    "name": "Модули памяти QUMO",
+                    "children": []
+                },
+                {
+                    "name": "Кофеварки Philips",
+                    "children": []
+                },
+                {
+                    "name": "Холодильники Sharp",
+                    "children": []
+                },
+                {
+                    "name": "USB Flash Drive DATO",
+                    "children": []
+                },
+                {
+                    "name": "Блоки питания SeaSonic",
+                    "children": []
+                },
+                {
+                    "name": "Блендеры Bosch",
+                    "children": []
+                },
+                {
+                    "name": "Варочные панели Bosch",
+                    "children": []
+                },
+                {
+                    "name": "Мясорубки Polaris",
+                    "children": []
+                },
+                {
+                    "name": "Строительные пылесосы Bosch",
+                    "children": []
+                },
+                {
+                    "name": "УШМ и штроборезы METABO",
+                    "children": []
+                },
+                {
+                    "name": "Мультиварки Philips",
+                    "children": []
+                },
+                {
+                    "name": "Фены/Щипцы/Выпрямители Panasonic",
+                    "children": []
+                },
+                {
+                    "name": "Весы напольные прочие",
+                    "children": []
+                },
+                {
+                    "name": "Холодильники Саратов",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Ноутбуки HP/Compaq",
+            "children": []
+        },
+        {
+            "name": "Материнские платы INTEL",
+            "children": []
+        },
+        {
+            "name": "Процессоры INTEL",
+            "children": []
+        },
+        {
+            "name": "Сумки для ноутбуков Defender",
+            "children": []
+        },
+        {
+            "name": "Расходные материалы прочие",
+            "children": []
+        },
+        {
+            "name": "Пневмоинструменты Patriot",
+            "children": []
+        },
+        {
+            "name": "Пневмоинструменты прочие",
+            "children": []
+        },
+        {
+            "name": "Сварочное оборудование ЗУБР",
+            "children": []
+        },
+        {
+            "name": "Сварочное оборудование Ресанта",
+            "children": []
+        },
+        {
+            "name": "Прочий инструмент Patriot",
+            "children": []
+        },
+        {
+            "name": "Прочий инструмент Ресанта",
+            "children": []
+        },
+        {
+            "name": "Защита труда",
+            "children": []
+        },
+        {
+            "name": "Продукты 1С",
+            "children": []
+        },
+        {
+            "name": "Продукты Microsoft",
+            "children": []
+        },
+        {
+            "name": "Карты SD Qumo",
+            "children": []
+        },
+        {
+            "name": "Мультимедиа / Разное",
+            "children": []
+        },
+        {
+            "name": "Конструкторы LEGO",
+            "children": []
+        },
+        {
+            "name": "Духовые шкафы Candy",
+            "children": []
+        },
+        {
+            "name": "Планшеты прочие",
+            "children": []
+        },
+        {
+            "name": "Кулеры Aerocool ",
+            "children": []
+        },
+        {
+            "name": "Модули памяти Geil",
+            "children": []
+        },
+        {
+            "name": "Внешние HDD Western Digital",
+            "children": []
+        },
+        {
+            "name": "Внешние HDD боксы/кредлы Orient",
+            "children": []
+        },
+        {
+            "name": "Дисководы",
+            "children": []
+        },
+        {
+            "name": "Массажеры",
+            "children": []
+        },
+        {
+            "name": "Товары для отдыха у воды ",
+            "children": []
+        },
+        {
+            "name": "Велосипед детский",
+            "children": []
+        },
+        {
+            "name": "Грили, мангалы, коптильни",
+            "children": []
+        },
+        {
+            "name": "Сейфы",
+            "children": []
+        },
+        {
+            "name": "Офисная эргономика",
+            "children": []
+        },
+        {
+            "name": "Кресла, Стулья Бюрократ",
+            "children": []
+        },
+        {
+            "name": "Мыши CANYON",
+            "children": [
+                {
+                    "name": "Стиральные машины WHIRLPOOL",
+                    "children": []
+                },
+                {
+                    "name": "Серверные аксессуары HP",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Кресла Cooler Master",
+            "children": []
+        },
+        {
+            "name": "Кресла Everprof",
+            "children": []
+        },
+        {
+            "name": "Процессоры AMD",
+            "children": []
+        },
+        {
+            "name": "Кулеры Thermaltake",
+            "children": []
+        },
+        {
+            "name": "Кулеры 5bites",
+            "children": []
+        },
+        {
+            "name": "Кулеры SilverStone ",
+            "children": []
+        },
+        {
+            "name": "Видеокарты Palit",
+            "children": []
+        },
+        {
+            "name": "Аксессуары Procase к HDD",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование UBIQUITI",
+            "children": []
+        },
+        {
+            "name": "Кулеры",
+            "children": []
+        },
+        {
+            "name": "Модули памяти Crucial",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети ASUS",
+            "children": []
+        },
+        {
+            "name": "Колонки Яндекс",
+            "children": []
+        },
+        {
+            "name": "Наушники Microsoft",
+            "children": []
+        },
+        {
+            "name": "Принтеры печати этикеток Epson",
+            "children": []
+        },
+        {
+            "name": "Модули памяти Silicon Power",
+            "children": []
+        },
+        {
+            "name": "Колонки OKLICK",
+            "children": []
+        },
+        {
+            "name": "Решетки-гриль",
+            "children": []
+        },
+        {
+            "name": "Сканеры штрих-кода",
+            "children": []
+        },
+        {
+            "name": "Модули памяти NCP",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети Alcatel",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети HP",
+            "children": []
+        },
+        {
+            "name": "Микрокомпьютеры",
+            "children": []
+        },
+        {
+            "name": "Ручки, Кнопки, Флажки, Рычаги",
+            "children": []
+        },
+        {
+            "name": "SSD ExeGate",
+            "children": []
+        },
+        {
+            "name": "Роботы",
+            "children": []
+        },
+        {
+            "name": "Самокаты детские",
+            "children": []
+        },
+        {
+            "name": "Корпуса Powercase",
+            "children": []
+        },
+        {
+            "name": "Ремкомплекты, Комплекты обслуж",
+            "children": []
+        },
+        {
+            "name": "Ремни, Ленты позиционирования",
+            "children": []
+        },
+        {
+            "name": "Процессоры прочие",
+            "children": []
+        },
+        {
+            "name": "Компьютеры Apple",
+            "children": []
+        },
+        {
+            "name": "Компьютеры прочие",
+            "children": []
+        },
+        {
+            "name": "Оргтехника Brother",
+            "children": []
+        },
+        {
+            "name": "Кресла A4Tech",
+            "children": []
+        },
+        {
+            "name": "Кресла Aerocool",
+            "children": []
+        },
+        {
+            "name": "Автомобильные БП, ЗУ, инверторы",
+            "children": []
+        },
+        {
+            "name": "Отвертки, пассатижи",
+            "children": []
+        },
+        {
+            "name": "Домкраты",
+            "children": []
+        },
+        {
+            "name": "Варочные панели Gorenje",
+            "children": []
+        },
+        {
+            "name": "Краски, Мел, Пластилин, Фломасте",
+            "children": []
+        },
+        {
+            "name": "Кулеры для воды",
+            "children": []
+        },
+        {
+            "name": "Варочные панели Electrolux",
+            "children": []
+        },
+        {
+            "name": "Варочные панели Indesit",
+            "children": []
+        },
+        {
+            "name": "Варочные панели Korting",
+            "children": []
+        },
+        {
+            "name": "Варочные панели OASIS",
+            "children": []
+        },
+        {
+            "name": "Варочные панели прочие",
+            "children": []
+        },
+        {
+            "name": "Водонагреватели Electrolux",
+            "children": []
+        },
+        {
+            "name": "Водонагреватели Haier",
+            "children": []
+        },
+        {
+            "name": "Водонагреватели Timberk",
+            "children": []
+        },
+        {
+            "name": "Водонагреватели прочие",
+            "children": []
+        },
+        {
+            "name": "Вытяжки Bosch",
+            "children": []
+        },
+        {
+            "name": "Вытяжки Gefest",
+            "children": []
+        },
+        {
+            "name": "Пылесосы Xiaomi",
+            "children": []
+        },
+        {
+            "name": "Вытяжки Hansa",
+            "children": []
+        },
+        {
+            "name": "Вытяжки Korting",
+            "children": []
+        },
+        {
+            "name": "Вытяжки прочие",
+            "children": []
+        },
+        {
+            "name": "Духовые шкафы Bosch",
+            "children": []
+        },
+        {
+            "name": "Посудомойки Korting",
+            "children": []
+        },
+        {
+            "name": "Аксессуары и запч. климат. техн.",
+            "children": []
+        },
+        {
+            "name": "Духовые шкафы Gefest",
+            "children": []
+        },
+        {
+            "name": "Духовые шкафы Korting",
+            "children": []
+        },
+        {
+            "name": "Посудомойки Electrolux",
+            "children": []
+        },
+        {
+            "name": "Посудомойки Hotpoint-Ariston",
+            "children": []
+        },
+        {
+            "name": "Увлажнители и ароматизаторы",
+            "children": []
+        },
+        {
+            "name": "Вентиляторы напол. и настол.",
+            "children": []
+        },
+        {
+            "name": "Кондиционеры и сплит-системы",
+            "children": []
+        },
+        {
+            "name": "Стиральные машины прочие",
+            "children": []
+        },
+        {
+            "name": "Корпуса GINZZU",
+            "children": []
+        },
+        {
+            "name": "Корпуса Procase",
+            "children": []
+        },
+        {
+            "name": "Корпуса PowerCool",
+            "children": []
+        },
+        {
+            "name": "Корпуса SuperMicro",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование Supermicro",
+            "children": []
+        },
+        {
+            "name": "Кабель в бухтах",
+            "children": []
+        },
+        {
+            "name": "Кабельные каналы",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы BenQ",
+            "children": []
+        },
+        {
+            "name": "Корпуса Cooler Master",
+            "children": []
+        },
+        {
+            "name": "Фильтры и стабилизаторы Ippon",
+            "children": []
+        },
+        {
+            "name": "Фильтры и стабилизаторы PowerCom",
+            "children": [
+                {
+                    "name": "Холодильники Nord",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "ЖК телевизоры DIGMA",
+            "children": []
+        },
+        {
+            "name": "Проекторы BenQ",
+            "children": []
+        },
+        {
+            "name": "Проекторы InFocus",
+            "children": []
+        },
+        {
+            "name": "Проекторы Optoma",
+            "children": []
+        },
+        {
+            "name": "Проекторы прочие",
+            "children": []
+        },
+        {
+            "name": "Смартфоны, моб.телефоны Samsung",
+            "children": []
+        },
+        {
+            "name": "Стиральные машины АТЛАНТ",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы Samsung (оригинал)",
+            "children": []
+        },
+        {
+            "name": "Термопоты",
+            "children": []
+        },
+        {
+            "name": "Блендеры Kitfort",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы Apple",
+            "children": []
+        },
+        {
+            "name": "Чехлы коммуникаторов, смартфонов",
+            "children": []
+        },
+        {
+            "name": "Наушники SVEN",
+            "children": []
+        },
+        {
+            "name": "GPS приемники",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы EasyPrint",
+            "children": []
+        },
+        {
+            "name": "СВЧ-печи Sharp",
+            "children": []
+        },
+        {
+            "name": "Фены/Щипцы/Выпрямители Scarlett",
+            "children": []
+        },
+        {
+            "name": "Мультиварки прочие",
+            "children": []
+        },
+        {
+            "name": "Мясорубки прочие",
+            "children": []
+        },
+        {
+            "name": "Пылесосы BBK",
+            "children": []
+        },
+        {
+            "name": "Пылесосы Bosch",
+            "children": []
+        },
+        {
+            "name": "СВЧ-печи Galanz",
+            "children": []
+        },
+        {
+            "name": "СВЧ-печи Gorenje",
+            "children": []
+        },
+        {
+            "name": "СВЧ-печи Korting",
+            "children": []
+        },
+        {
+            "name": "СВЧ-печи Samsung",
+            "children": []
+        },
+        {
+            "name": "Электрические зубные щетки",
+            "children": []
+        },
+        {
+            "name": "Тостеры/Сэндвичницы Gorenje",
+            "children": []
+        },
+        {
+            "name": "Тостеры/Сэндвичницы Philips",
+            "children": []
+        },
+        {
+            "name": "Тостеры/Сэндвичницы Redmond",
+            "children": []
+        },
+        {
+            "name": "Чайники Scarlett",
+            "children": []
+        },
+        {
+            "name": "Кухонная техника и электроника",
+            "children": []
+        },
+        {
+            "name": "Поливочное оборудование ",
+            "children": []
+        },
+        {
+            "name": "Газонокосилки Bosch",
+            "children": []
+        },
+        {
+            "name": "Газонокосилки Patriot",
+            "children": []
+        },
+        {
+            "name": "Газонокосилки ЗУБР",
+            "children": []
+        },
+        {
+            "name": "Газонокосилки Ресанта ",
+            "children": []
+        },
+        {
+            "name": "Газонокосилки прочие",
+            "children": []
+        },
+        {
+            "name": "Воздуходувки Bort",
+            "children": []
+        },
+        {
+            "name": "Генераторы Patriot ",
+            "children": []
+        },
+        {
+            "name": "Генераторы ЗУБР",
+            "children": []
+        },
+        {
+            "name": "Генераторы прочие",
+            "children": []
+        },
+        {
+            "name": "Apple iPhone",
+            "children": []
+        },
+        {
+            "name": "Мотоблоки и Культиваторы Patriot",
+            "children": []
+        },
+        {
+            "name": "Датчики, концевые выкл. Прочие",
+            "children": []
+        },
+        {
+            "name": "Моторное оборудование Schneider",
+            "children": []
+        },
+        {
+            "name": "Моторное оборудование прочее",
+            "children": []
+        },
+        {
+            "name": "Розетки и выключатели Legrand",
+            "children": []
+        },
+        {
+            "name": "Розетки и выключатели прочие",
+            "children": []
+        },
+        {
+            "name": "Дрели Ресанта",
+            "children": []
+        },
+        {
+            "name": "Отбойные молотки Makita",
+            "children": []
+        },
+        {
+            "name": "Перфораторы DeWalt",
+            "children": []
+        },
+        {
+            "name": "Перфораторы Makita",
+            "children": []
+        },
+        {
+            "name": "Перфораторы Вихрь",
+            "children": []
+        },
+        {
+            "name": "Перфораторы ЗУБР",
+            "children": []
+        },
+        {
+            "name": "Перфораторы прочие",
+            "children": []
+        },
+        {
+            "name": "Пилы и лобзики Bort",
+            "children": []
+        },
+        {
+            "name": "Пилы и лобзики Bosch",
+            "children": []
+        },
+        {
+            "name": "Пилы и лобзики Patriot",
+            "children": []
+        },
+        {
+            "name": "Пилы и лобзики ЗУБР",
+            "children": []
+        },
+        {
+            "name": "Рубанки Patriot",
+            "children": []
+        },
+        {
+            "name": "Рубанки Ресанта",
+            "children": []
+        },
+        {
+            "name": "Обогреватели DKC",
+            "children": []
+        },
+        {
+            "name": "Строительные пылесосы Bort",
+            "children": []
+        },
+        {
+            "name": "Шуруповерты ЗУБР",
+            "children": []
+        },
+        {
+            "name": "Шуруповерты и гайковерты Ресанта",
+            "children": []
+        },
+        {
+            "name": "УШМ и штроборезы Makita",
+            "children": []
+        },
+        {
+            "name": "Фрезеры Bosch",
+            "children": []
+        },
+        {
+            "name": "Фрезеры Patriot",
+            "children": []
+        },
+        {
+            "name": "Шуруповерты и гайковерты прочие",
+            "children": []
+        },
+        {
+            "name": "Сумки для ноутбуков Targus",
+            "children": []
+        },
+        {
+            "name": "Расходные материалы Makita",
+            "children": []
+        },
+        {
+            "name": "Фрезеры прочие",
+            "children": []
+        },
+        {
+            "name": "Цепные пилы Huter",
+            "children": []
+        },
+        {
+            "name": "Шлифмашины Makita",
+            "children": []
+        },
+        {
+            "name": "Шлифмашины Patriot",
+            "children": []
+        },
+        {
+            "name": "SSD Transcend",
+            "children": []
+        },
+        {
+            "name": "Аксессуары прочие к HDD",
+            "children": []
+        },
+        {
+            "name": "Контроллеры Espada",
+            "children": []
+        },
+        {
+            "name": "Контроллеры Intel",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование Brocade",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование Orient",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети TP-Link",
+            "children": []
+        },
+        {
+            "name": "Кабель в бухтах силовой",
+            "children": []
+        },
+        {
+            "name": "Розетки, коннекторы",
+            "children": []
+        },
+        {
+            "name": "Трубы электротехнические",
+            "children": []
+        },
+        {
+            "name": "Мыши прочие",
+            "children": []
+        },
+        {
+            "name": "Графические планшеты",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры Exegate",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры Genius",
+            "children": []
+        },
+        {
+            "name": "Видеокарты USB",
+            "children": []
+        },
+        {
+            "name": "Приятные мелочи",
+            "children": []
+        },
+        {
+            "name": "Канцтовары",
+            "children": []
+        },
+        {
+            "name": "Модули памяти BrandName",
+            "children": []
+        },
+        {
+            "name": "Наушники JET.A",
+            "children": []
+        },
+        {
+            "name": "Индивидуальные средства защиты",
+            "children": []
+        },
+        {
+            "name": "Райзеры",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети Edimax",
+            "children": []
+        },
+        {
+            "name": "Копировальные аппараты Toshiba",
+            "children": []
+        },
+        {
+            "name": "Бытовая химия",
+            "children": []
+        },
+        {
+            "name": "Чистящие средства",
+            "children": []
+        },
+        {
+            "name": "Контроль доступа и мониторинг",
+            "children": []
+        },
+        {
+            "name": "Детская литература",
+            "children": []
+        },
+        {
+            "name": "Холодильники Liebherr",
+            "children": []
+        },
+        {
+            "name": "Холодильники Samsung",
+            "children": []
+        },
+        {
+            "name": "Холодильники Stinol",
+            "children": []
+        },
+        {
+            "name": "Холодильники прочие",
+            "children": []
+        },
+        {
+            "name": "Стиральные машины BOSCH",
+            "children": []
+        },
+        {
+            "name": "Стиральные машины ELECTROLUX",
+            "children": []
+        },
+        {
+            "name": "Термосумки",
+            "children": []
+        },
+        {
+            "name": "Термосы",
+            "children": []
+        },
+        {
+            "name": "Бритвы/Триммеры Polaris",
+            "children": []
+        },
+        {
+            "name": "Бритвы/Триммеры Scarlett",
+            "children": []
+        },
+        {
+            "name": "Бритвы/Триммеры Wahl",
+            "children": []
+        },
+        {
+            "name": "Швейные машины прочие",
+            "children": []
+        },
+        {
+            "name": "Корпусные запчасти, Панели упр",
+            "children": []
+        },
+        {
+            "name": "Станции парковки, Головки",
+            "children": []
+        },
+        {
+            "name": "Тормозные площадки",
+            "children": []
+        },
+        {
+            "name": "Мясорубки Kitfort",
+            "children": []
+        },
+        {
+            "name": "Мясорубки Scarlett",
+            "children": []
+        },
+        {
+            "name": "Мясорубки Ротор",
+            "children": []
+        },
+        {
+            "name": "Пылесосы Karcher",
+            "children": []
+        },
+        {
+            "name": "Кофеварки прочие",
+            "children": [
+                {
+                    "name": "Пылесосы Supra",
+                    "children": []
+                },
+                {
+                    "name": "Тостеры/Сэндвичницы GFGRIL",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Экраны для проекторов Lumien ",
+            "children": [
+                {
+                    "name": "Часы CENTEK",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Тостеры/Сэндвичницы Bosch",
+            "children": []
+        },
+        {
+            "name": "Утюги Panasonic",
+            "children": []
+        },
+        {
+            "name": "Утюги Philips",
+            "children": []
+        },
+        {
+            "name": "Утюги прочие",
+            "children": []
+        },
+        {
+            "name": "Фены/Щипцы/Выпрямители Redmond",
+            "children": []
+        },
+        {
+            "name": "Фены/Щипцы/Выпрямители Sinbo",
+            "children": []
+        },
+        {
+            "name": "Фены/Щипцы/Выпрямители Supra",
+            "children": [
+                {
+                    "name": "Садовые насосы ЗУБР",
+                    "children": []
+                },
+                {
+                    "name": "Перфораторы Ресанта",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Садовые насосы Джилекс",
+            "children": []
+        },
+        {
+            "name": "Модули памяти Acer",
+            "children": []
+        },
+        {
+            "name": "Часы Irit",
+            "children": []
+        },
+        {
+            "name": "Электроинструмент прочий",
+            "children": []
+        },
+        {
+            "name": "Часы Topposters",
+            "children": []
+        },
+        {
+            "name": "Часы Тройка",
+            "children": []
+        },
+        {
+            "name": "Шлифмашины Bort",
+            "children": []
+        },
+        {
+            "name": "Заклепочники степлеры",
+            "children": []
+        },
+        {
+            "name": "Измерительный инструмент",
+            "children": []
+        },
+        {
+            "name": "Часы Energy",
+            "children": []
+        },
+        {
+            "name": "Инструмент по кафелю и стеклу",
+            "children": []
+        },
+        {
+            "name": "Ленты пленки сетки",
+            "children": []
+        },
+        {
+            "name": "Ножи технические",
+            "children": [
+                {
+                    "name": "Крепеж",
+                    "children": []
+                },
+                {
+                    "name": "Шуруповерты Вихрь",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Сантехника",
+            "children": []
+        },
+        {
+            "name": "Аккумуляторы к телефонам",
+            "children": []
+        },
+        {
+            "name": "Аккумуляторы и ЗУ для АКБ",
+            "children": []
+        },
+        {
+            "name": "Хозтовары",
+            "children": []
+        },
+        {
+            "name": "Теплый пол, греющий каб. и проч.",
+            "children": []
+        },
+        {
+            "name": "УШМ и штроборезы Вихрь",
+            "children": []
+        },
+        {
+            "name": "УШМ и штроборезы Ресанта ",
+            "children": []
+        },
+        {
+            "name": "Кресла Sharkoon",
+            "children": []
+        },
+        {
+            "name": "Кресла WARP",
+            "children": []
+        },
+        {
+            "name": "Принтеры и МФУ Lexmark",
+            "children": []
+        },
+        {
+            "name": "Фильтры и стабилизаторы APC",
+            "children": []
+        },
+        {
+            "name": "Фильтры и стабилизаторы SVEN",
+            "children": []
+        },
+        {
+            "name": "Фотоаппараты Sony",
+            "children": []
+        },
+        {
+            "name": "Карты SD SmartBuy",
+            "children": []
+        },
+        {
+            "name": "Блоки питания GINZZU",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование HP/3com",
+            "children": []
+        },
+        {
+            "name": "Шкафы напольные",
+            "children": []
+        },
+        {
+            "name": "Веб-камеры CBR",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры Bloody",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры Defender",
+            "children": []
+        },
+        {
+            "name": "Игровые манипуляторы Dialog",
+            "children": []
+        },
+        {
+            "name": "Наушники 1More",
+            "children": []
+        },
+        {
+            "name": "Блоки питания ASUS",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы ДЛЯ HP",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы ДЛЯ Lexmark",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы ДЛЯ Samsung",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы прочие",
+            "children": []
+        },
+        {
+            "name": "Прочий инструмент DeWalt",
+            "children": []
+        },
+        {
+            "name": "Серверы HP",
+            "children": []
+        },
+        {
+            "name": "Прочие кухонные принадлежности",
+            "children": []
+        },
+        {
+            "name": "Генераторы Huter ",
+            "children": []
+        },
+        {
+            "name": "Винчестеры HGST",
+            "children": []
+        },
+        {
+            "name": "Серверные платформы SNR",
+            "children": []
+        },
+        {
+            "name": "Тостеры/Сэндвичницы BBK",
+            "children": []
+        },
+        {
+            "name": "Тостеры/Сэндвичницы Kitfort",
+            "children": []
+        },
+        {
+            "name": "Тостеры/Сэндвичницы прочие",
+            "children": []
+        },
+        {
+            "name": "Утюги Polaris",
+            "children": []
+        },
+        {
+            "name": "Датчики, концевые вык. Schneider",
+            "children": []
+        },
+        {
+            "name": "Пилы и лобзики METABO",
+            "children": []
+        },
+        {
+            "name": "Док-станции USB Type C",
+            "children": []
+        },
+        {
+            "name": "Переключатели KVM ATEN",
+            "children": []
+        },
+        {
+            "name": "Одежда",
+            "children": []
+        },
+        {
+            "name": "Гироскутеры",
+            "children": []
+        },
+        {
+            "name": "Мыши Microsoft",
+            "children": []
+        },
+        {
+            "name": "УШМ и штроборезы DeWalt ",
+            "children": []
+        },
+        {
+            "name": "Аксессуары для проекторов",
+            "children": []
+        },
+        {
+            "name": "Прочий инструмент Bort",
+            "children": []
+        },
+        {
+            "name": "Прочий инструмент Bosch",
+            "children": []
+        },
+        {
+            "name": "Прочий инструмент METABO",
+            "children": []
+        },
+        {
+            "name": "Серверы Rikor",
+            "children": []
+        },
+        {
+            "name": "USB Flash Drive Kingston",
+            "children": []
+        },
+        {
+            "name": "Стиральные машины Indesit",
+            "children": []
+        },
+        {
+            "name": "Шлифмашины BLACK+DECKER",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование Acorp",
+            "children": []
+        },
+        {
+            "name": "Фены/Щипцы/Выпрямители BBK",
+            "children": []
+        },
+        {
+            "name": "Мини-мойки прочие",
+            "children": []
+        },
+        {
+            "name": "Холодильники Gorenje",
+            "children": []
+        },
+        {
+            "name": "Миксеры прочие",
+            "children": [
+                {
+                    "name": "Чайники Starwind",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Мультиварки Polaris",
+            "children": []
+        },
+        {
+            "name": "Веб-камеры Microsoft LifeCam",
+            "children": []
+        },
+        {
+            "name": "Ноутбуки DELL",
+            "children": []
+        },
+        {
+            "name": "Снегоуборщики Huter",
+            "children": []
+        },
+        {
+            "name": "Компьютеры НИКС для игроков",
+            "children": []
+        },
+        {
+            "name": "Медиаплееры HD/HDTV LUMAX",
+            "children": []
+        },
+        {
+            "name": "Светодиодные лампы MR16 GU5.3",
+            "children": []
+        },
+        {
+            "name": "Уцененный товар",
+            "children": []
+        },
+        {
+            "name": "Столярно-слесарный инструмент ",
+            "children": []
+        },
+        {
+            "name": "Разветвители и конвертеры видеос",
+            "children": []
+        },
+        {
+            "name": "Блендеры Braun",
+            "children": []
+        },
+        {
+            "name": "Детское программирование",
+            "children": []
+        },
+        {
+            "name": "Кофеварки Kitfort",
+            "children": []
+        },
+        {
+            "name": "Корпуса Fractal Design",
+            "children": []
+        },
+        {
+            "name": "Наушники Apple Beats",
+            "children": []
+        },
+        {
+            "name": "Модули памяти Neo Forza",
+            "children": []
+        },
+        {
+            "name": "SSD Acer",
+            "children": []
+        },
+        {
+            "name": "Колонки A4-Tech",
+            "children": []
+        },
+        {
+            "name": "Колонки Gembird",
+            "children": []
+        },
+        {
+            "name": "IP-камеры Dahua",
+            "children": []
+        },
+        {
+            "name": "IP-камеры UBIQUITI",
+            "children": []
+        },
+        {
+            "name": "IP-камеры Xiaomi",
+            "children": []
+        },
+        {
+            "name": "Корпуса DeepCool",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование TENDA",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование TP-Link",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети Cisco Linksys",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети Mercusys",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети TENDA",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети Xiaomi",
+            "children": []
+        },
+        {
+            "name": "Аккумуляторные шкафы и стойки",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы ExeGate",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы MSI",
+            "children": []
+        },
+        {
+            "name": "Лотки, Кассеты",
+            "children": []
+        },
+        {
+            "name": "Направляющие",
+            "children": []
+        },
+        {
+            "name": "Редукторы, Узлы, Приводы",
+            "children": []
+        },
+        {
+            "name": "Шлейфы",
+            "children": []
+        },
+        {
+            "name": "Фильтры и стабилизаторы Powerman",
+            "children": []
+        },
+        {
+            "name": "Фильтры и стабилизаторы ZIS",
+            "children": []
+        },
+        {
+            "name": "Портативные аккумуляторы CANYON ",
+            "children": [
+                {
+                    "name": "Серверы Huawei",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Проекторы NEC",
+            "children": []
+        },
+        {
+            "name": "Умные часы",
+            "children": []
+        },
+        {
+            "name": "Электронные книги Digma",
+            "children": []
+        },
+        {
+            "name": "Компоненты для Raspberry Pi",
+            "children": []
+        },
+        {
+            "name": "Колонки ELTRONIC",
+            "children": []
+        },
+        {
+            "name": "Мультиметры",
+            "children": []
+        },
+        {
+            "name": "Строительные пылесосы ЗУБР",
+            "children": []
+        },
+        {
+            "name": "Технические фены Bort",
+            "children": []
+        },
+        {
+            "name": "Технические фены Bosch",
+            "children": []
+        },
+        {
+            "name": "Технические фены Makita",
+            "children": []
+        },
+        {
+            "name": "Технические фены Patriot",
+            "children": []
+        },
+        {
+            "name": "USB Flash Drive Samsung",
+            "children": []
+        },
+        {
+            "name": "Светодиодные прожекторы",
+            "children": []
+        },
+        {
+            "name": "Кулеры Thermalright",
+            "children": []
+        },
+        {
+            "name": "Кулеры BE QUIET",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры CANYON",
+            "children": []
+        },
+        {
+            "name": "Проекторы Acer",
+            "children": []
+        },
+        {
+            "name": "Модули памяти SAMSUNG",
+            "children": []
+        },
+        {
+            "name": "Серверы прочие",
+            "children": []
+        },
+        {
+            "name": "ЦОД под ключ",
+            "children": []
+        },
+        {
+            "name": "Сотовые телефоны ALCATEL",
+            "children": []
+        },
+        {
+            "name": "Контроллеры ExeGate",
+            "children": []
+        },
+        {
+            "name": "Моторы, Двигатели",
+            "children": []
+        },
+        {
+            "name": "Платы форматирования",
+            "children": []
+        },
+        {
+            "name": "Духовые шкафы Beko",
+            "children": []
+        },
+        {
+            "name": "Колонки Edifier",
+            "children": []
+        },
+        {
+            "name": "Видеокарты Afox",
+            "children": []
+        },
+        {
+            "name": "Кулеры Exegate",
+            "children": []
+        },
+        {
+            "name": "SSD Seagate",
+            "children": []
+        },
+        {
+            "name": "Кофеварки BEKO",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы OKI (оригинал)",
+            "children": []
+        },
+        {
+            "name": "Мыши Redragon",
+            "children": []
+        },
+        {
+            "name": "Климатическая техника Oasis",
+            "children": []
+        },
+        {
+            "name": "Чайники Supra",
+            "children": []
+        },
+        {
+            "name": "Рубанки Bort",
+            "children": []
+        },
+        {
+            "name": "Тонкие клиенты",
+            "children": []
+        },
+        {
+            "name": "Светодиодные модули",
+            "children": []
+        },
+        {
+            "name": "Генераторы Ресанта",
+            "children": []
+        },
+        {
+            "name": "Детские автокресла и аксессуары",
+            "children": []
+        },
+        {
+            "name": "СВЧ-печи Supra",
+            "children": []
+        },
+        {
+            "name": "Кабели силовые",
+            "children": []
+        },
+        {
+            "name": "Бритвы/Триммеры прочие",
+            "children": []
+        },
+        {
+            "name": "Перфораторы Bort",
+            "children": []
+        },
+        {
+            "name": "Утюги Kitfort",
+            "children": []
+        },
+        {
+            "name": "Наушники SteelSeries",
+            "children": []
+        },
+        {
+            "name": "Блоки питания Crown",
+            "children": []
+        },
+        {
+            "name": "Корпуса SilverStone",
+            "children": []
+        },
+        {
+            "name": "Светодиодные лампы G9",
+            "children": []
+        },
+        {
+            "name": "Блоки питания Chieftec",
+            "children": []
+        },
+        {
+            "name": "Сетевые хранилища (NAS) ASUSTOR",
+            "children": []
+        },
+        {
+            "name": "SSD Toshiba",
+            "children": []
+        },
+        {
+            "name": "Корпуса GameMax",
+            "children": []
+        },
+        {
+            "name": "Мыши JET.A",
+            "children": []
+        },
+        {
+            "name": "Портативные аккумуляторы KS-is",
+            "children": []
+        },
+        {
+            "name": "Мыши OKLICK",
+            "children": []
+        },
+        {
+            "name": "Наушники Pioneer",
+            "children": []
+        },
+        {
+            "name": "Наушники Jabra",
+            "children": []
+        },
+        {
+            "name": "Кулеры AARDWOLF",
+            "children": []
+        },
+        {
+            "name": "Ноутбуки Acer",
+            "children": [
+                {
+                    "name": "Источники питания APC",
+                    "children": []
+                },
+                {
+                    "name": "Сумки для н/б Xiaomi/NINETYGO",
+                    "children": []
+                },
+                {
+                    "name": "Колонки Digma ",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Прочий инструмент",
+            "children": []
+        },
+        {
+            "name": "Наушники CANYON",
+            "children": [
+                {
+                    "name": "Прочий инструмент ЗУБР",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Газонокосилки Huter",
+            "children": []
+        },
+        {
+            "name": "Компьютеры hp/COMPAQ",
+            "children": []
+        },
+        {
+            "name": "Сумки для ноутбуков HP",
+            "children": []
+        },
+        {
+            "name": "СВЧ-печи Hansa",
+            "children": []
+        },
+        {
+            "name": "Принтеры и МФУ Epson",
+            "children": []
+        },
+        {
+            "name": "Портативные аккумуляторы HIPER",
+            "children": []
+        },
+        {
+            "name": "Мыши Corsair",
+            "children": []
+        },
+        {
+            "name": "Роботы-пылесосы Kitfort",
+            "children": []
+        },
+        {
+            "name": "СВЧ-печи Candy",
+            "children": []
+        },
+        {
+            "name": "Фильтры для воды, Водоочистители",
+            "children": []
+        },
+        {
+            "name": "Сотовые телефоны Philips",
+            "children": []
+        },
+        {
+            "name": "Ноутбуки Prestigio",
+            "children": []
+        },
+        {
+            "name": "Блоки питания SVEN",
+            "children": []
+        },
+        {
+            "name": "Компьютеры MSI",
+            "children": []
+        },
+        {
+            "name": "Мини компьютеры НИКС",
+            "children": []
+        },
+        {
+            "name": "USB Flash Drive Qumo",
+            "children": []
+        },
+        {
+            "name": "Мыши SVEN",
+            "children": []
+        },
+        {
+            "name": "Карты SD Transcend",
+            "children": []
+        },
+        {
+            "name": "Видеокарты Sapphire",
+            "children": []
+        },
+        {
+            "name": "Корпуса MSI",
+            "children": []
+        },
+        {
+            "name": "Источники питания Huawei",
+            "children": []
+        },
+        {
+            "name": "Корпуса Intel",
+            "children": []
+        },
+        {
+            "name": "USB концентраторы (USB hub)",
+            "children": []
+        },
+        {
+            "name": "Коммерческие ЖК-панели",
+            "children": []
+        },
+        {
+            "name": "Варочные панели Gefest",
+            "children": []
+        },
+        {
+            "name": "Посудомойки Beko",
+            "children": []
+        },
+        {
+            "name": "Сумки для ноутбуков Envy",
+            "children": []
+        },
+        {
+            "name": "Мультиварки Redmond",
+            "children": []
+        },
+        {
+            "name": "Принтеры печати этикеток Zebra",
+            "children": []
+        },
+        {
+            "name": "Водонагреватели Hyundai",
+            "children": []
+        },
+        {
+            "name": "Светодиодные ленты",
+            "children": [
+                {
+                    "name": "Холодильники Candy",
+                    "children": []
+                },
+                {
+                    "name": "Компьютерная литература",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Корпуса GIGABYTE",
+            "children": []
+        },
+        {
+            "name": "Мыши ASUS",
+            "children": []
+        },
+        {
+            "name": "Телефоны DECT, факсы Panasonic",
+            "children": []
+        },
+        {
+            "name": "Ноутбуки Apple",
+            "children": []
+        },
+        {
+            "name": "Стяжки",
+            "children": []
+        },
+        {
+            "name": "Вытяжки OASIS",
+            "children": []
+        },
+        {
+            "name": "Видеосерверы НИКС",
+            "children": []
+        },
+        {
+            "name": "Принтеры и МФУ Brother",
+            "children": []
+        },
+        {
+            "name": "Ламинаторы",
+            "children": []
+        },
+        {
+            "name": "HDD боксы/кредлы/шасси Orico",
+            "children": []
+        },
+        {
+            "name": "Товары для пикника прочее",
+            "children": []
+        },
+        {
+            "name": "USB Flash Drive ICONIK",
+            "children": []
+        },
+        {
+            "name": "Видеокарты Gainward",
+            "children": []
+        },
+        {
+            "name": "Стойки монтажные",
+            "children": []
+        },
+        {
+            "name": "Кулеры GameMax",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы Samsung",
+            "children": []
+        },
+        {
+            "name": "Наушники Genius",
+            "children": []
+        },
+        {
+            "name": "Коврики для мыши",
+            "children": []
+        },
+        {
+            "name": "Плоттеры",
+            "children": []
+        },
+        {
+            "name": "Фильтры и стабилизаторы Exegate",
+            "children": []
+        },
+        {
+            "name": "Материнские платы GIGABYTE",
+            "children": []
+        },
+        {
+            "name": "Планшеты Samsung",
+            "children": []
+        },
+        {
+            "name": "Переключатели KVM",
+            "children": []
+        },
+        {
+            "name": "USB Flash Drive SmartBuy",
+            "children": []
+        },
+        {
+            "name": "Бритвы/Триммеры Supra",
+            "children": []
+        },
+        {
+            "name": "Батарейки",
+            "children": []
+        },
+        {
+            "name": "Ленточные накопители",
+            "children": []
+        },
+        {
+            "name": "Деловые программы",
+            "children": []
+        },
+        {
+            "name": "Модули памяти ADATA",
+            "children": []
+        },
+        {
+            "name": "Строительная химия",
+            "children": []
+        },
+        {
+            "name": "Корпуса 1STPLAYER",
+            "children": []
+        },
+        {
+            "name": "Модули памяти Transcend",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы RDW",
+            "children": []
+        },
+        {
+            "name": "Светодиодные лампы E27",
+            "children": []
+        },
+        {
+            "name": "Мясорубки Panasonic",
+            "children": []
+        },
+        {
+            "name": "Планшеты BQ",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети Keenetic",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование LR-LINK",
+            "children": []
+        },
+        {
+            "name": "Ноутбуки DIGMA",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы B&W",
+            "children": []
+        },
+        {
+            "name": "Термопленки",
+            "children": []
+        },
+        {
+            "name": "Переговорные устройства",
+            "children": []
+        },
+        {
+            "name": "Карты SD Hikvision",
+            "children": []
+        },
+        {
+            "name": "Аксессуары для видеонаблюдения",
+            "children": []
+        },
+        {
+            "name": "Холодильники Korting",
+            "children": []
+        },
+        {
+            "name": "Блоки питания GIGABYTE",
+            "children": []
+        },
+        {
+            "name": "Вытяжки Gorenje",
+            "children": []
+        },
+        {
+            "name": "Микрокомпьютеры Intel",
+            "children": []
+        },
+        {
+            "name": "IP-камеры Orient",
+            "children": []
+        },
+        {
+            "name": "Кресла ЯрКресло",
+            "children": []
+        },
+        {
+            "name": "Наушники Dialog",
+            "children": []
+        },
+        {
+            "name": "Подшипники, Втулки, Бушинги",
+            "children": []
+        },
+        {
+            "name": "Системы хранения данных DELL",
+            "children": []
+        },
+        {
+            "name": "Электронные словари",
+            "children": []
+        },
+        {
+            "name": "Малярный и штукатурный инструмен",
+            "children": []
+        },
+        {
+            "name": "Экшн-камеры",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы Lenovo",
+            "children": [
+                {
+                    "name": "Перфораторы Patriot",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Смартфоны ZTE",
+            "children": []
+        },
+        {
+            "name": "Духовые шкафы Hansa",
+            "children": []
+        },
+        {
+            "name": "Телевизионные антенны",
+            "children": []
+        },
+        {
+            "name": "Barebone системы",
+            "children": [
+                {
+                    "name": "Медиаплееры HD/HDTV Hyundai",
+                    "children": []
+                },
+                {
+                    "name": "Блоки питания 1STPLAYER",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Видеокарты Innovision",
+            "children": []
+        },
+        {
+            "name": "Наушники Gembird ",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы HP (оригинал)",
+            "children": []
+        },
+        {
+            "name": "Строительные пылесосы прочие",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети",
+            "children": []
+        },
+        {
+            "name": "Уголь, Щепа, Шампуры",
+            "children": []
+        },
+        {
+            "name": "Смартфоны Sony",
+            "children": []
+        },
+        {
+            "name": "Монтажные шкафы ЦМО",
+            "children": []
+        },
+        {
+            "name": "Шкафы и кронштейны настенные",
+            "children": []
+        },
+        {
+            "name": "Кресла OLSS",
+            "children": []
+        },
+        {
+            "name": "Светодиодные лампы G4",
+            "children": [
+                {
+                    "name": "Клавиатуры QUMO",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Мыши Defender",
+            "children": []
+        },
+        {
+            "name": "Подставки для ноутбуков",
+            "children": []
+        },
+        {
+            "name": "Садовые инструменты Hammer",
+            "children": []
+        },
+        {
+            "name": "Холодильники CENTEK",
+            "children": []
+        },
+        {
+            "name": "Оригинальные аксессуары Canon",
+            "children": []
+        },
+        {
+            "name": "Материнские платы",
+            "children": []
+        },
+        {
+            "name": "Карты SD Samsung",
+            "children": []
+        },
+        {
+            "name": "Электронные книги Pocketbook",
+            "children": []
+        },
+        {
+            "name": "Корпуса LinkWorld",
+            "children": []
+        },
+        {
+            "name": "Кулеры Arctic Cooling",
+            "children": []
+        },
+        {
+            "name": "Колонки Nakatomi",
+            "children": []
+        },
+        {
+            "name": "Щитки и шкафы Schneider",
+            "children": []
+        },
+        {
+            "name": "Холодильники DON",
+            "children": []
+        },
+        {
+            "name": "Диктофоны",
+            "children": []
+        },
+        {
+            "name": "SSD Silicon Power",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование MikroTik",
+            "children": []
+        },
+        {
+            "name": "Гайковерты Makita",
+            "children": []
+        },
+        {
+            "name": "Контрольные панели Schneider",
+            "children": []
+        },
+        {
+            "name": "Дрели прочие",
+            "children": []
+        },
+        {
+            "name": "Планшеты Xiaomi",
+            "children": []
+        },
+        {
+            "name": "Сетевые хранилища (NAS)",
+            "children": []
+        },
+        {
+            "name": "Кулеры GlacialTech",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы T2",
+            "children": []
+        },
+        {
+            "name": "Миксеры POLARIS",
+            "children": []
+        },
+        {
+            "name": "Контроллеры Quanta",
+            "children": []
+        },
+        {
+            "name": "Модули памяти HIKVISION ",
+            "children": []
+        },
+        {
+            "name": "Мыши Thermaltake",
+            "children": [
+                {
+                    "name": "Кабели Lightning",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Колонки CBR",
+            "children": []
+        },
+        {
+            "name": "Системы хранения данных HP",
+            "children": []
+        },
+        {
+            "name": "Медиаконвертеры",
+            "children": []
+        },
+        {
+            "name": "Аксессуары Exegate к HDD",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети D-Link",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети TRENDnet",
+            "children": []
+        },
+        {
+            "name": "Расходные материалы Bosch",
+            "children": []
+        },
+        {
+            "name": "Бизнес литература",
+            "children": []
+        },
+        {
+            "name": "Кулеры MSI ",
+            "children": []
+        },
+        {
+            "name": "Студийные мониторы",
+            "children": []
+        },
+        {
+            "name": "Принтеры и МФУ прочие",
+            "children": []
+        },
+        {
+            "name": "SSD Goodram",
+            "children": []
+        },
+        {
+            "name": "Наушники Ritmix",
+            "children": []
+        },
+        {
+            "name": "Принтеры и МФУ Kyocera",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры CBR",
+            "children": []
+        },
+        {
+            "name": "Микрокомпьютеры ASUS",
+            "children": [
+                {
+                    "name": "Расходные материалы ЗУБР ",
+                    "children": []
+                },
+                {
+                    "name": "Вытяжки Indesit",
+                    "children": []
+                },
+                {
+                    "name": "Духовые шкафы Darina",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Пилы и лобзики Ресанта",
+            "children": []
+        },
+        {
+            "name": "Аксессуары СКС",
+            "children": []
+        },
+        {
+            "name": "Перфораторы METABO",
+            "children": []
+        },
+        {
+            "name": "Блоки питания FSP",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование D-Link",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы G&G",
+            "children": []
+        },
+        {
+            "name": "Варочные панели Hansa ",
+            "children": []
+        },
+        {
+            "name": "Мебель для пикника",
+            "children": []
+        },
+        {
+            "name": "Фильтры и стабилизаторы Defender",
+            "children": []
+        },
+        {
+            "name": "Метеостанции",
+            "children": []
+        },
+        {
+            "name": "Мыши Gembird",
+            "children": []
+        },
+        {
+            "name": "Фены/Щипцы/Выпрямители Polaris",
+            "children": []
+        },
+        {
+            "name": "DVD±RW, DVD RAM диски",
+            "children": []
+        },
+        {
+            "name": "Ноутбуки Maibenben",
+            "children": []
+        },
+        {
+            "name": "Внешние HDD Silicon Power",
+            "children": []
+        },
+        {
+            "name": "3d-принтеры",
+            "children": [
+                {
+                    "name": "Духовые шкафы Gorenje",
+                    "children": []
+                },
+                {
+                    "name": "Водонагреватели Thermex",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Сумки для ноутбуков Sumdex",
+            "children": []
+        },
+        {
+            "name": "Сумки для ноутбуков прочие",
+            "children": []
+        },
+        {
+            "name": "TV и бытовая техника",
+            "children": []
+        },
+        {
+            "name": "Автомобильные лампы",
+            "children": []
+        },
+        {
+            "name": "SSD HP",
+            "children": []
+        },
+        {
+            "name": "Шлифмашины Ресанта",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы BION",
+            "children": []
+        },
+        {
+            "name": "Блоки питания Thermaltake",
+            "children": []
+        },
+        {
+            "name": "Газонокосилки Makita",
+            "children": []
+        },
+        {
+            "name": "Сетевые хранилища (NAS) Synology",
+            "children": []
+        },
+        {
+            "name": "Контроллеры HPE",
+            "children": []
+        },
+        {
+            "name": "Наушники ASUS",
+            "children": []
+        },
+        {
+            "name": "Холодильники Beko",
+            "children": []
+        },
+        {
+            "name": "Водонагреватели Oasis",
+            "children": []
+        },
+        {
+            "name": "Звуковые и FM карты",
+            "children": []
+        },
+        {
+            "name": "HDD боксы/кредлы/шасси прочие",
+            "children": []
+        },
+        {
+            "name": "Модули памяти Corsair",
+            "children": []
+        },
+        {
+            "name": "Водонагреватели De luxe",
+            "children": []
+        },
+        {
+            "name": "Только для дилеров",
+            "children": []
+        },
+        {
+            "name": "Серверные корпуса прочие",
+            "children": []
+        },
+        {
+            "name": "Модули памяти Foxline",
+            "children": []
+        },
+        {
+            "name": "Коммутац. кабели (patch cord)",
+            "children": []
+        },
+        {
+            "name": "Корпуса Chenbro",
+            "children": []
+        },
+        {
+            "name": "Blu-ray диски",
+            "children": []
+        },
+        {
+            "name": "Игровые манипуляторы Razer",
+            "children": []
+        },
+        {
+            "name": "Кулеры Intel",
+            "children": []
+        },
+        {
+            "name": "Аксессуары к планшетам",
+            "children": []
+        },
+        {
+            "name": "Модули памяти Netac",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы Acer",
+            "children": []
+        },
+        {
+            "name": "Садовые насосы прочие",
+            "children": []
+        },
+        {
+            "name": "Мыши Razer",
+            "children": []
+        },
+        {
+            "name": "Блендеры Redmond",
+            "children": []
+        },
+        {
+            "name": "Компьютеры НИКС для офиса",
+            "children": []
+        },
+        {
+            "name": "Мотоблоки и Культиваторы Huter",
+            "children": []
+        },
+        {
+            "name": "Посудомойки прочие",
+            "children": []
+        },
+        {
+            "name": "Колонки Dialog",
+            "children": []
+        },
+        {
+            "name": "Водонагреватели Polaris",
+            "children": []
+        },
+        {
+            "name": "Модули памяти Kingmax",
+            "children": []
+        },
+        {
+            "name": "Светодиодные лампы (тубы) T8R",
+            "children": []
+        },
+        {
+            "name": "Серверы НИКС",
+            "children": []
+        },
+        {
+            "name": "Серверные платформы ASUS",
+            "children": []
+        },
+        {
+            "name": "Кресла Defender",
+            "children": []
+        },
+        {
+            "name": "Системы отопления",
+            "children": []
+        },
+        {
+            "name": "SSD Adata",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры JET.A",
+            "children": []
+        },
+        {
+            "name": "Планшеты Prestigio",
+            "children": []
+        },
+        {
+            "name": "Аксесcуары к ноутбукам hp",
+            "children": []
+        },
+        {
+            "name": "Источники питания SVEN",
+            "children": []
+        },
+        {
+            "name": "Внешние HDD Seagate",
+            "children": []
+        },
+        {
+            "name": "Блоки питания HIPER",
+            "children": []
+        },
+        {
+            "name": "Источники питания PowerMan",
+            "children": []
+        },
+        {
+            "name": "Память для ноутбуков",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы Катюша (оригинал)",
+            "children": []
+        },
+        {
+            "name": "Наушники OKLICK",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование Edimax",
+            "children": []
+        },
+        {
+            "name": "Наушники Sony",
+            "children": []
+        },
+        {
+            "name": "Наушники Logitech",
+            "children": []
+        },
+        {
+            "name": "Проекторы Ricoh",
+            "children": []
+        },
+        {
+            "name": "SSD AGI",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование ZyXEL",
+            "children": []
+        },
+        {
+            "name": "Медиаплееры HD/HDTV iconBIT",
+            "children": []
+        },
+        {
+            "name": "Стиральные машины Beko",
+            "children": []
+        },
+        {
+            "name": "Карты SD Kingston",
+            "children": []
+        },
+        {
+            "name": "Контроллеры прочие",
+            "children": []
+        },
+        {
+            "name": "Моноблоки ASUS",
+            "children": []
+        },
+        {
+            "name": "Колонки Genius",
+            "children": []
+        },
+        {
+            "name": "Колонки Defender",
+            "children": []
+        },
+        {
+            "name": "Велосипед подростковый",
+            "children": []
+        },
+        {
+            "name": "Книги по психологии",
+            "children": []
+        },
+        {
+            "name": "IP-камеры TP-Link",
+            "children": []
+        },
+        {
+            "name": "Комплекты видеонаблюдения",
+            "children": []
+        },
+        {
+            "name": "Компьютеры Lenovo",
+            "children": []
+        },
+        {
+            "name": "Наушники Axelvox",
+            "children": []
+        },
+        {
+            "name": "Соски",
+            "children": []
+        },
+        {
+            "name": "Светодиодные светильники",
+            "children": []
+        },
+        {
+            "name": "Наушники Edifier",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы ViewSonic",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры SVEN",
+            "children": []
+        },
+        {
+            "name": "USB Flash Drive Apacer",
+            "children": []
+        },
+        {
+            "name": "Наушники Harper",
+            "children": []
+        },
+        {
+            "name": "Ноутбуки Lenovo",
+            "children": []
+        },
+        {
+            "name": "Компьютеры ASUS",
+            "children": []
+        },
+        {
+            "name": "Пульты ДУ и презентеры",
+            "children": []
+        },
+        {
+            "name": "HDD боксы/кредлы Thermaltake",
+            "children": []
+        },
+        {
+            "name": "Модули памяти hynix",
+            "children": []
+        },
+        {
+            "name": "Холодильники Starwind",
+            "children": []
+        },
+        {
+            "name": "Квадрокоптеры",
+            "children": []
+        },
+        {
+            "name": "Телескопы",
+            "children": []
+        },
+        {
+            "name": "Строительные пылесосы Ресанта",
+            "children": []
+        },
+        {
+            "name": "Наушники Thermaltake",
+            "children": []
+        },
+        {
+            "name": "Видеокарты ASRock",
+            "children": []
+        },
+        {
+            "name": "Звуковые карты ASUS",
+            "children": []
+        },
+        {
+            "name": "Микрофоны Stelberry",
+            "children": []
+        },
+        {
+            "name": "USB Flash Drive Transcend",
+            "children": []
+        },
+        {
+            "name": "Блоки питания INWIN",
+            "children": []
+        },
+        {
+            "name": "Видеокарты Ninja",
+            "children": []
+        },
+        {
+            "name": "Кулеры DeepCool",
+            "children": []
+        },
+        {
+            "name": "Товары для умного дома Hiper",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы прочие",
+            "children": []
+        },
+        {
+            "name": "Научно-популярная лит-ра",
+            "children": []
+        },
+        {
+            "name": "Игры для Xbox и PlayStation",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры RAPOO",
+            "children": []
+        },
+        {
+            "name": "Принтеры печати этикеток Bixolon",
+            "children": []
+        },
+        {
+            "name": "Синтезаторы и фортепиано Casio",
+            "children": []
+        },
+        {
+            "name": "Воздуходувки Makita",
+            "children": []
+        },
+        {
+            "name": "Прокладка СКС",
+            "children": []
+        },
+        {
+            "name": "Блоки питания Cougar",
+            "children": []
+        },
+        {
+            "name": "Мыши SmartBuy",
+            "children": []
+        },
+        {
+            "name": "Блоки питания GameMax",
+            "children": []
+        },
+        {
+            "name": "Ноутбуки MSI",
+            "children": []
+        },
+        {
+            "name": "Аксессуары AGESTAR к HDD",
+            "children": []
+        },
+        {
+            "name": "Материнские платы Biostar",
+            "children": []
+        },
+        {
+            "name": "Блоки питания DeepCool",
+            "children": []
+        },
+        {
+            "name": "Наушники Redragon",
+            "children": []
+        },
+        {
+            "name": "SSD Intel",
+            "children": []
+        },
+        {
+            "name": "Корпуса Chieftec",
+            "children": []
+        },
+        {
+            "name": "Ноутбуки Huawei",
+            "children": []
+        },
+        {
+            "name": "Подгузники",
+            "children": []
+        },
+        {
+            "name": "Контроллеры STLab",
+            "children": []
+        },
+        {
+            "name": "Корпуса Thermaltake",
+            "children": []
+        },
+        {
+            "name": "Автотрансформаторы",
+            "children": []
+        },
+        {
+            "name": "Пальцы отделения/Сепараторы",
+            "children": []
+        },
+        {
+            "name": "Серверные корпуса Exegate",
+            "children": []
+        },
+        {
+            "name": "Кулеры GELID",
+            "children": []
+        },
+        {
+            "name": "Блоки питания Fractal Design",
+            "children": []
+        },
+        {
+            "name": "Фотоаппараты Canon",
+            "children": []
+        },
+        {
+            "name": "Мотобуры и аксессуары",
+            "children": []
+        },
+        {
+            "name": "Серверные платформы AIC",
+            "children": []
+        },
+        {
+            "name": "Видеорегистраторы",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы ДЛЯ Canon",
+            "children": []
+        },
+        {
+            "name": "LAN-тестер, щупы, трассоискатели",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование PLANET",
+            "children": []
+        },
+        {
+            "name": "3D мыши и манипуляторы",
+            "children": [
+                {
+                    "name": "Сварочное оборудование прочее",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "SSD WD",
+            "children": []
+        },
+        {
+            "name": "ПК, АРМ и моноблоки RDW",
+            "children": []
+        },
+        {
+            "name": "Модули памяти AMD",
+            "children": []
+        },
+        {
+            "name": "Термопаста",
+            "children": []
+        },
+        {
+            "name": "Винчестеры Seagate",
+            "children": []
+        },
+        {
+            "name": "Микроскопы",
+            "children": []
+        },
+        {
+            "name": "Карты SD прочие",
+            "children": []
+        },
+        {
+            "name": "Домофоны и контроль доступа",
+            "children": []
+        },
+        {
+            "name": "ЖК телевизоры TCL",
+            "children": []
+        },
+        {
+            "name": "Оригинальные аксессуары Sony",
+            "children": []
+        },
+        {
+            "name": "Валы проявки",
+            "children": []
+        },
+        {
+            "name": "Шкафы настенные антивандальные",
+            "children": []
+        },
+        {
+            "name": "Блоки питания BE QUIET",
+            "children": []
+        },
+        {
+            "name": "Карты SD Adata",
+            "children": []
+        },
+        {
+            "name": "Смартфоны Digma",
+            "children": []
+        },
+        {
+            "name": "Приводы для ноутбуков",
+            "children": []
+        },
+        {
+            "name": "USB Flash Drive Silicon Power",
+            "children": []
+        },
+        {
+            "name": "Видеокарты на чипсете NVIDIA",
+            "children": []
+        },
+        {
+            "name": "Портативные аккумуляторы Harper",
+            "children": []
+        },
+        {
+            "name": "Видеокарты MSI",
+            "children": []
+        },
+        {
+            "name": "Корпуса ATX",
+            "children": []
+        },
+        {
+            "name": "Внешние HDD Toshiba",
+            "children": []
+        },
+        {
+            "name": "Рубанки прочие",
+            "children": []
+        },
+        {
+            "name": "Сканеры CANON",
+            "children": []
+        },
+        {
+            "name": "Карты SD Silicon Power",
+            "children": []
+        },
+        {
+            "name": "Модули памяти G.Skill",
+            "children": []
+        },
+        {
+            "name": "Контроллеры Adaptec",
+            "children": []
+        },
+        {
+            "name": "Наушники прочие",
+            "children": []
+        },
+        {
+            "name": "Наушники Creative",
+            "children": []
+        },
+        {
+            "name": "Компьютеры Aquarius",
+            "children": []
+        },
+        {
+            "name": "Кулеры ID-Cooling",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети ZTE",
+            "children": []
+        },
+        {
+            "name": "DVD±RW, DVD RAM",
+            "children": []
+        },
+        {
+            "name": "Веб-камеры A4-Tech",
+            "children": []
+        },
+        {
+            "name": "Принтеры и МФУ Ricoh",
+            "children": []
+        },
+        {
+            "name": "USB Flash Drive прочие",
+            "children": []
+        },
+        {
+            "name": "Кулеры ZALMAN",
+            "children": []
+        },
+        {
+            "name": "Серверные аксессуары Huawei",
+            "children": []
+        },
+        {
+            "name": "Ноутбуки HIPER",
+            "children": []
+        },
+        {
+            "name": "Садовые качели",
+            "children": []
+        },
+        {
+            "name": "Сумки для ноутбуков Lenovo",
+            "children": []
+        },
+        {
+            "name": "Климатическая техника Прочие",
+            "children": []
+        },
+        {
+            "name": "СХД Rikor",
+            "children": []
+        },
+        {
+            "name": "Посудомойки Candy",
+            "children": []
+        },
+        {
+            "name": "Посуда",
+            "children": []
+        },
+        {
+            "name": "Винчестеры HP/HPE",
+            "children": []
+        },
+        {
+            "name": "SAS/SATA кабели",
+            "children": []
+        },
+        {
+            "name": "Радиостанции",
+            "children": []
+        },
+        {
+            "name": "Щётки/скребки для снега",
+            "children": []
+        },
+        {
+            "name": "Моноблоки прочие",
+            "children": []
+        },
+        {
+            "name": "SSD прочие",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы Konica Minolta (ор)",
+            "children": []
+        },
+        {
+            "name": "Блоки питания Exegate",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры Razer",
+            "children": []
+        },
+        {
+            "name": "Кресла ZOMBIE",
+            "children": []
+        },
+        {
+            "name": "Товары для умного дома прочие",
+            "children": []
+        },
+        {
+            "name": "Варочные панели Beko",
+            "children": []
+        },
+        {
+            "name": "Автогаджеты прочие",
+            "children": []
+        },
+        {
+            "name": "Варочные панели Darina",
+            "children": []
+        },
+        {
+            "name": "Наушники Xiaomi",
+            "children": []
+        },
+        {
+            "name": "Пылесосы Scarlett",
+            "children": []
+        },
+        {
+            "name": "Игрушки прочие",
+            "children": []
+        },
+        {
+            "name": "Елочные игрушки ",
+            "children": []
+        },
+        {
+            "name": "Модули памяти HP",
+            "children": []
+        },
+        {
+            "name": "Колонки Xiaomi",
+            "children": []
+        },
+        {
+            "name": "Колонки Creative",
+            "children": []
+        },
+        {
+            "name": "Бритвы/Триммеры Sinbo",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы NetProduct",
+            "children": []
+        },
+        {
+            "name": "Зоотовары",
+            "children": []
+        },
+        {
+            "name": "Смартфоны TEXET",
+            "children": []
+        },
+        {
+            "name": "MP3 плееры Digma",
+            "children": []
+        },
+        {
+            "name": "Миксеры SAKURA",
+            "children": []
+        },
+        {
+            "name": "Шарниры, Кронштейны, Держатели",
+            "children": []
+        },
+        {
+            "name": "ЖК телевизоры Asano",
+            "children": []
+        },
+        {
+            "name": "Принтеры и МФУ Canon",
+            "children": []
+        },
+        {
+            "name": "Проекторы Panasonic",
+            "children": []
+        },
+        {
+            "name": "Фотоаппараты Nikon",
+            "children": []
+        },
+        {
+            "name": "Пилы и лобзики прочие",
+            "children": []
+        },
+        {
+            "name": "Модули памяти Thermaltake",
+            "children": []
+        },
+        {
+            "name": "FM-трансмиттеры автомобильные",
+            "children": []
+        },
+        {
+            "name": "Колонки Logitech",
+            "children": []
+        },
+        {
+            "name": "Винчестеры прочие",
+            "children": []
+        },
+        {
+            "name": "Наушники Behringer",
+            "children": []
+        },
+        {
+            "name": "Роботы-пылесосы HOBOT",
+            "children": []
+        },
+        {
+            "name": "Чайники Kitfort",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры Gembird",
+            "children": []
+        },
+        {
+            "name": "Штативы",
+            "children": []
+        },
+        {
+            "name": "Активное оборудование прочее",
+            "children": []
+        },
+        {
+            "name": "Медиаплееры HD/HDTV HARPER",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы Canon (оригинал)",
+            "children": []
+        },
+        {
+            "name": "Колонки SONY",
+            "children": []
+        },
+        {
+            "name": "ЖК телевизоры PHILIPS",
+            "children": []
+        },
+        {
+            "name": "Наушники A4-Tech",
+            "children": []
+        },
+        {
+            "name": "Комплекты переноса изображения",
+            "children": []
+        },
+        {
+            "name": "Усилители 3G/GSM сигнала",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры OKLICK",
+            "children": []
+        },
+        {
+            "name": "Корпуса HIPER",
+            "children": []
+        },
+        {
+            "name": "СВЧ-печи BBK",
+            "children": []
+        },
+        {
+            "name": "Стабилизаторы напряжения Ресанта",
+            "children": []
+        },
+        {
+            "name": "Аккумуляторы для ноутбуков",
+            "children": []
+        },
+        {
+            "name": "Колонки Exegate",
+            "children": []
+        },
+        {
+            "name": "Принтеры, оргтехника OKI",
+            "children": []
+        },
+        {
+            "name": "Блендеры Electrolux",
+            "children": []
+        },
+        {
+            "name": "Чехлы для планшетов Samsung",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы HIPER",
+            "children": []
+        },
+        {
+            "name": "Коммутац. панели (patch panel)",
+            "children": []
+        },
+        {
+            "name": "Видеокарты PowerColor",
+            "children": []
+        },
+        {
+            "name": "Вытяжки Krona",
+            "children": []
+        },
+        {
+            "name": "Садовые инструменты прочие",
+            "children": []
+        },
+        {
+            "name": "Шуруповерты Makita",
+            "children": []
+        },
+        {
+            "name": "Контроллеры Orient",
+            "children": []
+        },
+        {
+            "name": "Проекторы EPSON",
+            "children": []
+        },
+        {
+            "name": "Игровые консоли",
+            "children": []
+        },
+        {
+            "name": "Корпуса Powerman",
+            "children": []
+        },
+        {
+            "name": "Мыши Trust",
+            "children": []
+        },
+        {
+            "name": "SSD GIGABYTE",
+            "children": []
+        },
+        {
+            "name": "Наушники Marshall",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы Crown",
+            "children": []
+        },
+        {
+            "name": "Шкафы",
+            "children": []
+        },
+        {
+            "name": "Ноутбуки ASUS",
+            "children": []
+        },
+        {
+            "name": "SSD Hikvision",
+            "children": []
+        },
+        {
+            "name": "CD-R/RW диски",
+            "children": []
+        },
+        {
+            "name": "Наушники SmartBuy",
+            "children": []
+        },
+        {
+            "name": "Видеокарты ASUS",
+            "children": []
+        },
+        {
+            "name": "Профессиональные видеоускорители",
+            "children": []
+        },
+        {
+            "name": "Мыши A4-Tech",
+            "children": []
+        },
+        {
+            "name": "Узлы закрепления, Печи,Термоузлы",
+            "children": []
+        },
+        {
+            "name": "Варочные панели De luxe",
+            "children": []
+        },
+        {
+            "name": "Конвекторы Starwind",
+            "children": []
+        },
+        {
+            "name": "SSD Netac",
+            "children": []
+        },
+        {
+            "name": "Садовые насосы Patriot",
+            "children": []
+        },
+        {
+            "name": "Настройка сетевого оборуд-я и ПО",
+            "children": []
+        },
+        {
+            "name": "Сумки для ноутбуков PORTcase",
+            "children": []
+        },
+        {
+            "name": "Снегоуборщики Ресанта",
+            "children": []
+        },
+        {
+            "name": "Смартфоны TCL",
+            "children": []
+        },
+        {
+            "name": "Посудомойки Indesit",
+            "children": []
+        },
+        {
+            "name": "Конвертеры видеосигнала",
+            "children": []
+        },
+        {
+            "name": "Источники питания Crown",
+            "children": []
+        },
+        {
+            "name": "Рекламная продукция для дилеров",
+            "children": []
+        },
+        {
+            "name": "Смартфоны, моб.телефоны INOI",
+            "children": []
+        },
+        {
+            "name": "Шуруповерты Patriot",
+            "children": []
+        },
+        {
+            "name": "Внешние HDD Adata",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы Static Control",
+            "children": []
+        },
+        {
+            "name": "Блендеры прочие",
+            "children": []
+        },
+        {
+            "name": "Blu-ray",
+            "children": []
+        },
+        {
+            "name": "Корпуса Zalman",
+            "children": []
+        },
+        {
+            "name": "Крепления для ЖК и плазменных ТВ",
+            "children": []
+        },
+        {
+            "name": "Воздуходувки ЗУБР",
+            "children": []
+        },
+        {
+            "name": "Блоки питания Aerocool",
+            "children": []
+        },
+        {
+            "name": "Планшеты Lenovo",
+            "children": []
+        },
+        {
+            "name": "Портативные аккумуляторы прочие",
+            "children": []
+        },
+        {
+            "name": "Смартфоны Meizu",
+            "children": []
+        },
+        {
+            "name": "Кабель-каналы, клеммы Schneider",
+            "children": []
+        },
+        {
+            "name": "Кулеры Akasa",
+            "children": []
+        },
+        {
+            "name": "Шлифмашины ЗУБР",
+            "children": []
+        },
+        {
+            "name": "Кабель в бухтах FTP ",
+            "children": []
+        },
+        {
+            "name": "СВЧ-печи Midea",
+            "children": []
+        },
+        {
+            "name": "Корпуса Cougar",
+            "children": []
+        },
+        {
+            "name": "Моноблоки Apple",
+            "children": []
+        },
+        {
+            "name": "Шестерни",
+            "children": []
+        },
+        {
+            "name": "Мониторы LG",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы AOC",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы IIYAMA",
+            "children": []
+        },
+        {
+            "name": "Экраны для проекторов",
+            "children": []
+        },
+        {
+            "name": "Источники питания Eaton",
+            "children": []
+        },
+        {
+            "name": "Перфораторы Bosch",
+            "children": []
+        },
+        {
+            "name": "SSD Corsair",
+            "children": []
+        },
+        {
+            "name": "Мыши CBR",
+            "children": []
+        },
+        {
+            "name": "Часы настенные",
+            "children": []
+        },
+        {
+            "name": "Весы напольные Scarlett",
+            "children": []
+        },
+        {
+            "name": "Фены/Щипцы/Выпрямители прочие",
+            "children": []
+        },
+        {
+            "name": "Сетевые фильтры SmartBuy",
+            "children": []
+        },
+        {
+            "name": "Фотопринтеры сублимационные",
+            "children": []
+        },
+        {
+            "name": "Корпуса Asus/Vento",
+            "children": []
+        },
+        {
+            "name": "Стиральные машины Candy",
+            "children": []
+        },
+        {
+            "name": "Корпуса LIAN LI",
+            "children": []
+        },
+        {
+            "name": "Стирал. машины Hotpoint-Ariston",
+            "children": []
+        },
+        {
+            "name": "Сканеры hp",
+            "children": []
+        },
+        {
+            "name": "Блендеры Panasonic",
+            "children": []
+        },
+        {
+            "name": "Блоки питания Powerman",
+            "children": []
+        },
+        {
+            "name": "Валы резиновые (нижние)",
+            "children": []
+        },
+        {
+            "name": "Системы хран. данных Infortrend",
+            "children": []
+        },
+        {
+            "name": "Кулеры PCCooler",
+            "children": []
+        },
+        {
+            "name": "Наушники Plantronics",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование",
+            "children": []
+        },
+        {
+            "name": "Планшеты Digma",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование Huawei",
+            "children": []
+        },
+        {
+            "name": "Электроинструмент Hammer",
+            "children": []
+        },
+        {
+            "name": "Материнские платы SuperMicro",
+            "children": []
+        },
+        {
+            "name": "Моноблоки Acer",
+            "children": [
+                {
+                    "name": "Аксессуары Orico к HDD",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Сетевое оборудование Broadcom",
+            "children": []
+        },
+        {
+            "name": "Воздуходувки Bosch",
+            "children": []
+        },
+        {
+            "name": "Аккумуляторы и ЗУ совместимые",
+            "children": []
+        },
+        {
+            "name": "Прочий инструмент Makita",
+            "children": []
+        },
+        {
+            "name": "USB Flash Drive SanDisk",
+            "children": []
+        },
+        {
+            "name": "Модули памяти Apacer",
+            "children": []
+        },
+        {
+            "name": "Сканеры XEROX",
+            "children": []
+        },
+        {
+            "name": "Пылесосы прочие",
+            "children": []
+        },
+        {
+            "name": "Сумки для ноутбуков Continent",
+            "children": []
+        },
+        {
+            "name": "УШМ и штроборезы ЗУБР ",
+            "children": []
+        },
+        {
+            "name": "Утюги Supra",
+            "children": []
+        },
+        {
+            "name": "Миксеры Scarlett",
+            "children": []
+        },
+        {
+            "name": "SSD OCZ",
+            "children": []
+        },
+        {
+            "name": "Стиральные машины Gorenje",
+            "children": []
+        },
+        {
+            "name": "Пароочистители Kitfort",
+            "children": []
+        },
+        {
+            "name": "Расх. мат-лы Ricoh (оригинал)",
+            "children": [
+                {
+                    "name": "Товары для красоты прочие",
+                    "children": []
+                },
+                {
+                    "name": "Автомобильные колонки",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Принтеры печати этикеток прочие",
+            "children": []
+        },
+        {
+            "name": "Аксессуары Apple",
+            "children": []
+        },
+        {
+            "name": "Смесители",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование OSNOVO",
+            "children": []
+        },
+        {
+            "name": "Веб-камеры прочие",
+            "children": []
+        },
+        {
+            "name": "Холодильники Бирюса",
+            "children": []
+        },
+        {
+            "name": "Модули памяти TeamGroup",
+            "children": []
+        },
+        {
+            "name": "Кофеварки Bosch",
+            "children": []
+        },
+        {
+            "name": "Проекторы Cactus",
+            "children": []
+        },
+        {
+            "name": "Дрели Bosch",
+            "children": []
+        },
+        {
+            "name": "SSD Crucial/Micron",
+            "children": []
+        },
+        {
+            "name": "Велосипед городской",
+            "children": []
+        },
+        {
+            "name": "Дрели Bort",
+            "children": []
+        },
+        {
+            "name": "Источники питания ИМПУЛЬС",
+            "children": []
+        },
+        {
+            "name": "Вилки, ложки, ножи",
+            "children": []
+        },
+        {
+            "name": "Обслуживание бассейнов ",
+            "children": []
+        },
+        {
+            "name": "Монтажные шкафы прочие",
+            "children": []
+        },
+        {
+            "name": "Фонари",
+            "children": []
+        },
+        {
+            "name": "Кулеры JONSBO",
+            "children": []
+        },
+        {
+            "name": "ЖК телевизоры Xiaomi",
+            "children": []
+        },
+        {
+            "name": "Смартфоны, моб.телефоны Nokia",
+            "children": []
+        },
+        {
+            "name": "SSD Neo Forza",
+            "children": []
+        },
+        {
+            "name": "Веб-камеры Genius",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры A4-Tech",
+            "children": []
+        },
+        {
+            "name": "Муфты",
+            "children": []
+        },
+        {
+            "name": "Игровые манипуляторы OKLICK",
+            "children": []
+        },
+        {
+            "name": "Колонки Trust",
+            "children": []
+        },
+        {
+            "name": "Наушники Sennheiser",
+            "children": []
+        },
+        {
+            "name": "Внешние коробочки Zalman для HDD",
+            "children": []
+        },
+        {
+            "name": "Беспроводные сети MikroTik",
+            "children": []
+        },
+        {
+            "name": "Духовые шкафы Indesit",
+            "children": []
+        },
+        {
+            "name": "Колонки HARPER",
+            "children": []
+        },
+        {
+            "name": "Наушники AKG",
+            "children": []
+        },
+        {
+            "name": "MP3 плееры прочие",
+            "children": []
+        },
+        {
+            "name": "Товары для взрослых",
+            "children": []
+        },
+        {
+            "name": "Модули памяти Goodram",
+            "children": []
+        },
+        {
+            "name": "USB Flash Drive Netac",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование ASUS",
+            "children": []
+        },
+        {
+            "name": "Бассейны",
+            "children": []
+        },
+        {
+            "name": "Колонки Hyundai ",
+            "children": []
+        },
+        {
+            "name": "ЖК телевизоры HARPER",
+            "children": []
+        },
+        {
+            "name": "Смартфоны Huawei",
+            "children": []
+        },
+        {
+            "name": "Контрольно-кассовая техника",
+            "children": []
+        },
+        {
+            "name": "DAC-кабели",
+            "children": []
+        },
+        {
+            "name": "Принтеры и МФУ Xerox",
+            "children": []
+        },
+        {
+            "name": "Мыши Steelseries",
+            "children": []
+        },
+        {
+            "name": "Аксессуары для ноутбуков",
+            "children": []
+        },
+        {
+            "name": "Наушники JBL",
+            "children": []
+        },
+        {
+            "name": "Роботы-пылесосы прочие",
+            "children": []
+        },
+        {
+            "name": "Бумага Cactus",
+            "children": []
+        },
+        {
+            "name": "Тостеры/Сэндвичницы Scarlett",
+            "children": []
+        },
+        {
+            "name": "Наушники Philips",
+            "children": []
+        },
+        {
+            "name": "Дрели DeWalt",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование HP",
+            "children": []
+        },
+        {
+            "name": "Дрели Makita",
+            "children": []
+        },
+        {
+            "name": "Мебель прочая",
+            "children": []
+        },
+        {
+            "name": "Пароочистители Karcher",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы Xiaomi",
+            "children": []
+        },
+        {
+            "name": "Внешние HDD TRANSCEND",
+            "children": []
+        },
+        {
+            "name": "Наушники Kingston",
+            "children": []
+        },
+        {
+            "name": "Наушники Panasonic",
+            "children": []
+        },
+        {
+            "name": "ЖК мониторы hp",
+            "children": []
+        },
+        {
+            "name": "Аналог. камеры видеонаблюдения",
+            "children": []
+        },
+        {
+            "name": "СВЧ-печи Bosch",
+            "children": []
+        },
+        {
+            "name": "Блоки лазера, сканера",
+            "children": []
+        },
+        {
+            "name": "Сумки для ноутбуков Samsonite",
+            "children": []
+        },
+        {
+            "name": "Мыши Genius",
+            "children": []
+        },
+        {
+            "name": "Садовые насосы Ресанта",
+            "children": []
+        },
+        {
+            "name": "Защитн. стекла/пленки смартфонов",
+            "children": []
+        },
+        {
+            "name": "Модули памяти Kingston",
+            "children": []
+        },
+        {
+            "name": "Видеокабели/переходники цифр.",
+            "children": []
+        },
+        {
+            "name": "Серверные платформы Gigabyte",
+            "children": []
+        },
+        {
+            "name": "Фильтры и стабилизаторы прочие",
+            "children": []
+        },
+        {
+            "name": "Фены/Щипцы/Выпрямители Moser",
+            "children": []
+        },
+        {
+            "name": "Пилы и лобзики Makita",
+            "children": []
+        },
+        {
+            "name": "Варочн. панели Electronicsdeluxe",
+            "children": []
+        },
+        {
+            "name": "Аппаратура 220V",
+            "children": [
+                {
+                    "name": "Кулеры Gembird",
+                    "children": []
+                },
+                {
+                    "name": "Компьютеры НИКС для инженеров",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Медиаплееры HD/HDTV прочие",
+            "children": []
+        },
+        {
+            "name": "Кулеры SuperMicro",
+            "children": [
+                {
+                    "name": "Сушки для фруктов и овощей",
+                    "children": []
+                },
+                {
+                    "name": "Наушники Huawei",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Мыши HP",
+            "children": []
+        },
+        {
+            "name": "Двигатель",
+            "children": []
+        }
+    ]
+}

@@ -1,0 +1,1421 @@
+{
+    "218": [
+        {
+            "name": "Блоки питания",
+            "children": []
+        },
+        {
+            "name": "Моноблоки",
+            "children": []
+        },
+        {
+            "name": "SSD M.2 накопители",
+            "children": []
+        },
+        {
+            "name": "Серверные платформы",
+            "children": []
+        },
+        {
+            "name": "Комплектующие для ПК",
+            "children": [
+                {
+                    "name": "Основные комплектующие для ПК",
+                    "children": [
+                        {
+                            "name": "Блоки питания",
+                            "children": [
+                                {
+                                    "name": "HIPER",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ARDOR GAMING",
+                                    "children": []
+                                },
+                                {
+                                    "name": "AeroCool",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Thermaltake",
+                                    "children": []
+                                },
+                                {
+                                    "name": "GIGABYTE",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ASUS",
+                                    "children": []
+                                },
+                                {
+                                    "name": "DEXP",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Enermax",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Crown",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Accord",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ACD",
+                                    "children": []
+                                },
+                                {
+                                    "name": "FSP",
+                                    "children": []
+                                },
+                                {
+                                    "name": "High Power",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Powerman",
+                                    "children": []
+                                },
+                                {
+                                    "name": "CoolerMaster",
+                                    "children": []
+                                },
+                                {
+                                    "name": "XPG (ADATA)",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MSI",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ExeGate",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Advantech",
+                                    "children": []
+                                },
+                                {
+                                    "name": "DEEPCOOL",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Chieftec",
+                                    "children": []
+                                },
+                                {
+                                    "name": "GameMax",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Cougar",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SilverStone",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Montech",
+                                    "children": []
+                                },
+                                {
+                                    "name": "be quiet!",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Xilence",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ZALMAN",
+                                    "children": []
+                                },
+                                {
+                                    "name": "InWin",
+                                    "children": []
+                                },
+                                {
+                                    "name": "1STPLAYER",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Оперативная память",
+                            "children": [
+                                {
+                                    "name": "Оперативная память DIMM",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Оперативная память SO-DIMM",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Жесткие диски HDD",
+                            "children": [
+                                {
+                                    "name": "Жесткие диски 3.5\"",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Видеокарты",
+                            "children": [
+                                {
+                                    "name": "KFA2",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ColorFul",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Zotac",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ASUS",
+                                    "children": []
+                                },
+                                {
+                                    "name": "PNY",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Palit",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Sapphire",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Inno3D",
+                                    "children": []
+                                },
+                                {
+                                    "name": "PowerColor",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Asrock",
+                                    "children": []
+                                },
+                                {
+                                    "name": "nVidia",
+                                    "children": []
+                                },
+                                {
+                                    "name": "GIGABYTE",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MSI",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Acer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Gainward",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Материнские платы",
+                            "children": [
+                                {
+                                    "name": "Asrock",
+                                    "children": []
+                                },
+                                {
+                                    "name": "AFOX",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Esonic",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ARDOR GAMING",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ASUS",
+                                    "children": []
+                                },
+                                {
+                                    "name": "DEXP",
+                                    "children": []
+                                },
+                                {
+                                    "name": "GIGABYTE",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MSI",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Процессоры",
+                            "children": [
+                                {
+                                    "name": "AMD",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Intel",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Охлаждение компьютера",
+                            "children": [
+                                {
+                                    "name": "Кулеры для процессоров",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Твердотельные накопители SSD",
+                            "children": [
+                                {
+                                    "name": "SSD M.2 накопители",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SSD накопители",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Комплектующие для сервера",
+                    "children": [
+                        {
+                            "name": "Серверные накопители",
+                            "children": [
+                                {
+                                    "name": "Серверные SSD M.2",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Серверные HDD",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Блоки питания",
+            "children": []
+        },
+        {
+            "name": "Видеокарты",
+            "children": []
+        },
+        {
+            "name": "Варочные панели газовые",
+            "children": []
+        },
+        {
+            "name": "Клавиатуры",
+            "children": []
+        },
+        {
+            "name": "Сетевое оборудование",
+            "children": [
+                {
+                    "name": "Wi-Fi роутеры и оборудование для малых сетей",
+                    "children": [
+                        {
+                            "name": "Wi-Fi роутеры",
+                            "children": [
+                                {
+                                    "name": "Eltex",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Mikrotik",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Xiaomi",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ASUS",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Cudy",
+                                    "children": []
+                                },
+                                {
+                                    "name": "NETIS",
+                                    "children": []
+                                },
+                                {
+                                    "name": "D-Link",
+                                    "children": []
+                                },
+                                {
+                                    "name": "IP-COM",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Ростелеком",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Mercusys",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HUAWEI",
+                                    "children": []
+                                },
+                                {
+                                    "name": "KEENETIC",
+                                    "children": []
+                                },
+                                {
+                                    "name": "TP-Link",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Tenda",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Триколор",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Digma",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Zyxel",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MSI",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SSD накопители",
+            "children": []
+        },
+        {
+            "name": "Процессоры",
+            "children": []
+        },
+        {
+            "name": "Ноутбуки",
+            "children": []
+        },
+        {
+            "name": "Серверные SSD M.2",
+            "children": []
+        },
+        {
+            "name": "Wi-Fi роутеры",
+            "children": []
+        },
+        {
+            "name": "Встраиваемые кофемашины",
+            "children": []
+        },
+        {
+            "name": "Кулеры для процессоров",
+            "children": []
+        },
+        {
+            "name": "Материнские платы",
+            "children": []
+        },
+        {
+            "name": "ТВ, консоли и аудио",
+            "children": [
+                {
+                    "name": "Телевизоры и аксессуары",
+                    "children": [
+                        {
+                            "name": "Видеокабели и переходники",
+                            "children": [
+                                {
+                                    "name": "Видеокабели и переходники",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Мониторы",
+            "children": []
+        },
+        {
+            "name": "Варочные панели электрические",
+            "children": []
+        },
+        {
+            "name": "ПК, ноутбуки, периферия",
+            "children": [
+                {
+                    "name": "Периферия и аксессуары",
+                    "children": [
+                        {
+                            "name": "Кабели",
+                            "children": [
+                                {
+                                    "name": "Кабели питания",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Компьютерные кабели и переходники",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Клавиатуры",
+                            "children": [
+                                {
+                                    "name": "DEXP",
+                                    "children": []
+                                },
+                                {
+                                    "name": "RAPOO",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HyperX",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Royal Kludge",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Razer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "A4Tech",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Gembird",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Shurikey Gear",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Jet.A",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Oklick",
+                                    "children": []
+                                },
+                                {
+                                    "name": "AKKO",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Дарк Проджект",
+                                    "children": []
+                                },
+                                {
+                                    "name": "QUMO",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Satechi",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Xiaomi",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Nuphy",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Ritmix",
+                                    "children": []
+                                },
+                                {
+                                    "name": "PRO LEGEND",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ExeGate",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Redragon",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ASUS",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SVEN",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Glorious",
+                                    "children": []
+                                },
+                                {
+                                    "name": "KEYRON",
+                                    "children": []
+                                },
+                                {
+                                    "name": "AULA",
+                                    "children": []
+                                },
+                                {
+                                    "name": "LAMZU",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SteelSeries",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Defender",
+                                    "children": []
+                                },
+                                {
+                                    "name": "FUSION",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ARDOR GAMING",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Keychron",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Montech",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Red Square",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Edifier",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Varmilo",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Acer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Canyon",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Marvo",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Cougar",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Aceline",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Ugreen",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HIPER",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Accesstyle",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Logitech",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Apple",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Dark Project",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Smartbuy",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Genius",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MSI",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Dareu",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ZONE 51",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Гарнизон",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Dialog",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Мониторы",
+                            "children": [
+                                {
+                                    "name": "Lime",
+                                    "children": []
+                                },
+                                {
+                                    "name": "KFA2",
+                                    "children": []
+                                },
+                                {
+                                    "name": "AORUS",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Irbis",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Digma",
+                                    "children": []
+                                },
+                                {
+                                    "name": "KTC",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Sanc",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Acer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Dell",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ARDOR GAMING",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MSI",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP",
+                                    "children": []
+                                },
+                                {
+                                    "name": "AOC",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Apple",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Asrock",
+                                    "children": []
+                                },
+                                {
+                                    "name": "DEXP",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Delta Computers",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ELSA",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Titan Army",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Xiaomi",
+                                    "children": []
+                                },
+                                {
+                                    "name": "IRU",
+                                    "children": []
+                                },
+                                {
+                                    "name": "GIGABYTE",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ViewSonic",
+                                    "children": []
+                                },
+                                {
+                                    "name": "LG",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Hisense",
+                                    "children": []
+                                },
+                                {
+                                    "name": "CBR",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Philips",
+                                    "children": []
+                                },
+                                {
+                                    "name": "CoolerMaster",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Samsung",
+                                    "children": []
+                                },
+                                {
+                                    "name": "AOpen",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SunWind",
+                                    "children": []
+                                },
+                                {
+                                    "name": "IIYAMA",
+                                    "children": []
+                                },
+                                {
+                                    "name": "BenQ",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Lenovo",
+                                    "children": []
+                                },
+                                {
+                                    "name": "LightCom",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MAIBENBEN",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Raskat",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HIPER",
+                                    "children": []
+                                },
+                                {
+                                    "name": "БЕШТАУ",
+                                    "children": []
+                                },
+                                {
+                                    "name": "AIWA",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HUAWEI",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ASUS",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Мыши",
+                            "children": [
+                                {
+                                    "name": "QUMO",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Kensington",
+                                    "children": []
+                                },
+                                {
+                                    "name": "KFA2",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Jet.A",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Edifier",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ASUS",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SteelSeries",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Xiaomi",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Apple",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Delux",
+                                    "children": []
+                                },
+                                {
+                                    "name": "DEXP",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Accesstyle",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Corsair",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Defender",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Cougar",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Дарк Проджект",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HUAWEI",
+                                    "children": []
+                                },
+                                {
+                                    "name": "A4Tech",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Marvo",
+                                    "children": []
+                                },
+                                {
+                                    "name": "AULA",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Acer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HyperX",
+                                    "children": []
+                                },
+                                {
+                                    "name": "IO",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Dareu",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ARDOR GAMING",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HIPER",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Aceline",
+                                    "children": []
+                                },
+                                {
+                                    "name": "KEYRON",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Canyon",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Гарнизон",
+                                    "children": []
+                                },
+                                {
+                                    "name": "RAPOO",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SPEED-LINK",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Genius",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Thermaltake",
+                                    "children": []
+                                },
+                                {
+                                    "name": "FUSION",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Ugreen",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Logitech",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SVEN",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Smartbuy",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Redragon",
+                                    "children": []
+                                },
+                                {
+                                    "name": "LAMZU",
+                                    "children": []
+                                },
+                                {
+                                    "name": "CBR",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MSI",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Razer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Ritmix",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Olmio",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Nakatomi",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Oklick",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Pulsar",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Gembird",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Microsoft",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Glorious",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Комплекты клавиатура+мышь",
+                            "children": [
+                                {
+                                    "name": "DEXP",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Dareu",
+                                    "children": []
+                                },
+                                {
+                                    "name": "AULA",
+                                    "children": []
+                                },
+                                {
+                                    "name": "A4Tech",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Genius",
+                                    "children": []
+                                },
+                                {
+                                    "name": "RAPOO",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Oklick",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Aceline",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Defender",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Logitech",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SVEN",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Гарнизон",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HIPER",
+                                    "children": []
+                                },
+                                {
+                                    "name": "QUMO",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Ugreen",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Ritmix",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Canyon",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Smartbuy",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Gembird",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Acer",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Компьютеры и ПО",
+                    "children": [
+                        {
+                            "name": "Моноблоки",
+                            "children": [
+                                {
+                                    "name": "Apple",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MSI",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Raskat",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Lenovo",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Acer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "DEXP",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Rombica",
+                                    "children": []
+                                },
+                                {
+                                    "name": "OSIO",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HIPER",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ASUS",
+                                    "children": []
+                                },
+                                {
+                                    "name": "IRU",
+                                    "children": []
+                                },
+                                {
+                                    "name": "RDW",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Teclast",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Dell",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Irbis",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Ноутбуки и аксессуары",
+                    "children": [
+                        {
+                            "name": "Ноутбуки",
+                            "children": [
+                                {
+                                    "name": "Chuwi",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ASUS",
+                                    "children": []
+                                },
+                                {
+                                    "name": "GIGABYTE",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Hasee",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Apple",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Dell",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Acer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ARDOR GAMING",
+                                    "children": []
+                                },
+                                {
+                                    "name": "DEXP",
+                                    "children": []
+                                },
+                                {
+                                    "name": "INFERIT",
+                                    "children": []
+                                },
+                                {
+                                    "name": "realme",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Samsung",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Razer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ColorFul",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Infinix",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HP",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HUAWEI",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MSI",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Tecno",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Acer Gadget",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MAIBENBEN",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Irbis",
+                                    "children": []
+                                },
+                                {
+                                    "name": "OSIO",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Unchartevice",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HIPER",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ACD",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Lenovo",
+                                    "children": []
+                                },
+                                {
+                                    "name": "CBR",
+                                    "children": []
+                                },
+                                {
+                                    "name": "AORUS",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Machenike",
+                                    "children": []
+                                },
+                                {
+                                    "name": "HONOR",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Xiaomi",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Платформы",
+            "children": []
+        }
+    ]
+}

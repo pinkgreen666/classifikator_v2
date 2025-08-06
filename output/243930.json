@@ -1,0 +1,3551 @@
+{
+    "243930": [
+        {
+            "name": "Постпечатное оборудование",
+            "children": [
+                {
+                    "name": "Прочее",
+                    "children": []
+                },
+                {
+                    "name": "Режущие плоттеры",
+                    "children": []
+                },
+                {
+                    "name": "Albeo",
+                    "children": []
+                },
+                {
+                    "name": "Bulros",
+                    "children": []
+                },
+                {
+                    "name": "Orafol",
+                    "children": []
+                },
+                {
+                    "name": "Биговщики",
+                    "children": []
+                },
+                {
+                    "name": "Рулонные ламинаторы",
+                    "children": []
+                },
+                {
+                    "name": "Термопрессы",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Сетевое оборудование",
+            "children": [
+                {
+                    "name": "Cisco SB",
+                    "children": []
+                },
+                {
+                    "name": "Cudy",
+                    "children": []
+                },
+                {
+                    "name": "Mercusys",
+                    "children": []
+                },
+                {
+                    "name": "MikroTik",
+                    "children": []
+                },
+                {
+                    "name": "Netis",
+                    "children": []
+                },
+                {
+                    "name": "QTECH",
+                    "children": []
+                },
+                {
+                    "name": "TP-Link",
+                    "children": []
+                },
+                {
+                    "name": "Ubiquiti",
+                    "children": []
+                },
+                {
+                    "name": "Xiaomi",
+                    "children": []
+                },
+                {
+                    "name": "ZyXEL",
+                    "children": []
+                },
+                {
+                    "name": "ORIGO",
+                    "children": []
+                },
+                {
+                    "name": "Synology",
+                    "children": []
+                },
+                {
+                    "name": "Tenda",
+                    "children": []
+                },
+                {
+                    "name": "IP-COM",
+                    "children": []
+                },
+                {
+                    "name": "D-Link",
+                    "children": []
+                },
+                {
+                    "name": "HPE",
+                    "children": []
+                },
+                {
+                    "name": "Huawei",
+                    "children": []
+                },
+                {
+                    "name": "Keenetic",
+                    "children": []
+                },
+                {
+                    "name": "ASUS",
+                    "children": []
+                },
+                {
+                    "name": "Dahua",
+                    "children": []
+                },
+                {
+                    "name": "ПРОЧЕЕ",
+                    "children": []
+                },
+                {
+                    "name": "F+Tech",
+                    "children": []
+                },
+                {
+                    "name": "Konica-Minolta",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Системы хранения данных",
+            "children": [
+                {
+                    "name": "QNAP",
+                    "children": []
+                },
+                {
+                    "name": "Synology",
+                    "children": [
+                        {
+                            "name": "ПО к системам хранения",
+                            "children": []
+                        },
+                        {
+                            "name": "Модули расширения",
+                            "children": []
+                        },
+                        {
+                            "name": "Опции к системам хранения",
+                            "children": []
+                        },
+                        {
+                            "name": "Видеонаблюдение",
+                            "children": []
+                        },
+                        {
+                            "name": "Сетевые хранилища NAS (Disk Station)",
+                            "children": []
+                        },
+                        {
+                            "name": "Сетевые хранилища NAS (Rack Station)",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Смартфоны и гаджеты",
+            "children": [
+                {
+                    "name": "Сотовые телефоны",
+                    "children": []
+                },
+                {
+                    "name": "Гаджеты",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Бытовая техника",
+            "children": [
+                {
+                    "name": "Отпариватели",
+                    "children": []
+                },
+                {
+                    "name": "Климатическое оборудование",
+                    "children": []
+                },
+                {
+                    "name": "BQ",
+                    "children": []
+                },
+                {
+                    "name": "Телевизоры",
+                    "children": [
+                        {
+                            "name": "SAMSUNG",
+                            "children": []
+                        },
+                        {
+                            "name": "HISENSE",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Чайники",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Фотоаппаратура и фототовары",
+            "children": [
+                {
+                    "name": "Sony",
+                    "children": []
+                },
+                {
+                    "name": "BenQ",
+                    "children": []
+                },
+                {
+                    "name": "Canon",
+                    "children": []
+                },
+                {
+                    "name": "Nikon",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Жёсткие диски и оптические носители",
+            "children": [
+                {
+                    "name": "Внешние жёсткие диски",
+                    "children": [
+                        {
+                            "name": "8.0 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "3.0 ТВ",
+                            "children": []
+                        },
+                        {
+                            "name": "5.0 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "6.0 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "640 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "750 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "1.5 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "адаптер WD",
+                            "children": []
+                        },
+                        {
+                            "name": "12.0 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "120 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "18.0 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "22.0 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "320 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "500 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "14.0 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "1.0 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "2.0 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "4.0 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "чехлы для WD Pasport",
+                            "children": []
+                        },
+                        {
+                            "name": "16.0 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "160 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "250 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "2.5 ТВ",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Внутренние жёсткие диски",
+                    "children": [
+                        {
+                            "name": "4 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "5 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "12 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "600GB",
+                            "children": []
+                        },
+                        {
+                            "name": "8 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "900GB",
+                            "children": []
+                        },
+                        {
+                            "name": "500 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "6 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "2 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "14 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "18 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "16 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "1 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "10 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "20 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "3 TB",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Оптические носители информации",
+                    "children": [
+                        {
+                            "name": "Дискеты",
+                            "children": []
+                        },
+                        {
+                            "name": "8 cm DVD",
+                            "children": []
+                        },
+                        {
+                            "name": "DVD+R",
+                            "children": []
+                        },
+                        {
+                            "name": "DVD-RW",
+                            "children": []
+                        },
+                        {
+                            "name": "BD-R/BD-RE",
+                            "children": []
+                        },
+                        {
+                            "name": "CD-R",
+                            "children": []
+                        },
+                        {
+                            "name": "Аксессуары",
+                            "children": []
+                        },
+                        {
+                            "name": "CD-RW",
+                            "children": []
+                        },
+                        {
+                            "name": "DVD-R",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Аксессуары и периферия",
+            "children": [
+                {
+                    "name": "Коврики для мыши",
+                    "children": []
+                },
+                {
+                    "name": "Сетевые фильтры и удлинители",
+                    "children": []
+                },
+                {
+                    "name": "Смарт-часы и аксессуары к ним",
+                    "children": []
+                },
+                {
+                    "name": "Другое",
+                    "children": []
+                },
+                {
+                    "name": "Зарядные устройства",
+                    "children": []
+                },
+                {
+                    "name": "Кабели и разъемы",
+                    "children": []
+                },
+                {
+                    "name": "Аксессуары для ноутбуков",
+                    "children": []
+                },
+                {
+                    "name": "Акустические системы и колонки",
+                    "children": []
+                },
+                {
+                    "name": "Батарейки",
+                    "children": []
+                },
+                {
+                    "name": "Внешние аккумуляторы",
+                    "children": []
+                },
+                {
+                    "name": "Инструменты",
+                    "children": []
+                },
+                {
+                    "name": "Клавиатуры, комплекты",
+                    "children": []
+                },
+                {
+                    "name": "ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "Адаптеры",
+                    "children": []
+                },
+                {
+                    "name": "Кресла и аксессуары",
+                    "children": []
+                },
+                {
+                    "name": "Лампы LED",
+                    "children": []
+                },
+                {
+                    "name": "Мыши",
+                    "children": []
+                },
+                {
+                    "name": "Презентеры",
+                    "children": []
+                },
+                {
+                    "name": "Чистящие средства, салфетки, смазки",
+                    "children": []
+                },
+                {
+                    "name": "Веб-камеры",
+                    "children": []
+                },
+                {
+                    "name": "Держатели для телефонов",
+                    "children": []
+                },
+                {
+                    "name": "Пылесосы и аксессуары к ним",
+                    "children": []
+                },
+                {
+                    "name": "Стабилизаторы",
+                    "children": []
+                },
+                {
+                    "name": "Чехлы для телефонов и планшетов",
+                    "children": []
+                },
+                {
+                    "name": "UGREEN",
+                    "children": []
+                },
+                {
+                    "name": "Гарнитуры, наушники, микрофоны",
+                    "children": []
+                },
+                {
+                    "name": "Геймпады, джойстики",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Канцтовары",
+            "children": []
+        },
+        {
+            "name": "Средства индивидуальной мобильности",
+            "children": []
+        },
+        {
+            "name": "ЗИП для компьютеров и ноутбуков",
+            "children": [
+                {
+                    "name": "Клавиатуры",
+                    "children": [
+                        {
+                            "name": "HP",
+                            "children": []
+                        },
+                        {
+                            "name": "ASUS",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL",
+                            "children": []
+                        },
+                        {
+                            "name": "Lenovo",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Системы охлаждения",
+                    "children": []
+                },
+                {
+                    "name": "Другое",
+                    "children": []
+                },
+                {
+                    "name": "Аккумуляторы",
+                    "children": [
+                        {
+                            "name": "Toshiba",
+                            "children": []
+                        },
+                        {
+                            "name": "MSI",
+                            "children": []
+                        },
+                        {
+                            "name": "Acer",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL",
+                            "children": []
+                        },
+                        {
+                            "name": "Lenovo",
+                            "children": []
+                        },
+                        {
+                            "name": "Apple",
+                            "children": []
+                        },
+                        {
+                            "name": "Fujitsu",
+                            "children": []
+                        },
+                        {
+                            "name": "Samsung",
+                            "children": []
+                        },
+                        {
+                            "name": "ASUS",
+                            "children": []
+                        },
+                        {
+                            "name": "HP",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Блоки питания",
+                    "children": [
+                        {
+                            "name": "OEM",
+                            "children": []
+                        },
+                        {
+                            "name": "HP",
+                            "children": []
+                        },
+                        {
+                            "name": "Lenovo",
+                            "children": []
+                        },
+                        {
+                            "name": "ASUS",
+                            "children": []
+                        },
+                        {
+                            "name": "DELL",
+                            "children": []
+                        },
+                        {
+                            "name": "Acer",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Матрицы",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Комплектующие и компоненты",
+            "children": [
+                {
+                    "name": "Аксессуары",
+                    "children": []
+                },
+                {
+                    "name": "Оптические приводы",
+                    "children": []
+                },
+                {
+                    "name": "SSD диски",
+                    "children": [
+                        {
+                            "name": "240 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "64 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "120 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "128 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "13 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "90 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "160 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "960 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "180 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "15 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "2 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "30 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "480 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "512 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "6 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "Корпуса SSD/HDD",
+                            "children": []
+                        },
+                        {
+                            "name": "1.6 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "8 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "4 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "1 TB",
+                            "children": []
+                        },
+                        {
+                            "name": "32 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "256 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "96 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "60 GB",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Процессоры",
+                    "children": []
+                },
+                {
+                    "name": "Устройства охлаждения",
+                    "children": []
+                },
+                {
+                    "name": "Видеокарты",
+                    "children": [
+                        {
+                            "name": "PALIT",
+                            "children": []
+                        },
+                        {
+                            "name": "GIGABYTE",
+                            "children": []
+                        },
+                        {
+                            "name": "ASRock",
+                            "children": []
+                        },
+                        {
+                            "name": "ASUS",
+                            "children": []
+                        },
+                        {
+                            "name": "MSI",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "КОНТРОЛЛЕРЫ+АДАПТЕРЫ",
+                    "children": []
+                },
+                {
+                    "name": "Корпуса",
+                    "children": []
+                },
+                {
+                    "name": "Материнские платы",
+                    "children": [
+                        {
+                            "name": "Prime Box",
+                            "children": []
+                        },
+                        {
+                            "name": "MSI",
+                            "children": []
+                        },
+                        {
+                            "name": "GIGABYTE",
+                            "children": []
+                        },
+                        {
+                            "name": "Asrock",
+                            "children": []
+                        },
+                        {
+                            "name": "ASUS",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Оперативная память",
+                    "children": [
+                        {
+                            "name": "DDR3",
+                            "children": []
+                        },
+                        {
+                            "name": "DDR4",
+                            "children": []
+                        },
+                        {
+                            "name": "HyperX",
+                            "children": []
+                        },
+                        {
+                            "name": "SO-DIMM",
+                            "children": []
+                        },
+                        {
+                            "name": "DDR5",
+                            "children": []
+                        },
+                        {
+                            "name": "DDR4 Server",
+                            "children": []
+                        },
+                        {
+                            "name": "DDR2",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Блоки питания",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Компоненты кабельной сети",
+            "children": [
+                {
+                    "name": "ITK",
+                    "children": []
+                },
+                {
+                    "name": "Legrand",
+                    "children": []
+                },
+                {
+                    "name": "Hyperline",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Красота и здоровье",
+            "children": []
+        },
+        {
+            "name": "Печатная техника",
+            "children": [
+                {
+                    "name": "Опции",
+                    "children": []
+                },
+                {
+                    "name": "Принтеры",
+                    "children": []
+                },
+                {
+                    "name": "МФУ",
+                    "children": []
+                },
+                {
+                    "name": "Сканеры",
+                    "children": []
+                },
+                {
+                    "name": "Дупликаторы",
+                    "children": []
+                },
+                {
+                    "name": "Факсы",
+                    "children": []
+                },
+                {
+                    "name": "Фотокамеры",
+                    "children": []
+                },
+                {
+                    "name": "Широкоформатная техника",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Проекторы",
+            "children": [
+                {
+                    "name": "BenQ",
+                    "children": []
+                },
+                {
+                    "name": "Cactus",
+                    "children": []
+                },
+                {
+                    "name": "PHILIPS",
+                    "children": []
+                },
+                {
+                    "name": "Ricoh",
+                    "children": []
+                },
+                {
+                    "name": "ViewSonic",
+                    "children": []
+                },
+                {
+                    "name": "Epson",
+                    "children": []
+                },
+                {
+                    "name": "HIPER",
+                    "children": []
+                },
+                {
+                    "name": "InFocus",
+                    "children": []
+                },
+                {
+                    "name": "LG",
+                    "children": []
+                },
+                {
+                    "name": "Lumien",
+                    "children": []
+                },
+                {
+                    "name": "NEC",
+                    "children": []
+                },
+                {
+                    "name": "Optoma",
+                    "children": []
+                },
+                {
+                    "name": "Кронштейны",
+                    "children": []
+                },
+                {
+                    "name": "ASUS",
+                    "children": []
+                },
+                {
+                    "name": "Acer",
+                    "children": []
+                },
+                {
+                    "name": "Экраны",
+                    "children": [
+                        {
+                            "name": "Screen Media",
+                            "children": []
+                        },
+                        {
+                            "name": "Lumien",
+                            "children": []
+                        },
+                        {
+                            "name": "Cactus",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Интерактивные доски",
+                    "children": []
+                },
+                {
+                    "name": "Canon",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Телефония",
+            "children": [
+                {
+                    "name": "Yealink",
+                    "children": []
+                },
+                {
+                    "name": "Panasonic",
+                    "children": []
+                },
+                {
+                    "name": "SANYO",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Умный дом",
+            "children": [
+                {
+                    "name": "Tenda",
+                    "children": []
+                },
+                {
+                    "name": "TP-Link",
+                    "children": []
+                },
+                {
+                    "name": "Xiaomi",
+                    "children": []
+                },
+                {
+                    "name": "Yeelight",
+                    "children": []
+                },
+                {
+                    "name": "Яндекс",
+                    "children": []
+                },
+                {
+                    "name": "Dahua",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Флеш память",
+            "children": [
+                {
+                    "name": "Флеш карты",
+                    "children": [
+                        {
+                            "name": "Secure Digital (SD)",
+                            "children": [
+                                {
+                                    "name": "4 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "64 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "128 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "512 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "16 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "32 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "1 TB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "2 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "8 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "256 GB",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "microSD",
+                            "children": [
+                                {
+                                    "name": "8 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "2 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "256 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "400 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "1 TB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "128 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "16 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "32 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "512 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "64 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "200 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "4 GB",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Compact Flash (CF)",
+                            "children": [
+                                {
+                                    "name": "256 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "2 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "1 TB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "32 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "2 TB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "512 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "128 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "4 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "8 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "16 GB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "64 GB",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Устройства и аксессуары",
+                    "children": []
+                },
+                {
+                    "name": "Флеш Ридеры / Адаптеры",
+                    "children": [
+                        {
+                            "name": "Карт-ридеры",
+                            "children": []
+                        },
+                        {
+                            "name": "USB хабы",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "USB флеш драйвы",
+                    "children": [
+                        {
+                            "name": "256 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "16 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "2 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "4 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "8 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "32 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "512 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "2TB",
+                            "children": []
+                        },
+                        {
+                            "name": "1TB",
+                            "children": []
+                        },
+                        {
+                            "name": "128 GB",
+                            "children": []
+                        },
+                        {
+                            "name": "64 GB",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "HUAWEI",
+            "children": []
+        },
+        {
+            "name": "Распродажа",
+            "children": []
+        },
+        {
+            "name": "Ноутбуки",
+            "children": [
+                {
+                    "name": "MSI",
+                    "children": []
+                },
+                {
+                    "name": "Аксессуары для ноутбуков",
+                    "children": []
+                },
+                {
+                    "name": "Acer",
+                    "children": [
+                        {
+                            "name": "Ноутбуки",
+                            "children": []
+                        },
+                        {
+                            "name": "Планшеты",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "APPLE",
+                    "children": [
+                        {
+                            "name": "Mac",
+                            "children": []
+                        },
+                        {
+                            "name": "iPad",
+                            "children": []
+                        },
+                        {
+                            "name": "iPhone",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "ASUS",
+                    "children": [
+                        {
+                            "name": "Моноблоки",
+                            "children": []
+                        },
+                        {
+                            "name": "Ноутбуки",
+                            "children": []
+                        },
+                        {
+                            "name": "Планшеты",
+                            "children": []
+                        },
+                        {
+                            "name": "Смартфоны",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "HP",
+                    "children": [
+                        {
+                            "name": "Моноблоки",
+                            "children": []
+                        },
+                        {
+                            "name": "Ноутбуки",
+                            "children": []
+                        },
+                        {
+                            "name": "Системные блоки",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Lenovo",
+                    "children": [
+                        {
+                            "name": "Планшеты",
+                            "children": []
+                        },
+                        {
+                            "name": "Ноутбуки",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "MaiBenBen",
+                    "children": []
+                },
+                {
+                    "name": "Dell",
+                    "children": []
+                },
+                {
+                    "name": "Гравитон",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Бумага",
+            "children": [
+                {
+                    "name": "Бумага для цветной лазерной печати",
+                    "children": []
+                },
+                {
+                    "name": "Разное",
+                    "children": []
+                },
+                {
+                    "name": "Бумага для сольвентной печати",
+                    "children": []
+                },
+                {
+                    "name": "Фотобумага",
+                    "children": []
+                },
+                {
+                    "name": "Инженерная бумага",
+                    "children": []
+                },
+                {
+                    "name": "Офисная бумага",
+                    "children": []
+                },
+                {
+                    "name": "Перфорированная бумага",
+                    "children": []
+                },
+                {
+                    "name": "Самоклеящаяся бумага",
+                    "children": []
+                },
+                {
+                    "name": "Футболки",
+                    "children": []
+                },
+                {
+                    "name": "Цветная бумага",
+                    "children": []
+                },
+                {
+                    "name": "Широкоформатная бумага",
+                    "children": []
+                },
+                {
+                    "name": "Широкоформатная фотобумага",
+                    "children": []
+                },
+                {
+                    "name": "Термоэтикетки",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Видеонаблюдение",
+            "children": [
+                {
+                    "name": "Tenda",
+                    "children": []
+                },
+                {
+                    "name": "TP-Link",
+                    "children": []
+                },
+                {
+                    "name": "Xiaomi",
+                    "children": []
+                },
+                {
+                    "name": "HiWatch",
+                    "children": []
+                },
+                {
+                    "name": "Dahua",
+                    "children": []
+                },
+                {
+                    "name": "Hikvision",
+                    "children": []
+                },
+                {
+                    "name": "Tiandy",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Гигиенические товары",
+            "children": []
+        },
+        {
+            "name": "ИБП и АКБ",
+            "children": [
+                {
+                    "name": "Аккумуляторные батареи",
+                    "children": [
+                        {
+                            "name": "Стартерные Мото",
+                            "children": []
+                        },
+                        {
+                            "name": "Delta",
+                            "children": []
+                        },
+                        {
+                            "name": "Аккумуляторы для Авто, Мото и Складской техники",
+                            "children": []
+                        },
+                        {
+                            "name": "Автомобильные",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Внешние аккумуляторы",
+                    "children": []
+                },
+                {
+                    "name": "Источники бесперебойного питания",
+                    "children": [
+                        {
+                            "name": "SMARTWATT",
+                            "children": []
+                        },
+                        {
+                            "name": "Powercom",
+                            "children": []
+                        },
+                        {
+                            "name": "Powerman",
+                            "children": []
+                        },
+                        {
+                            "name": "CyberPower",
+                            "children": []
+                        },
+                        {
+                            "name": "CROWN",
+                            "children": []
+                        },
+                        {
+                            "name": "Сайбер Электро",
+                            "children": []
+                        },
+                        {
+                            "name": "SVEN",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Стабилизаторы напряжения",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Инструменты",
+            "children": []
+        },
+        {
+            "name": "Интерактивное оборудование",
+            "children": [
+                {
+                    "name": "Lumien",
+                    "children": []
+                },
+                {
+                    "name": "NexTouch",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Мониторы",
+            "children": [
+                {
+                    "name": "Кронштейны",
+                    "children": []
+                },
+                {
+                    "name": "Мониторы",
+                    "children": []
+                },
+                {
+                    "name": "Профессиональные панели",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Моноблоки и системные блоки",
+            "children": [
+                {
+                    "name": "Prime Box",
+                    "children": []
+                },
+                {
+                    "name": "Acer",
+                    "children": [
+                        {
+                            "name": "Моноблоки",
+                            "children": []
+                        },
+                        {
+                            "name": "Системные блоки + неттопы",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "HP",
+                    "children": []
+                },
+                {
+                    "name": "Гравитон",
+                    "children": []
+                },
+                {
+                    "name": "Десктопы MSI",
+                    "children": []
+                },
+                {
+                    "name": "Lenovo",
+                    "children": [
+                        {
+                            "name": "Моноблоки и десктопы",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Моноблоки MSI",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Офисное оборудование",
+            "children": [
+                {
+                    "name": "Офисные кресла",
+                    "children": []
+                },
+                {
+                    "name": "Очистители воздуха",
+                    "children": []
+                },
+                {
+                    "name": "Воздухочистители",
+                    "children": []
+                },
+                {
+                    "name": "Пружины для переплета",
+                    "children": []
+                },
+                {
+                    "name": "Ламинаторы",
+                    "children": []
+                },
+                {
+                    "name": "Обложки для переплета",
+                    "children": []
+                },
+                {
+                    "name": "Переплетчики",
+                    "children": []
+                },
+                {
+                    "name": "Пленки для ламинирования",
+                    "children": []
+                },
+                {
+                    "name": "Резаки",
+                    "children": []
+                },
+                {
+                    "name": "Уничтожители",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Расходные материалы",
+            "children": [
+                {
+                    "name": "Pantum",
+                    "children": []
+                },
+                {
+                    "name": "Ricoh",
+                    "children": [
+                        {
+                            "name": "ЗИП",
+                            "children": []
+                        },
+                        {
+                            "name": "Краска и Мастер-пленка",
+                            "children": []
+                        },
+                        {
+                            "name": "Принт-картриджи",
+                            "children": []
+                        },
+                        {
+                            "name": "Расходные материалы Low End",
+                            "children": []
+                        },
+                        {
+                            "name": "Расходные материалы PRO",
+                            "children": []
+                        },
+                        {
+                            "name": "Тонеры",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "RISO",
+                    "children": [
+                        {
+                            "name": "ЗИП",
+                            "children": []
+                        },
+                        {
+                            "name": "Краска",
+                            "children": [
+                                {
+                                    "name": "Цветная",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Черная",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Мастер-пленка",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Roland",
+                    "children": []
+                },
+                {
+                    "name": "ROWE",
+                    "children": []
+                },
+                {
+                    "name": "Samsung",
+                    "children": [
+                        {
+                            "name": "Лазерные",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Sharp",
+                    "children": [
+                        {
+                            "name": "Ракели",
+                            "children": []
+                        },
+                        {
+                            "name": "Валы",
+                            "children": []
+                        },
+                        {
+                            "name": "Девелоперы",
+                            "children": []
+                        },
+                        {
+                            "name": "ЗИП",
+                            "children": []
+                        },
+                        {
+                            "name": "Тонер",
+                            "children": []
+                        },
+                        {
+                            "name": "Тонер-картридж",
+                            "children": []
+                        },
+                        {
+                            "name": "Барабаны",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Xerox",
+                    "children": [
+                        {
+                            "name": "Барабаны",
+                            "children": []
+                        },
+                        {
+                            "name": "Валы",
+                            "children": []
+                        },
+                        {
+                            "name": "Копи-картриджи",
+                            "children": []
+                        },
+                        {
+                            "name": "ЗИП",
+                            "children": []
+                        },
+                        {
+                            "name": "Тонеры",
+                            "children": []
+                        },
+                        {
+                            "name": "Девелоперы",
+                            "children": []
+                        },
+                        {
+                            "name": "Лазерные",
+                            "children": []
+                        },
+                        {
+                            "name": "Тонер-картриджи",
+                            "children": []
+                        },
+                        {
+                            "name": "Цветные",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Катюша/Sindoh",
+                    "children": [
+                        {
+                            "name": "ЗИП",
+                            "children": []
+                        },
+                        {
+                            "name": "Расходные материалы",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Avision",
+                    "children": [
+                        {
+                            "name": "ЗИП",
+                            "children": []
+                        },
+                        {
+                            "name": "Тонер-картриджи",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Brother",
+                    "children": [
+                        {
+                            "name": "Фотобумага",
+                            "children": []
+                        },
+                        {
+                            "name": "Наклейки TZ и DK",
+                            "children": []
+                        },
+                        {
+                            "name": "Барабаны",
+                            "children": []
+                        },
+                        {
+                            "name": "Струйные",
+                            "children": []
+                        },
+                        {
+                            "name": "Термопленки",
+                            "children": []
+                        },
+                        {
+                            "name": "Тонер-картриджи",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Canon",
+                    "children": [
+                        {
+                            "name": "Струйные",
+                            "children": []
+                        },
+                        {
+                            "name": "Тонер-картриджи",
+                            "children": []
+                        },
+                        {
+                            "name": "Тонеры",
+                            "children": []
+                        },
+                        {
+                            "name": "Барабаны",
+                            "children": []
+                        },
+                        {
+                            "name": "Для плоттеров",
+                            "children": []
+                        },
+                        {
+                            "name": "Для факсов",
+                            "children": []
+                        },
+                        {
+                            "name": "Лазерные",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Lexmark",
+                    "children": [
+                        {
+                            "name": "IBM матричные",
+                            "children": []
+                        },
+                        {
+                            "name": "Лазерные",
+                            "children": []
+                        },
+                        {
+                            "name": "Бумага",
+                            "children": []
+                        },
+                        {
+                            "name": "ЗИП",
+                            "children": []
+                        },
+                        {
+                            "name": "Струйные",
+                            "children": []
+                        },
+                        {
+                            "name": "Барабаны",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Mutoh",
+                    "children": []
+                },
+                {
+                    "name": "Oki",
+                    "children": [
+                        {
+                            "name": "Блоки барабанов",
+                            "children": []
+                        },
+                        {
+                            "name": "ЗИП",
+                            "children": []
+                        },
+                        {
+                            "name": "Матричные картриджи",
+                            "children": []
+                        },
+                        {
+                            "name": "Тонер-картриджи",
+                            "children": [
+                                {
+                                    "name": "Монохромные",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Цветные",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Panasonic",
+                    "children": [
+                        {
+                            "name": "Девелопер",
+                            "children": []
+                        },
+                        {
+                            "name": "Картриджи",
+                            "children": []
+                        },
+                        {
+                            "name": "Термопленки",
+                            "children": []
+                        },
+                        {
+                            "name": "Тонеры",
+                            "children": []
+                        },
+                        {
+                            "name": "Барабаны",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "KIP",
+                    "children": [
+                        {
+                            "name": "ЗИП",
+                            "children": []
+                        },
+                        {
+                            "name": "Тонеры",
+                            "children": []
+                        },
+                        {
+                            "name": "Барабаны",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Kyocera",
+                    "children": [
+                        {
+                            "name": "1. Тонер-картриджи",
+                            "children": []
+                        },
+                        {
+                            "name": "3. ЗИП",
+                            "children": [
+                                {
+                                    "name": "Основные лотки (CT)",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Ролики",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Узлы переноса (TR)",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Узлы проявки (DV)",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Узлы фиксации (FK)",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Блоки лазера (LK)",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Валы",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Бункеры отработанного тонера (WT)",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Шестерни",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Втулки, бушинги, шайбы, подшипники",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Датчики",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Двигатели",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Комплекты обслуживания (SK)",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Платы, блоки питания",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Прочий ЗИП",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Пружины",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Редукторы (DR)",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Узлы заряда (MC)",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Узлы фотобарабана (DK)",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Блоки печати (PU)",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "4. Техническая упаковка для СЦ",
+                            "children": []
+                        },
+                        {
+                            "name": "5. Прочее",
+                            "children": []
+                        },
+                        {
+                            "name": "2. Ремонтные комплекты",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Прочие расходные материалы и ЗИП",
+                    "children": [
+                        {
+                            "name": "ProfiLine",
+                            "children": []
+                        },
+                        {
+                            "name": "Дупло",
+                            "children": []
+                        },
+                        {
+                            "name": "Ксерокс",
+                            "children": [
+                                {
+                                    "name": "Ракели",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Термопленки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Термоузлы",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Бункеры/Боксы",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Валы переноса заряда",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Картриджи",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Прочее",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Ролики/Комплекты роликов",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Тонер-картриджи",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Тонеры для заправки",
+                                    "children": [
+                                        {
+                                            "name": "Монохромные",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Цветные",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Фотобарабаны",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Валы резин/тефлон",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Куосера",
+                            "children": [
+                                {
+                                    "name": "ЗИП",
+                                    "children": [
+                                        {
+                                            "name": "Бушинги",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Шестерни",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Прочее",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Ролики/Комплекты роликов",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Ракели",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Тонеры для заправки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Бункеры отработанного тонера",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Валы резин/тефлон",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Девелоперы и носители",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Термопленки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Фотобарабаны",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Картриджи",
+                                    "children": [
+                                        {
+                                            "name": "Монохромные",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Цветные",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Термоузлы",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Тошиба",
+                            "children": [
+                                {
+                                    "name": "Картриджи",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Валы резиновые/тефлоновые",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ЗИП",
+                                    "children": [
+                                        {
+                                            "name": "Прочее",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Ракели",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Сервисные наборы",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Фотобарабаны",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Аксессуары",
+                            "children": []
+                        },
+                        {
+                            "name": "Коника-Минольта",
+                            "children": [
+                                {
+                                    "name": "Термопленка",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Термоузлы",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Тонеры для заправки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Фотобарабаны",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Ракели",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Валы резин/тефлон",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Емкости/Скрепки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Картриджи",
+                                    "children": [
+                                        {
+                                            "name": "Монохромные",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Цветные",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "ЗИП",
+                                    "children": [
+                                        {
+                                            "name": "Блоки проявки",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Прочее",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Блоки переноса",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ризо",
+                            "children": [
+                                {
+                                    "name": "Краска",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ЗИП",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Мастер-пленка",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Рико",
+                            "children": [
+                                {
+                                    "name": "Фотобарабаны",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Валы резин/тефлон/(SR)",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ЗИП",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Картриджи",
+                                    "children": [
+                                        {
+                                            "name": "Монохромные",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Цветные",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Мастер-пленка",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Ракели",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Тонеры",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Краска",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Кэнон",
+                            "children": [
+                                {
+                                    "name": "Картриджи",
+                                    "children": [
+                                        {
+                                            "name": "Монохромные",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Цветные",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Ракели",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Валы резин/тефлон",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ЗИП",
+                                    "children": [
+                                        {
+                                            "name": "Площадки",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Ролики",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Валы магнитные",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Лотки",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Блоки лазера",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Блоки проявки",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Головки",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Емкости",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Коротроны",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Лампы",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Пальцы",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Прочее",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Флажки",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Бушинги",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Печки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Термопленка",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Тонеры для заправки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Фотобарабаны",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Чернила",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Осе",
+                            "children": []
+                        },
+                        {
+                            "name": "Пантум",
+                            "children": [
+                                {
+                                    "name": "Тонеры",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Валы заряда (PCR) / проявки (DR)",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ЗИП",
+                                    "children": [
+                                        {
+                                            "name": "Площадки",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Блоки лазера",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Шарниры/петли",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Датчики/флажки",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Платы",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Прочее",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Ролики/узлы роликов",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Термоузлы",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Шестерни/муфты",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Картриджи",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Ракели/дозирующие лезвия",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Фотобарабаны",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Бразер",
+                            "children": [
+                                {
+                                    "name": "Ракели",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ЗИП",
+                                    "children": [
+                                        {
+                                            "name": "Ролики",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Печки",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Прочее",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Валы резин/тефлон",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Шестерни",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Блоки лазера",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Платы",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Площадки",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Картриджи",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Тонеры для заправки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Флажки/Крышки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Фотобарабаны",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Валы SR/DR",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "БУЛАТ",
+                            "children": []
+                        },
+                        {
+                            "name": "Лексмарк",
+                            "children": [
+                                {
+                                    "name": "Картриджи",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Сервисные наборы",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Термопленка",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Термоузлы/печки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Тонеры для заправки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Фотобарабаны",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Чернила",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ЗИП",
+                                    "children": [
+                                        {
+                                            "name": "Блоки лазера",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "ADF/Сканеры",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Прочее",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Шестерни",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Дуплексы",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Платы",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Площадки",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Ролики/узлы",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Валы/узлы переноса",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Матричные и ленты",
+                            "children": [
+                                {
+                                    "name": "Lasting Impressions",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Lomond",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Ленты",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "ЧИПЫ",
+                            "children": [
+                                {
+                                    "name": "Коника-Минольта",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Ксерокс",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Рико",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Лексмарк",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Дели",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Куосера",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Кэнон",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Оки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Панасоник",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Пантум",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Самсунг",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Тошиба",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Фуджифилм",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Хьюлет Паккард/Кэнон",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Шарп",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Эпсон",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Шарп",
+                            "children": [
+                                {
+                                    "name": "Валы резин/тефлон",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Картриджи",
+                                    "children": [
+                                        {
+                                            "name": "Монохромные",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Цветные",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Прочее",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Ракели",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Тонеры для заправки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Фотобарабаны",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Дели",
+                            "children": [
+                                {
+                                    "name": "Картриджи",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Оки",
+                            "children": [
+                                {
+                                    "name": "ЗИП",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Тонеры для заправки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Фотобарабаны",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Картриджи",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Фуджифилм",
+                            "children": [
+                                {
+                                    "name": "Картриджи",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Хьюлет Паккард",
+                            "children": [
+                                {
+                                    "name": "Печки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Валы резин/тефлон",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Емкости/Скрепки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ЗИП",
+                                    "children": [
+                                        {
+                                            "name": "Моторы",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Кабели",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Блоки лазера",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Бушинги",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Узлы переноса",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Форматеры",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Ролики",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Панели управления",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Блоки проявки",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Лотки",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Наборы",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "ADF/Сканеры",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Прочее",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Шестерни",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Коротроны",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Площадки",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Дуплексы",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Жесткие диски",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "К плоттерам",
+                                            "children": [
+                                                {
+                                                    "name": "Резаки",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": "Ремни",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": "Блоки питания",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": "Ленты позиционирования",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": "Головки",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": "Кабели",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": "Наборы",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": "Платы",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": "Прочее",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": "Станции парковки",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": "Трубопроводы",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": "Шпиндели",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": "Каретки",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Платы",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Картриджи",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Прочее",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Ракели / Дозирующие лезвия",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Термопленки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Термосмазка",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Тонер-картриджи",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Тонеры для заправки",
+                                    "children": [
+                                        {
+                                            "name": "Монохромные",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Цветные",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Фотобарабаны",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Чернила",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Валы PCR/MR/DR/SR",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Эпсон",
+                            "children": [
+                                {
+                                    "name": "Картриджи",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Тонеры для заправки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Фотобарабаны",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ЗИП",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "CET прочее",
+                            "children": []
+                        },
+                        {
+                            "name": "COLIBRI",
+                            "children": [
+                                {
+                                    "name": "Canon",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Фуджитсу",
+                            "children": []
+                        },
+                        {
+                            "name": "Самсунг",
+                            "children": [
+                                {
+                                    "name": "Валы PCR/DR/SR",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Валы резин/тефлон",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Картриджи",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Печки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Ракели",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Тонеры для заправки",
+                                    "children": [
+                                        {
+                                            "name": "Монохромные",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Цветные",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "ЗИП",
+                                    "children": [
+                                        {
+                                            "name": "Узлы переноса",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Лампы",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Блоки лазера",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Пальцы",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Блоки проявки",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Бушинги",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "ADF/Сканеры",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Кабели",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Коротроны",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Лотки",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Моторы",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Прочее",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Шестерни",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Платы",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Площадки",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Ролики",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Фотобарабаны",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Панасоник",
+                            "children": [
+                                {
+                                    "name": "Валы заряда/проявки/подачи тонера",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ЗИП",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Картриджи",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Ракели",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Термопленки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Тонеры для заправки",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Фотобарабаны",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mimaki",
+                    "children": []
+                },
+                {
+                    "name": "Deli",
+                    "children": []
+                },
+                {
+                    "name": "Duplo",
+                    "children": [
+                        {
+                            "name": "Краска",
+                            "children": [
+                                {
+                                    "name": "Цветная",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Черная",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Мастер-пленка",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Fujifilm",
+                    "children": []
+                },
+                {
+                    "name": "HP",
+                    "children": [
+                        {
+                            "name": "Девелоперы",
+                            "children": []
+                        },
+                        {
+                            "name": "Печатающие головки",
+                            "children": []
+                        },
+                        {
+                            "name": "Носители данных",
+                            "children": []
+                        },
+                        {
+                            "name": "Барабаны",
+                            "children": []
+                        },
+                        {
+                            "name": "Лазерные",
+                            "children": []
+                        },
+                        {
+                            "name": "Пленки",
+                            "children": []
+                        },
+                        {
+                            "name": "Струйные",
+                            "children": []
+                        },
+                        {
+                            "name": "Тонеры",
+                            "children": []
+                        },
+                        {
+                            "name": "HP C картриджи (контрактные, белая упаковка)",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Konica Minolta",
+                    "children": [
+                        {
+                            "name": "Девелоперы / Блоки проявки",
+                            "children": []
+                        },
+                        {
+                            "name": "Барабаны / Блоки барабанов / Имидж-юниты",
+                            "children": []
+                        },
+                        {
+                            "name": "Лазерные картриджи",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочее",
+                            "children": []
+                        },
+                        {
+                            "name": "Тонеры / Тонер-картриджи",
+                            "children": [
+                                {
+                                    "name": "Монохромные",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Цветные",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Toshiba",
+                    "children": [
+                        {
+                            "name": "Валы",
+                            "children": []
+                        },
+                        {
+                            "name": "Тонеры",
+                            "children": [
+                                {
+                                    "name": "Монохромные",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Цветные",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Девелопер",
+                            "children": []
+                        },
+                        {
+                            "name": "Барабаны",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Epson",
+                    "children": [
+                        {
+                            "name": "Барабаны",
+                            "children": []
+                        },
+                        {
+                            "name": "Лазерные",
+                            "children": []
+                        },
+                        {
+                            "name": "Струйные",
+                            "children": []
+                        },
+                        {
+                            "name": "Тонеры",
+                            "children": []
+                        },
+                        {
+                            "name": "Вал",
+                            "children": []
+                        },
+                        {
+                            "name": "Картридж",
+                            "children": []
+                        },
+                        {
+                            "name": "Матричный",
+                            "children": []
+                        },
+                        {
+                            "name": "Чернила",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "OCE",
+                    "children": [
+                        {
+                            "name": "Девелопер",
+                            "children": []
+                        },
+                        {
+                            "name": "Струйные картриджи",
+                            "children": []
+                        },
+                        {
+                            "name": "Тонер",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2548 @@
+{
+    "212": [
+        {
+            "name": "Ноутбуки",
+            "children": [
+                {
+                    "name": "   Ноутбуки ASUS",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Оргтехника",
+            "children": [
+                {
+                    "name": "   Телефония",
+                    "children": []
+                },
+                {
+                    "name": "         Расходные материалы Fellowes",
+                    "children": []
+                },
+                {
+                    "name": "      Оргтехника Lamirel",
+                    "children": []
+                },
+                {
+                    "name": "      Оргтехника PANASONIC",
+                    "children": []
+                },
+                {
+                    "name": "         Расходные материалы Panasonic",
+                    "children": []
+                },
+                {
+                    "name": "         Шредеры Fellowes",
+                    "children": []
+                },
+                {
+                    "name": "      Телефония PANASONIC",
+                    "children": []
+                },
+                {
+                    "name": "         Проводные телефоны Panasonic",
+                    "children": []
+                },
+                {
+                    "name": "         Р/телефоны Panasonic",
+                    "children": []
+                },
+                {
+                    "name": "      Телефония Gigaset",
+                    "children": []
+                },
+                {
+                    "name": "         Ламинаторы Fellowes",
+                    "children": []
+                },
+                {
+                    "name": "      Телефония Yealink",
+                    "children": []
+                },
+                {
+                    "name": "   Оборудование Jabra",
+                    "children": []
+                },
+                {
+                    "name": "   Постпечатное оборудование",
+                    "children": []
+                },
+                {
+                    "name": "      Оргтехника Buro/Hama",
+                    "children": []
+                },
+                {
+                    "name": "         Ламинаторы Buro/Hama",
+                    "children": []
+                },
+                {
+                    "name": "         Резаки Fellowes",
+                    "children": []
+                },
+                {
+                    "name": "      Оргтехника Fellowes",
+                    "children": []
+                },
+                {
+                    "name": "         Брошюровщики Fellowes",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "      ИБП ExeGate (Снятые с производства)",
+            "children": []
+        },
+        {
+            "name": "Смартфоны",
+            "children": [
+                {
+                    "name": "   Смартфоны Xiaomi",
+                    "children": []
+                },
+                {
+                    "name": "   Аксессуары для смартфонов",
+                    "children": []
+                },
+                {
+                    "name": "   Смартфоны Apple",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Звуковые карты",
+            "children": [
+                {
+                    "name": "   Звуковые карты прочих производителей",
+                    "children": []
+                },
+                {
+                    "name": "   Звуковые карты ASUS",
+                    "children": []
+                },
+                {
+                    "name": "   Звуковые карты ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "   Звуковые карты Creative",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Кронштейны для мониторов",
+            "children": []
+        },
+        {
+            "name": "Платы видеомонтажа",
+            "children": [
+                {
+                    "name": "   Платы видеомонтажа AVerMedia",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Презентационное оборудование",
+            "children": [
+                {
+                    "name": "   Мультимедиа-проекторы Acer",
+                    "children": []
+                },
+                {
+                    "name": "   Мультимедиа-проекторы BenQ",
+                    "children": []
+                },
+                {
+                    "name": "   Мультимедиа-проекторы Epson",
+                    "children": []
+                },
+                {
+                    "name": "      Крепления для проекторов",
+                    "children": []
+                },
+                {
+                    "name": "         Крепления Kromax",
+                    "children": []
+                },
+                {
+                    "name": "         Крепления Wize",
+                    "children": []
+                },
+                {
+                    "name": "   Интерактивные доски",
+                    "children": []
+                },
+                {
+                    "name": "      Интерактивные доски прочие производители",
+                    "children": []
+                },
+                {
+                    "name": "      Проекционные экраны",
+                    "children": []
+                },
+                {
+                    "name": "         Экраны настенные",
+                    "children": []
+                },
+                {
+                    "name": "         Крепления прочие производители",
+                    "children": []
+                },
+                {
+                    "name": "   Аксессуары для проекторов и проекционных экранов",
+                    "children": []
+                },
+                {
+                    "name": "         Экраны с электроприводом",
+                    "children": []
+                },
+                {
+                    "name": "   Мультимедиа-проекторы ViewSonic",
+                    "children": []
+                },
+                {
+                    "name": "         Экраны на штативе",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Серверное оборудование",
+            "children": [
+                {
+                    "name": "         Корпуса ExeGate Pro (Rackmount) (с дефектами)",
+                    "children": []
+                },
+                {
+                    "name": "      Блоки силовых розеток",
+                    "children": []
+                },
+                {
+                    "name": "      Серверные блоки питания ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "      Опции к серверному оборудованию Supermicro",
+                    "children": []
+                },
+                {
+                    "name": "      Серверные корпуса Supermicro",
+                    "children": []
+                },
+                {
+                    "name": "   Серверное оборудование HP",
+                    "children": []
+                },
+                {
+                    "name": "      Опции к серверам HP",
+                    "children": []
+                },
+                {
+                    "name": "   Серверное оборудование Procase",
+                    "children": []
+                },
+                {
+                    "name": "   Серверное оборудование Intel",
+                    "children": []
+                },
+                {
+                    "name": "      Серверные корпуса ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "         Корпуса ExeGate Pro (Rackmount) (с витрины)",
+                    "children": []
+                },
+                {
+                    "name": "   Серверное оборудование Supermicro",
+                    "children": []
+                },
+                {
+                    "name": "         Корпуса ExeGate Pro (Снятые с производства)",
+                    "children": []
+                },
+                {
+                    "name": "      Серверные платформы Supermicro",
+                    "children": []
+                },
+                {
+                    "name": "      Опции к серверному оборудованию Intel",
+                    "children": []
+                },
+                {
+                    "name": "      Аксессуары к серверным корпусам",
+                    "children": []
+                },
+                {
+                    "name": "      Платформы и блоки питания с резервированием ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "      Серверные материнские платы SuperMicro",
+                    "children": []
+                },
+                {
+                    "name": "   Серверное оборудование картриджи для стриммеров",
+                    "children": []
+                },
+                {
+                    "name": "   Серверное оборудование ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "   Серверное оборудование Chicony",
+                    "children": []
+                },
+                {
+                    "name": "   Серверное оборудование прочее",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Телевизоры и аксессуары к ним",
+            "children": [
+                {
+                    "name": "         Кронштейны Kromax",
+                    "children": []
+                },
+                {
+                    "name": "      Кронштейны/универсальные крепления для LCD , LED и плазменныз панелей",
+                    "children": []
+                },
+                {
+                    "name": "         Кронштейны прочие",
+                    "children": []
+                },
+                {
+                    "name": "   Аксессуары для телевизоров",
+                    "children": []
+                },
+                {
+                    "name": "         Кронштейны ARM Media",
+                    "children": []
+                },
+                {
+                    "name": "   Телевизоры",
+                    "children": []
+                },
+                {
+                    "name": "      Телевизоры Samsung",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Торговое оборудование",
+            "children": [
+                {
+                    "name": "   Сканеры штрих-кодов",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Лампы, светильники, садовые фонари",
+            "children": [
+                {
+                    "name": "   Светильники прочие производители",
+                    "children": []
+                },
+                {
+                    "name": "   Лампы ЭРА",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Материнские платы",
+            "children": [
+                {
+                    "name": "      Мат.платы ASRock Socket AM4",
+                    "children": []
+                },
+                {
+                    "name": "      Мат. платы Micro-Star Socket AM4",
+                    "children": []
+                },
+                {
+                    "name": "   Мат.платы ASRock",
+                    "children": []
+                },
+                {
+                    "name": "      Мат.платы ASRock Socket 1200",
+                    "children": []
+                },
+                {
+                    "name": "      Мат.платы ASUS Socket 1700",
+                    "children": []
+                },
+                {
+                    "name": "   Мат.платы ASUS",
+                    "children": []
+                },
+                {
+                    "name": "      Мат. платы Micro-Star Socket 1200",
+                    "children": []
+                },
+                {
+                    "name": "      Мат.платы ASRock Socket 1700",
+                    "children": []
+                },
+                {
+                    "name": "      Мат.платы ASUS Socket 1200",
+                    "children": []
+                },
+                {
+                    "name": "      Мат.платы ASUS Socket AM4",
+                    "children": []
+                },
+                {
+                    "name": "      Мат.платы Gigabyte Socket 775",
+                    "children": []
+                },
+                {
+                    "name": "      Мат.платы Gigabyte Socket AM4",
+                    "children": []
+                },
+                {
+                    "name": "   Мат.платы Micro-Star",
+                    "children": []
+                },
+                {
+                    "name": "      Мат.платы Gigabyte Socket 1200",
+                    "children": []
+                },
+                {
+                    "name": "      Мат.платы ASUS Socket 1151",
+                    "children": []
+                },
+                {
+                    "name": "   Мат.платы GigaByte",
+                    "children": []
+                },
+                {
+                    "name": "      Мат. платы Micro-Star Socket 1700",
+                    "children": []
+                },
+                {
+                    "name": "      Мат.платы ASUS processor onboard",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Портативные накопители, устройства чтения/записи",
+            "children": [
+                {
+                    "name": "      SD Transcend",
+                    "children": []
+                },
+                {
+                    "name": "      MicroSD QUMO",
+                    "children": []
+                },
+                {
+                    "name": "      MicroSD SanDisk",
+                    "children": []
+                },
+                {
+                    "name": "      USB Flash Drive Transcend",
+                    "children": []
+                },
+                {
+                    "name": "   SD",
+                    "children": []
+                },
+                {
+                    "name": "      MicroSD SmartBuy",
+                    "children": []
+                },
+                {
+                    "name": "      USB Flash Drive SanDisk",
+                    "children": []
+                },
+                {
+                    "name": "      USB Flash Drive Silicon Power",
+                    "children": []
+                },
+                {
+                    "name": "      USB Flash Drive Smart Buy",
+                    "children": []
+                },
+                {
+                    "name": "         Картридеры внешние CBR",
+                    "children": []
+                },
+                {
+                    "name": "   MicroSD",
+                    "children": []
+                },
+                {
+                    "name": "      MicroSD Kingston",
+                    "children": []
+                },
+                {
+                    "name": "      MicroSD Transcend",
+                    "children": []
+                },
+                {
+                    "name": "      SD Silicon Power",
+                    "children": []
+                },
+                {
+                    "name": "      MicroSD прочих производителей",
+                    "children": []
+                },
+                {
+                    "name": "      USB Flash Drive QUMO",
+                    "children": []
+                },
+                {
+                    "name": "   Устр-ва чтения/записи Flash-карт",
+                    "children": []
+                },
+                {
+                    "name": "      Устр-ва чтения/записи Flash-карт внешние",
+                    "children": []
+                },
+                {
+                    "name": "         Картридеры внешние Transcend",
+                    "children": []
+                },
+                {
+                    "name": "      MicroSD Samsung",
+                    "children": []
+                },
+                {
+                    "name": "      MicroSD Silicon Power",
+                    "children": []
+                },
+                {
+                    "name": "      SD SanDisk",
+                    "children": []
+                },
+                {
+                    "name": "   CompactFlash Card",
+                    "children": []
+                },
+                {
+                    "name": "      MicroSD A-Data",
+                    "children": []
+                },
+                {
+                    "name": "   USB Flash Drive",
+                    "children": []
+                },
+                {
+                    "name": "      USB Flash Drive A-Data",
+                    "children": []
+                },
+                {
+                    "name": "      USB Flash Drive Kingston",
+                    "children": []
+                },
+                {
+                    "name": "      USB Flash Drive Netac",
+                    "children": []
+                },
+                {
+                    "name": "      SD Kingston",
+                    "children": []
+                },
+                {
+                    "name": "      CompactFlash Card Transcend",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Приводы CD/DVD/FDD/Blu-ray/HD DVD",
+            "children": [
+                {
+                    "name": "   Приводы внешние",
+                    "children": []
+                },
+                {
+                    "name": "   Приводы внутренние",
+                    "children": []
+                },
+                {
+                    "name": "   Приводы для ноутбуков",
+                    "children": []
+                },
+                {
+                    "name": "   Флоппи-дисководы",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Чистящие средства",
+            "children": [
+                {
+                    "name": "   Чистящие средства BURO",
+                    "children": []
+                },
+                {
+                    "name": "   Чистящие средства CACTUS",
+                    "children": []
+                },
+                {
+                    "name": "   Чистящие средства Defender",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Электро и ручной инструмент",
+            "children": [
+                {
+                    "name": "   Электроинструмент Makita",
+                    "children": []
+                },
+                {
+                    "name": "   Электроинструмент прочие",
+                    "children": []
+                },
+                {
+                    "name": "   Ручной инструмент",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Коврики для мышек",
+            "children": [
+                {
+                    "name": "   Коврики для мыши A4",
+                    "children": []
+                },
+                {
+                    "name": "   Коврики для мыши BURO",
+                    "children": []
+                },
+                {
+                    "name": "   Коврики для мыши Defender",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Компьютеры",
+            "children": [
+                {
+                    "name": "   Неттопы и платформы",
+                    "children": []
+                },
+                {
+                    "name": "      Неттопы и платформы прочие",
+                    "children": []
+                },
+                {
+                    "name": "   Микрокомьютеры и опции к ним",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Сетевые фильтры и удлинители",
+            "children": [
+                {
+                    "name": "   Сетевые фильтры PILOT",
+                    "children": []
+                },
+                {
+                    "name": "   Сетевые фильтры PowerCube",
+                    "children": []
+                },
+                {
+                    "name": "   Удлинители 220В ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "   Удлинители на катушке 220В ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "   Сетевые фильтры ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "   Сетевые фильтры SVEN",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Жесткие диски",
+            "children": [
+                {
+                    "name": "      Жесткие диски SATA 2,5\"",
+                    "children": []
+                },
+                {
+                    "name": "   Внешние жесткие диски",
+                    "children": []
+                },
+                {
+                    "name": "   SAS/SCSI HDD",
+                    "children": []
+                },
+                {
+                    "name": "      Жесткие диски SAS Western Digital/HGST",
+                    "children": []
+                },
+                {
+                    "name": "         Жесткие диски SATA 2,5\" Toshiba",
+                    "children": []
+                },
+                {
+                    "name": "      Жесткие диски SATA Western Digital",
+                    "children": []
+                },
+                {
+                    "name": "         Жесткие диски SATA 2,5\" WD",
+                    "children": []
+                },
+                {
+                    "name": "      Внешние жесткие диски Toshiba",
+                    "children": []
+                },
+                {
+                    "name": "      Внешние жесткие диски Trancend",
+                    "children": []
+                },
+                {
+                    "name": "      Жесткие диски SATA Toshiba",
+                    "children": []
+                },
+                {
+                    "name": "      Жесткие диски SATA WD/HGST",
+                    "children": []
+                },
+                {
+                    "name": "      Жесткие диски SAS Toshiba",
+                    "children": []
+                },
+                {
+                    "name": "      Жесткие диски SAS Seagate",
+                    "children": []
+                },
+                {
+                    "name": "         Жесткие диски SATA 2,5\" Seagate",
+                    "children": []
+                },
+                {
+                    "name": "      Внешние жесткие диски Seagate",
+                    "children": []
+                },
+                {
+                    "name": "      Внешние жесткие диски WD",
+                    "children": []
+                },
+                {
+                    "name": "   SATA",
+                    "children": []
+                },
+                {
+                    "name": "      Жесткие диски SATA Seagate",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "ИБП",
+            "children": [
+                {
+                    "name": "   ИБП ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "      ИБП ExeGate (с витрины)",
+                    "children": []
+                },
+                {
+                    "name": "   ИБП PowerCom",
+                    "children": []
+                },
+                {
+                    "name": "   ИБП CyberPower",
+                    "children": []
+                },
+                {
+                    "name": "   ИБП APC",
+                    "children": []
+                },
+                {
+                    "name": "   ИБП Ippon",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Процессоры AMD",
+            "children": [
+                {
+                    "name": "   Десктопные процессоры AMD Socket-AM5",
+                    "children": []
+                },
+                {
+                    "name": "   Десктопные процессоры AMD Socket-FM2+",
+                    "children": []
+                },
+                {
+                    "name": "   Десктопные процессоры AMD Socket-AM4",
+                    "children": []
+                },
+                {
+                    "name": "   Серверные процессоры AMD Socket SP3 LGA4096",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Джойстики",
+            "children": [
+                {
+                    "name": "   Джойстики Logitech",
+                    "children": []
+                },
+                {
+                    "name": "   Джойстики Defender",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Блоки питания",
+            "children": [
+                {
+                    "name": "      Блоки питания ExeGate (с дефектами)",
+                    "children": []
+                },
+                {
+                    "name": "   Блоки питания FSP",
+                    "children": []
+                },
+                {
+                    "name": "   Блоки питания INWIN/Powerman",
+                    "children": []
+                },
+                {
+                    "name": "   Блоки питания ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "      Блоки питания ExeGate (REF)",
+                    "children": []
+                },
+                {
+                    "name": "      Блоки питания ExeGate (Снятые с производства)",
+                    "children": []
+                },
+                {
+                    "name": "   Блоки питания Aerocool",
+                    "children": []
+                },
+                {
+                    "name": "   Блоки питания Chieftec",
+                    "children": []
+                },
+                {
+                    "name": "   Блоки питания Thermaltake",
+                    "children": []
+                },
+                {
+                    "name": "   Блоки питания Zalman",
+                    "children": []
+                },
+                {
+                    "name": "   Блоки питания CoolerMaster",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Дискеты и диски",
+            "children": [
+                {
+                    "name": "   Диски CD-R",
+                    "children": []
+                },
+                {
+                    "name": "      Диски DVD+R",
+                    "children": []
+                },
+                {
+                    "name": "      Диски DVD-R",
+                    "children": []
+                },
+                {
+                    "name": "   Диски DVD-RAM/+RW/+R/-R",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Зарядки для USB-устройств",
+            "children": []
+        },
+        {
+            "name": "Контроллеры",
+            "children": [
+                {
+                    "name": "   Кoнтроллеры Adaptec",
+                    "children": []
+                },
+                {
+                    "name": "   Контроллеры LSI Logic",
+                    "children": []
+                },
+                {
+                    "name": "   Контроллеры Orient",
+                    "children": []
+                },
+                {
+                    "name": "   Контроллеры прочих производителей",
+                    "children": []
+                },
+                {
+                    "name": "   Кoнтроллеры STLab",
+                    "children": []
+                },
+                {
+                    "name": "   Контроллеры Espada",
+                    "children": []
+                },
+                {
+                    "name": "   Контроллеры ExeGate",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Концентраторы/USB Hub",
+            "children": [
+                {
+                    "name": "   Концентраторы USB ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "   Концентраторы/USB Hub прочие",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Принтеры/МФУ/Копиры/Сканеры/3D печать",
+            "children": [
+                {
+                    "name": "   Принтеры/МФУ/Копиры Brother",
+                    "children": []
+                },
+                {
+                    "name": "      Принтеры и МФУ лазерные Canon",
+                    "children": []
+                },
+                {
+                    "name": "      Акссесуары к копировальным аппаратам Kyocera Mita",
+                    "children": []
+                },
+                {
+                    "name": "      Сканеры Epson",
+                    "children": []
+                },
+                {
+                    "name": "   Сканеры",
+                    "children": []
+                },
+                {
+                    "name": "      Прочее",
+                    "children": []
+                },
+                {
+                    "name": "   Ручки 3D",
+                    "children": []
+                },
+                {
+                    "name": "      Сканеры HP",
+                    "children": []
+                },
+                {
+                    "name": "   Принтеры/МФУ/Копиры ПРОЧИЕ",
+                    "children": []
+                },
+                {
+                    "name": "      Сканеры CANON",
+                    "children": []
+                },
+                {
+                    "name": "   Принтеры/МФУ/Копиры RICOH",
+                    "children": []
+                },
+                {
+                    "name": "   Принтеры/МФУ/Копиры Xerox",
+                    "children": []
+                },
+                {
+                    "name": "      Сканеры Fujitsu",
+                    "children": []
+                },
+                {
+                    "name": "   Принтеры/МФУ/Копиры CANON",
+                    "children": []
+                },
+                {
+                    "name": "      Принтеры и МФУ струйные Epson",
+                    "children": []
+                },
+                {
+                    "name": "      Принтеры матричные Epson",
+                    "children": []
+                },
+                {
+                    "name": "   Принтеры/МФУ/Копиры HP",
+                    "children": []
+                },
+                {
+                    "name": "   Принтеры/МФУ/Копиры Kyocera",
+                    "children": []
+                },
+                {
+                    "name": "      Принтеры и МФУ струйные Canon",
+                    "children": []
+                },
+                {
+                    "name": "   Принтеры/МФУ/Копиры EPSON",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Программное обеспечение",
+            "children": [
+                {
+                    "name": "   MICROSOFT",
+                    "children": []
+                },
+                {
+                    "name": "      Microsoft BOXES (коробочные продукты)",
+                    "children": []
+                },
+                {
+                    "name": "      Microsoft OEM версии",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Процессоры INTEL",
+            "children": [
+                {
+                    "name": "   Десктопные процессоры INTEL LGA1200",
+                    "children": []
+                },
+                {
+                    "name": "   Десктопные процессоры INTEL LGA1700",
+                    "children": []
+                },
+                {
+                    "name": "   Десктопные процессоры INTEL LGA1151",
+                    "children": []
+                },
+                {
+                    "name": "   Серверные процессоры INTEL LGA4189",
+                    "children": []
+                },
+                {
+                    "name": "   Серверные процессоры INTEL LGA3647",
+                    "children": []
+                },
+                {
+                    "name": "   Серверные процессоры INTEL LGA1151",
+                    "children": []
+                },
+                {
+                    "name": "   Десктопные процессоры INTEL LGA2066",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Расходные материалы, бумага, ЗИП",
+            "children": [
+                {
+                    "name": "      Бумага Brother",
+                    "children": []
+                },
+                {
+                    "name": "      ЗИП Kyocera",
+                    "children": []
+                },
+                {
+                    "name": "      Фотобарабаны",
+                    "children": []
+                },
+                {
+                    "name": "         Фотобарабаны для Canon",
+                    "children": []
+                },
+                {
+                    "name": "         Фотобарабаны для HP",
+                    "children": []
+                },
+                {
+                    "name": "   Расходные материалы Kyocera-Mita",
+                    "children": []
+                },
+                {
+                    "name": "   Расходные материалы Ricoh",
+                    "children": []
+                },
+                {
+                    "name": "   Расходные материалы Samsung",
+                    "children": []
+                },
+                {
+                    "name": "         Фотобарабаны для Lexmark",
+                    "children": []
+                },
+                {
+                    "name": "   Расходные материалы T2",
+                    "children": []
+                },
+                {
+                    "name": "      ЗИП HP",
+                    "children": []
+                },
+                {
+                    "name": "   Бумага",
+                    "children": []
+                },
+                {
+                    "name": "   Расходные материалы Brother",
+                    "children": []
+                },
+                {
+                    "name": "   Расходные материалы Cactus",
+                    "children": []
+                },
+                {
+                    "name": "      Бумага Lomond",
+                    "children": []
+                },
+                {
+                    "name": "   Расходные материалы Epson",
+                    "children": []
+                },
+                {
+                    "name": "   Расходные материалы HP",
+                    "children": []
+                },
+                {
+                    "name": "      ЗИП Прочее",
+                    "children": []
+                },
+                {
+                    "name": "         Фотобарабаны для Samsung",
+                    "children": []
+                },
+                {
+                    "name": "         Фотобарабаны для Xerox",
+                    "children": []
+                },
+                {
+                    "name": "         Фотобарабаны прочие",
+                    "children": []
+                },
+                {
+                    "name": "   Расходные материалы Bion",
+                    "children": []
+                },
+                {
+                    "name": "   Расходные материалы Xerox",
+                    "children": []
+                },
+                {
+                    "name": "   Расходные материалы прочие",
+                    "children": []
+                },
+                {
+                    "name": "      Бумага Xerox",
+                    "children": []
+                },
+                {
+                    "name": "      Бумага офисная",
+                    "children": []
+                },
+                {
+                    "name": "      Бумага HP",
+                    "children": []
+                },
+                {
+                    "name": "   Расходные материалы 3D печать",
+                    "children": []
+                },
+                {
+                    "name": "   Расходные материалы Canon",
+                    "children": []
+                },
+                {
+                    "name": "   ЗИП",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "СХД",
+            "children": [
+                {
+                    "name": "   СХД системы QNAP",
+                    "children": []
+                },
+                {
+                    "name": "   СХД системы Synology",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Аккумуляторные батареи",
+            "children": [
+                {
+                    "name": "   Аккумуляторные батареи Delta",
+                    "children": []
+                },
+                {
+                    "name": "   Аккумуляторные батареи Ippon",
+                    "children": []
+                },
+                {
+                    "name": "   Аккумуляторные батареи SVEN",
+                    "children": []
+                },
+                {
+                    "name": "   Аккумуляторные батареи APC",
+                    "children": []
+                },
+                {
+                    "name": "   Аккумуляторные батареи CSB",
+                    "children": []
+                },
+                {
+                    "name": "   Аккумуляторные батареи ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "   Аккумуляторные батареи прочие",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Сетевое оборудование",
+            "children": [
+                {
+                    "name": "   Сетевое оборудование Ubiquiti",
+                    "children": []
+                },
+                {
+                    "name": "   Сетевое оборудование прочих производителей",
+                    "children": []
+                },
+                {
+                    "name": "   Сетевые карты (адаптеры LAN) USB",
+                    "children": []
+                },
+                {
+                    "name": "   Сетевое оборудование HP",
+                    "children": []
+                },
+                {
+                    "name": "   Сетевое оборудование ZyXEL",
+                    "children": []
+                },
+                {
+                    "name": "      Сетевое оборудование  под оптоволокно",
+                    "children": []
+                },
+                {
+                    "name": "      Сетевые адаптеры с портами RJ-45",
+                    "children": []
+                },
+                {
+                    "name": "      Сетевые карты USB",
+                    "children": []
+                },
+                {
+                    "name": "   Сетевое оборудование Intel",
+                    "children": []
+                },
+                {
+                    "name": "   Сетевое оборудование Keenetic",
+                    "children": []
+                },
+                {
+                    "name": "   Сетевое оборудование Mikrotik",
+                    "children": []
+                },
+                {
+                    "name": "   Сетевое оборудование ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "   Сетевые карты USB",
+                    "children": []
+                },
+                {
+                    "name": "   Сетевое оборудование Asus",
+                    "children": []
+                },
+                {
+                    "name": "   Сетевое оборудование D-Link",
+                    "children": []
+                },
+                {
+                    "name": "   Сетевое оборудование TP-Link",
+                    "children": []
+                },
+                {
+                    "name": "   Bluetooth и устройства IR-связи",
+                    "children": []
+                },
+                {
+                    "name": "   USB Сетевые карты",
+                    "children": []
+                },
+                {
+                    "name": "   Сетевое оборудование Aten",
+                    "children": []
+                },
+                {
+                    "name": "   Сетевое оборудование Tenda",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Сети: кабель, монтажное оборудование, материалы",
+            "children": [
+                {
+                    "name": "   Инструменты",
+                    "children": []
+                },
+                {
+                    "name": "   Кабель-менеджмент",
+                    "children": []
+                },
+                {
+                    "name": "   Кабель в бухтах",
+                    "children": []
+                },
+                {
+                    "name": "   Сети: кабель, монтажн. об-ие, материалы (Снятое с производства)",
+                    "children": []
+                },
+                {
+                    "name": "      яя Сетевое одноразовое",
+                    "children": []
+                },
+                {
+                    "name": "   Стяжки, площадки для крепления стяжек и т.п.",
+                    "children": []
+                },
+                {
+                    "name": "   Монтажное оборудование ABB",
+                    "children": []
+                },
+                {
+                    "name": "   Монтажное оборудование ЦМО",
+                    "children": []
+                },
+                {
+                    "name": "   Патч-панели",
+                    "children": []
+                },
+                {
+                    "name": "   Коннекторы, розетки и т.п.",
+                    "children": []
+                },
+                {
+                    "name": "   Монтажное оборудование Hyperline",
+                    "children": []
+                },
+                {
+                    "name": "   Патч-корды, кабели-адаптеры, ВО шнуры",
+                    "children": []
+                },
+                {
+                    "name": "   Прочие производители",
+                    "children": []
+                },
+                {
+                    "name": "   Телекоммуникационные шкафы ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "   Сетевое одноразовое",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Видеокарты",
+            "children": [
+                {
+                    "name": "         Видеокарты GigaByte",
+                    "children": []
+                },
+                {
+                    "name": "   Видеокарты PCI-Ex",
+                    "children": []
+                },
+                {
+                    "name": "         Видеокарты ASUSTeK",
+                    "children": []
+                },
+                {
+                    "name": "      Видеокарты на чипсете nVidia",
+                    "children": []
+                },
+                {
+                    "name": "         Видеокарты Micro-star",
+                    "children": []
+                },
+                {
+                    "name": "         Видеокарты Palit",
+                    "children": []
+                },
+                {
+                    "name": "         Видеокарты прочих производителей",
+                    "children": []
+                },
+                {
+                    "name": "      Видеокарты на чипсете ATI",
+                    "children": []
+                },
+                {
+                    "name": "         Видеокарты Sapphire",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Кабели, переходники, разветвители",
+            "children": [
+                {
+                    "name": "   Шлейфы, кабели, переходники, разветвители (Снятое с производства)",
+                    "children": []
+                },
+                {
+                    "name": "   Кабели и переходники DVI, HDMI, Display Port, SVGA",
+                    "children": []
+                },
+                {
+                    "name": "   Кабели и переходники LPT, COM, PS/2",
+                    "children": []
+                },
+                {
+                    "name": "   Кабели внутренние (для HDD, MB, шлейфы)",
+                    "children": []
+                },
+                {
+                    "name": "   Кабели и переходники Audio",
+                    "children": []
+                },
+                {
+                    "name": "   Кабели прочие",
+                    "children": []
+                },
+                {
+                    "name": "   Кабели и переходники USB",
+                    "children": []
+                },
+                {
+                    "name": "   Конвертеры, разветвители, сплиттеры",
+                    "children": []
+                },
+                {
+                    "name": "   Кабели питания",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Канцтовары",
+            "children": [
+                {
+                    "name": "   Маркеры",
+                    "children": []
+                },
+                {
+                    "name": "   Ножи концелярские",
+                    "children": []
+                },
+                {
+                    "name": "   Конверты",
+                    "children": []
+                },
+                {
+                    "name": "   Папки",
+                    "children": []
+                },
+                {
+                    "name": "   Прочее",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Клавиатуры",
+            "children": [
+                {
+                    "name": "   Клавиатуры Defender",
+                    "children": []
+                },
+                {
+                    "name": "   Клавиатуры ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "   Клавиатуры OKLICK",
+                    "children": []
+                },
+                {
+                    "name": "   Клавиатуры SVEN",
+                    "children": []
+                },
+                {
+                    "name": "   Клавиатуры прочие",
+                    "children": []
+                },
+                {
+                    "name": "   Клавиатуры Gembird",
+                    "children": []
+                },
+                {
+                    "name": "   Клавиатуры Logitech",
+                    "children": []
+                },
+                {
+                    "name": "   Клавиатуры A4-Tech",
+                    "children": []
+                },
+                {
+                    "name": "   Клавиатуры CBR/Human Friends",
+                    "children": []
+                },
+                {
+                    "name": "   Клавиатуры Genius",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Корпуса для майнинга",
+            "children": []
+        },
+        {
+            "name": "Мебель",
+            "children": [
+                {
+                    "name": "   Стулья",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Наушники, микрофоны",
+            "children": [
+                {
+                    "name": "      Наушники Dialog",
+                    "children": []
+                },
+                {
+                    "name": "      Наушники ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "      Наушники Gembird",
+                    "children": []
+                },
+                {
+                    "name": "      Наушники Sven",
+                    "children": []
+                },
+                {
+                    "name": "      Наушники CBR/Human",
+                    "children": []
+                },
+                {
+                    "name": "      Наушники Koss",
+                    "children": []
+                },
+                {
+                    "name": "      Наушники Panasonic",
+                    "children": []
+                },
+                {
+                    "name": "      Наушники Ritmix",
+                    "children": []
+                },
+                {
+                    "name": "      Наушники Sennheiser",
+                    "children": []
+                },
+                {
+                    "name": "      Наушники прочие производители",
+                    "children": []
+                },
+                {
+                    "name": "      Наушники Defender",
+                    "children": []
+                },
+                {
+                    "name": "   Микрофоны",
+                    "children": []
+                },
+                {
+                    "name": "      Микрофоны Defender",
+                    "children": []
+                },
+                {
+                    "name": "      Микрофоны Sven",
+                    "children": []
+                },
+                {
+                    "name": "   Наушники",
+                    "children": []
+                },
+                {
+                    "name": "      Наушники A4Tech",
+                    "children": []
+                },
+                {
+                    "name": "      Наушники Hama",
+                    "children": []
+                },
+                {
+                    "name": "      Наушники Creative",
+                    "children": []
+                },
+                {
+                    "name": "      Наушники Genius",
+                    "children": []
+                },
+                {
+                    "name": "      Микрофоны прочие производители",
+                    "children": []
+                },
+                {
+                    "name": "      Наушники Logitech",
+                    "children": []
+                },
+                {
+                    "name": "      Наушники Sony",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Охранные системы",
+            "children": [
+                {
+                    "name": "      Системы видеонаблюдения прочие",
+                    "children": []
+                },
+                {
+                    "name": "      Системы видеонаблюдения Hikvision",
+                    "children": []
+                },
+                {
+                    "name": "   Системы видеонаблюдения",
+                    "children": []
+                },
+                {
+                    "name": "      Системы видеонаблюдения Orient",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Аксессуары для ноутбуков и планшетов",
+            "children": [
+                {
+                    "name": "   Аксессуары для ноутбуков и  планшетов",
+                    "children": []
+                },
+                {
+                    "name": "   Аксессуары для ноутбуков и планшетов APPLE",
+                    "children": []
+                },
+                {
+                    "name": "      Зарядные устройства прочие производители",
+                    "children": []
+                },
+                {
+                    "name": "      Сумки Sumdex",
+                    "children": []
+                },
+                {
+                    "name": "   Замки, сигнализации",
+                    "children": []
+                },
+                {
+                    "name": "   Чехлы и сумки для ноутбуков и планшетов",
+                    "children": []
+                },
+                {
+                    "name": "   Зарядные устройства для ноутбуков универсальные",
+                    "children": []
+                },
+                {
+                    "name": "      Зарядные устройства KS-is",
+                    "children": []
+                },
+                {
+                    "name": "      Сумки Continent",
+                    "children": []
+                },
+                {
+                    "name": "      Сумки Defender",
+                    "children": []
+                },
+                {
+                    "name": "      Сумки ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "      Сумки PC Pet",
+                    "children": []
+                },
+                {
+                    "name": "      Сумки Samsonite",
+                    "children": []
+                },
+                {
+                    "name": "   Охлаждающие подставки для ноутбуков",
+                    "children": []
+                },
+                {
+                    "name": "      Охлаждающие подставки прочие производители",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Аксессуары к жестким дискам и SSD",
+            "children": [
+                {
+                    "name": "   Аксессуары к жестким дискам и SSD Espada",
+                    "children": []
+                },
+                {
+                    "name": "   Аксессуары к жестким дискам и SSD прочих производителей",
+                    "children": []
+                },
+                {
+                    "name": "   Аксессуары к жестким дискам и SSD ZALMAN",
+                    "children": []
+                },
+                {
+                    "name": "   Аксессуары к жестким дискам и SSD Agestar",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Акустические системы",
+            "children": [
+                {
+                    "name": "   Акустические системы Creative",
+                    "children": []
+                },
+                {
+                    "name": "   Акустические системы Microlab",
+                    "children": []
+                },
+                {
+                    "name": "   Акустические системы Logitech",
+                    "children": []
+                },
+                {
+                    "name": "   Акустические системы Sven",
+                    "children": []
+                },
+                {
+                    "name": "   Акустические системы ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "   Акустические системы Defender",
+                    "children": []
+                },
+                {
+                    "name": "   Акустические системы Edifier",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Батарейки, аккумуляторы и зарядные устройства",
+            "children": [
+                {
+                    "name": "      Батарейки ТРОФИ",
+                    "children": []
+                },
+                {
+                    "name": "      Аккумуляторы GP",
+                    "children": []
+                },
+                {
+                    "name": "   Портативные аккумуляторы (Powerbank)",
+                    "children": []
+                },
+                {
+                    "name": "   Аккумуляторы",
+                    "children": []
+                },
+                {
+                    "name": "      Батарейки Duracell",
+                    "children": []
+                },
+                {
+                    "name": "      Аккумуляторы прочие",
+                    "children": []
+                },
+                {
+                    "name": "   Батарейки",
+                    "children": []
+                },
+                {
+                    "name": "      Батарейки GP",
+                    "children": []
+                },
+                {
+                    "name": "      Батарейки прочие",
+                    "children": []
+                },
+                {
+                    "name": "   Зарядные устройства",
+                    "children": []
+                },
+                {
+                    "name": "      Зарядные устройства Camelion",
+                    "children": []
+                },
+                {
+                    "name": "      Аккумуляторы Camelion",
+                    "children": []
+                },
+                {
+                    "name": "      Портативные аккумуляторы разные (Powerbank)",
+                    "children": []
+                },
+                {
+                    "name": "      Батарейки Camelion",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Вентиляторы, кулеры, термопрокладки и термопаста",
+            "children": [
+                {
+                    "name": "      Жидкостное охлаждение CPU Deepcool",
+                    "children": []
+                },
+                {
+                    "name": "      Вентиляторы 12В CoolerMaster",
+                    "children": []
+                },
+                {
+                    "name": "      Вентиляторы 12В ZALMAN",
+                    "children": []
+                },
+                {
+                    "name": "      Воздушное охлаждение CPU CoolerMaster",
+                    "children": []
+                },
+                {
+                    "name": "   Вентиляторы 12В ARGB",
+                    "children": []
+                },
+                {
+                    "name": "   Аксессуары к вентиляторам",
+                    "children": []
+                },
+                {
+                    "name": "   Вентиляторы 12В",
+                    "children": []
+                },
+                {
+                    "name": "      Воздушное охлаждение CPU Deepcool",
+                    "children": []
+                },
+                {
+                    "name": "      Термопаста GemBird",
+                    "children": []
+                },
+                {
+                    "name": "   Жидкостное охлаждение CPU",
+                    "children": []
+                },
+                {
+                    "name": "      Вентиляторы 12В Gembird",
+                    "children": []
+                },
+                {
+                    "name": "      Вентиляторы 12В Arctic Cooling",
+                    "children": []
+                },
+                {
+                    "name": "   Вентиляторы 220В",
+                    "children": []
+                },
+                {
+                    "name": "      Вентиляторы 220В ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "   Вентиляторы 24В",
+                    "children": []
+                },
+                {
+                    "name": "   Вентиляторы 5В",
+                    "children": []
+                },
+                {
+                    "name": "   Вентиляторы с подсветкой ARGB/RGB",
+                    "children": []
+                },
+                {
+                    "name": "   Воздушное охлаждение CPU",
+                    "children": []
+                },
+                {
+                    "name": "      Воздушное охлаждение CPU Aerocool",
+                    "children": []
+                },
+                {
+                    "name": "      Воздушное охлаждение CPU Arctic Cooling",
+                    "children": []
+                },
+                {
+                    "name": "      Воздушное охлаждение CPU ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "      Воздушное охлаждение CPU PCCooler",
+                    "children": []
+                },
+                {
+                    "name": "      Жидкостное охлаждение CPU ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "      Вентиляторы 12В Deepcool",
+                    "children": []
+                },
+                {
+                    "name": "      Вентиляторы 12В ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "      Термопаста ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "   Термопаста",
+                    "children": []
+                },
+                {
+                    "name": "      Термопаста прочих производителей",
+                    "children": []
+                },
+                {
+                    "name": "   Термопрокладки",
+                    "children": []
+                },
+                {
+                    "name": "      Термопрокладки ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "      Термопаста Zalman",
+                    "children": []
+                },
+                {
+                    "name": "      Термопаста Deepcool",
+                    "children": []
+                },
+                {
+                    "name": "      Термопаста Coolermaster",
+                    "children": []
+                },
+                {
+                    "name": "      Воздушное охлаждение CPU ZALMAN",
+                    "children": []
+                },
+                {
+                    "name": "      Воздушное охлаждение CPU INTEL",
+                    "children": []
+                },
+                {
+                    "name": "      Термопаста Arctic Cooling",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Корпуса",
+            "children": [
+                {
+                    "name": "   Корпуса Corsair",
+                    "children": []
+                },
+                {
+                    "name": "   Корпуса CoolerMaster",
+                    "children": []
+                },
+                {
+                    "name": "   Корпуса Fractal Design",
+                    "children": []
+                },
+                {
+                    "name": "   Корпуса Aerocool",
+                    "children": []
+                },
+                {
+                    "name": "   Корпуса ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "   Корпуса Thermaltake",
+                    "children": []
+                },
+                {
+                    "name": "      Корпуса ExeGate (Снятые с производства)",
+                    "children": []
+                },
+                {
+                    "name": "   Корпуса Powerman",
+                    "children": []
+                },
+                {
+                    "name": "      Аксессуары к корпусам",
+                    "children": []
+                },
+                {
+                    "name": "      Корпуса ExeGate (с витрины)",
+                    "children": []
+                },
+                {
+                    "name": "      Корпуса ExeGate (с дефектами)",
+                    "children": []
+                },
+                {
+                    "name": "   Корпуса InWin",
+                    "children": []
+                },
+                {
+                    "name": "   Аксессуары для корпусов",
+                    "children": []
+                },
+                {
+                    "name": "   Корпуса PowerCool",
+                    "children": []
+                },
+                {
+                    "name": "   Корпуса ZALMAN",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Мыши",
+            "children": [
+                {
+                    "name": "   Мыши OKLICK",
+                    "children": []
+                },
+                {
+                    "name": "   Мыши SVEN",
+                    "children": []
+                },
+                {
+                    "name": "   Мыши Genius",
+                    "children": []
+                },
+                {
+                    "name": "   Мыши Defender",
+                    "children": []
+                },
+                {
+                    "name": "   Мыши A4-Tech",
+                    "children": []
+                },
+                {
+                    "name": "   Мыши Microsoft",
+                    "children": []
+                },
+                {
+                    "name": "   Мыши Dialog",
+                    "children": []
+                },
+                {
+                    "name": "   Мыши ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "      Мыши ExeGate (с витрины)",
+                    "children": []
+                },
+                {
+                    "name": "      Мыши беспроводные ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "      Мыши проводные ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "   Мыши Logitech",
+                    "children": []
+                },
+                {
+                    "name": "   Мыши прочие",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Стабилизаторы",
+            "children": [
+                {
+                    "name": "   Стабилизаторы напряжения Defender",
+                    "children": []
+                },
+                {
+                    "name": "   Стабилизаторы напряжения ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "   Стабилизаторы напряжения SVEN",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Графические планшеты",
+            "children": [
+                {
+                    "name": "   Графические планшеты WACOM",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Бытовая техника",
+            "children": [
+                {
+                    "name": "      Вытяжки кухонные",
+                    "children": []
+                },
+                {
+                    "name": "         СВЧ-печи LG",
+                    "children": []
+                },
+                {
+                    "name": "      СВЧ печи",
+                    "children": []
+                },
+                {
+                    "name": "      Приборы для укладки волос",
+                    "children": []
+                },
+                {
+                    "name": "         Приборы для укладки волос прочие производители",
+                    "children": []
+                },
+                {
+                    "name": "         Вытяжки кухонные прочие производители",
+                    "children": []
+                },
+                {
+                    "name": "         Машинки для стрижки Philips",
+                    "children": []
+                },
+                {
+                    "name": "   Красота и здоровье",
+                    "children": []
+                },
+                {
+                    "name": "      Холодильники",
+                    "children": []
+                },
+                {
+                    "name": "      Чайники, термопоты",
+                    "children": []
+                },
+                {
+                    "name": "         Чайники Polaris",
+                    "children": []
+                },
+                {
+                    "name": "         Холодильники Атлант",
+                    "children": []
+                },
+                {
+                    "name": "      Духовые шкафы электрические",
+                    "children": []
+                },
+                {
+                    "name": "         Духовые шкафы электрические Gefest",
+                    "children": []
+                },
+                {
+                    "name": "   Бытовая техника мелкая",
+                    "children": []
+                },
+                {
+                    "name": "         Холодильники Саратов",
+                    "children": []
+                },
+                {
+                    "name": "         Чайники прочие производители",
+                    "children": []
+                },
+                {
+                    "name": "   Вентиляторы бытовые",
+                    "children": []
+                },
+                {
+                    "name": "   Бытовая техника крупная",
+                    "children": []
+                },
+                {
+                    "name": "      Машинки для стрижки",
+                    "children": []
+                },
+                {
+                    "name": "   Приятные мелочи",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Мониторы",
+            "children": [
+                {
+                    "name": "   Мониторы Philips",
+                    "children": []
+                },
+                {
+                    "name": "   Мониторы прочие",
+                    "children": []
+                },
+                {
+                    "name": "      Аксессуары к мониторам",
+                    "children": []
+                },
+                {
+                    "name": "   Мониторы Dell",
+                    "children": []
+                },
+                {
+                    "name": "   Мониторы ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "   Мониторы LG",
+                    "children": []
+                },
+                {
+                    "name": "   Aксессуары к мониторам",
+                    "children": []
+                },
+                {
+                    "name": "   Мониторы AOC",
+                    "children": []
+                },
+                {
+                    "name": "   Мониторы Asus",
+                    "children": []
+                },
+                {
+                    "name": "   Мониторы Acer",
+                    "children": []
+                },
+                {
+                    "name": "   Мониторы HP",
+                    "children": []
+                },
+                {
+                    "name": "   Мониторы Samsung",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "SSD накопители",
+            "children": [
+                {
+                    "name": "      SSD 2.5\" SATA Samsung",
+                    "children": []
+                },
+                {
+                    "name": "      SSD M.2 Silicon",
+                    "children": []
+                },
+                {
+                    "name": "      SSD 2.5\" SATA Micron, Crucial",
+                    "children": []
+                },
+                {
+                    "name": "      SSD 2.5\" SATA SmartBuy",
+                    "children": []
+                },
+                {
+                    "name": "      SSD 2.5\" SATA WD",
+                    "children": []
+                },
+                {
+                    "name": "      SSD M.2 прочие",
+                    "children": []
+                },
+                {
+                    "name": "      SSD M.2 Samsung",
+                    "children": []
+                },
+                {
+                    "name": "      SSD M.2 WD",
+                    "children": []
+                },
+                {
+                    "name": "   SSD M.2",
+                    "children": []
+                },
+                {
+                    "name": "   SSD 2.5\" SATA",
+                    "children": []
+                },
+                {
+                    "name": "      SSD 2.5\" SATA Снятые с производства",
+                    "children": []
+                },
+                {
+                    "name": "      SSD 2.5\" SATA A-DATA",
+                    "children": []
+                },
+                {
+                    "name": "      SSD 2.5\" SATA Apacer",
+                    "children": []
+                },
+                {
+                    "name": "      SSD 2.5\" SATA ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "      SSD 2.5\" SATA Patriot",
+                    "children": []
+                },
+                {
+                    "name": "      SSD 2.5\" SATA прочие",
+                    "children": []
+                },
+                {
+                    "name": "   SSD PCI-E HHHL и прочие",
+                    "children": []
+                },
+                {
+                    "name": "   Внешние SSD накопители",
+                    "children": []
+                },
+                {
+                    "name": "      SSD M.2 Transcend",
+                    "children": []
+                },
+                {
+                    "name": "      SSD M.2 Apacer",
+                    "children": []
+                },
+                {
+                    "name": "      SSD M.2 Kingston",
+                    "children": []
+                },
+                {
+                    "name": "      SSD M.2 Patriot",
+                    "children": []
+                },
+                {
+                    "name": "   SSD SAS",
+                    "children": []
+                },
+                {
+                    "name": "         SSD REF 2.5\" SATA ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "      SSD M.2 ADATA",
+                    "children": []
+                },
+                {
+                    "name": "      SSD 2.5\" SATA Kingston",
+                    "children": []
+                },
+                {
+                    "name": "      SSD 2.5\" SATA Silicon Power",
+                    "children": []
+                },
+                {
+                    "name": "      SSD M.2 Intel",
+                    "children": []
+                },
+                {
+                    "name": "      SSD 2.5\" SATA Intel",
+                    "children": []
+                },
+                {
+                    "name": "      SSD M.2 ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "      SSD 2.5\" SATA AMD",
+                    "children": []
+                },
+                {
+                    "name": "      SSD 2.5\" SATA CBR",
+                    "children": []
+                },
+                {
+                    "name": "      SSD 2.5\" SATA Transcend",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Кабели питания",
+            "children": [
+                {
+                    "name": "   Кабель-переходник C14->Евророзетка Schuko",
+                    "children": []
+                },
+                {
+                    "name": "   Кабель питания IEC 320 C13->C14",
+                    "children": []
+                },
+                {
+                    "name": "   Кабель питания IEC 320 C19->C20",
+                    "children": []
+                },
+                {
+                    "name": "   Кабель питания Евровилка Schuko->C13",
+                    "children": []
+                },
+                {
+                    "name": "   Кабель питания Евровилка Schuko->C19",
+                    "children": []
+                },
+                {
+                    "name": "   Кабель питания ноутбуков, аудио/видео Евровилка CEE7/16->C7",
+                    "children": []
+                },
+                {
+                    "name": "   Кабель питания ноутбуков Евровилка Schuko->C5",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Память оперативная",
+            "children": [
+                {
+                    "name": "      Память оперативная для серверов DDR III",
+                    "children": []
+                },
+                {
+                    "name": "   Память оперативная DIMM DDR3",
+                    "children": []
+                },
+                {
+                    "name": "   Память оперативная DIMM DDR5",
+                    "children": []
+                },
+                {
+                    "name": "      Память оперативная для серверов DDR IV",
+                    "children": []
+                },
+                {
+                    "name": "      Память оперативная для ноутбуков DDRIII",
+                    "children": []
+                },
+                {
+                    "name": "   Память оперативная (Снятая с производства)",
+                    "children": []
+                },
+                {
+                    "name": "   Память оперативная SODIMM",
+                    "children": []
+                },
+                {
+                    "name": "         DDR III PC-10600 SODIMM",
+                    "children": []
+                },
+                {
+                    "name": "      Память оперативная для ноутбуков DDRIV",
+                    "children": []
+                },
+                {
+                    "name": "   Память оперативная DIMM DDR4",
+                    "children": []
+                },
+                {
+                    "name": "   Память оперативная DIMM DDR/DDR2",
+                    "children": []
+                },
+                {
+                    "name": "   Память оперативная RDIMM Registered / LRDIMM Load Reduced",
+                    "children": []
+                },
+                {
+                    "name": "         DDR III PC-12800 SODIMM",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "ВЕБ Камеры",
+            "children": [
+                {
+                    "name": "   ВЕБ Камеры ExeGate",
+                    "children": []
+                },
+                {
+                    "name": "   ВЕБ Камеры Logitech",
+                    "children": []
+                },
+                {
+                    "name": "   ВЕБ Камеры Genius",
+                    "children": []
+                },
+                {
+                    "name": "   ВЕБ Камеры A4Tech",
+                    "children": []
+                },
+                {
+                    "name": "   ВЕБ Камеры Defender",
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

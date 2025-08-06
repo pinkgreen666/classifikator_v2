@@ -1,0 +1,897 @@
+{
+    "211": [
+        {
+            "name": "Картриджи совместимые",
+            "children": [
+                {
+                    "name": "Samsung",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Samsung",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Sharp",
+                    "children": [
+                        {
+                            "name": "Пленки Sharp",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Xerox",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Xerox",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Lexmark",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Lexmark",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Oki",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Oki",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Panasonic",
+                    "children": [
+                        {
+                            "name": "Пленки Panasonic",
+                            "children": []
+                        },
+                        {
+                            "name": "Лазерные картриджи Panasonic",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Canon",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Canon",
+                            "children": []
+                        },
+                        {
+                            "name": "Струйные картриджи Canon",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Epson",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Epson",
+                            "children": []
+                        },
+                        {
+                            "name": "Струйные картриджи Epson",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "HP",
+                    "children": [
+                        {
+                            "name": "Струйные картриджи HP",
+                            "children": []
+                        },
+                        {
+                            "name": "Лазерные картриджи HP",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Konica Minolta",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Konica Minolta",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Kyocera",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Kyocera",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ricoh",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Ricoh",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Brother",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Brother",
+                            "children": []
+                        },
+                        {
+                            "name": "Струйные картриджи Brother",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Тонеры",
+            "children": [
+                {
+                    "name": "Lexmark",
+                    "children": []
+                },
+                {
+                    "name": "Brother",
+                    "children": []
+                },
+                {
+                    "name": "Konica Minolta",
+                    "children": []
+                },
+                {
+                    "name": "Sharp",
+                    "children": []
+                },
+                {
+                    "name": "Toshiba",
+                    "children": []
+                },
+                {
+                    "name": "Xerox",
+                    "children": []
+                },
+                {
+                    "name": "Kyocera",
+                    "children": []
+                },
+                {
+                    "name": "Canon",
+                    "children": []
+                },
+                {
+                    "name": "HP",
+                    "children": []
+                },
+                {
+                    "name": "Oki",
+                    "children": []
+                },
+                {
+                    "name": "Epson",
+                    "children": []
+                },
+                {
+                    "name": "Ricoh",
+                    "children": []
+                },
+                {
+                    "name": "Samsung",
+                    "children": []
+                },
+                {
+                    "name": "Panasonic",
+                    "children": [
+                        {
+                            "name": "ЧИПы Panasonic",
+                            "children": []
+                        },
+                        {
+                            "name": "Валы к КМА Panasonic",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие ЗИП Panasonic",
+                            "children": []
+                        },
+                        {
+                            "name": "Фотобарабаны Panasonic",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Чернила",
+            "children": [
+                {
+                    "name": "INKSYSTEM",
+                    "children": []
+                },
+                {
+                    "name": "Canon",
+                    "children": []
+                },
+                {
+                    "name": "Epson",
+                    "children": [
+                        {
+                            "name": "Шестерни Epson",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие ЗИП Epson",
+                            "children": []
+                        },
+                        {
+                            "name": "ЧИПы Epson",
+                            "children": []
+                        },
+                        {
+                            "name": "Фотобарабаны Epson",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "HP",
+                    "children": []
+                },
+                {
+                    "name": "Riso",
+                    "children": [
+                        {
+                            "name": "Прочие ЗИП Riso",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Промывочная жидкость",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "ЗИП",
+            "children": [
+                {
+                    "name": "Sharp",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Sharp",
+                            "children": []
+                        },
+                        {
+                            "name": "Валы к КМА Sharp",
+                            "children": []
+                        },
+                        {
+                            "name": "Шестерни Sharp",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие ЗИП Sharp",
+                            "children": []
+                        },
+                        {
+                            "name": "Лазерные картриджи Sharp",
+                            "children": []
+                        },
+                        {
+                            "name": "Струйные картриджи Sharp",
+                            "children": []
+                        },
+                        {
+                            "name": "Лампы экспозиции и нагрева Sharp",
+                            "children": []
+                        },
+                        {
+                            "name": "Ракели Sharp",
+                            "children": []
+                        },
+                        {
+                            "name": "Фотобарабаны Sharp",
+                            "children": []
+                        },
+                        {
+                            "name": "ЧИПы Sharp",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Toshiba",
+                    "children": [
+                        {
+                            "name": "ЧИПы Toshiba",
+                            "children": []
+                        },
+                        {
+                            "name": "Валы к КМА Toshiba",
+                            "children": []
+                        },
+                        {
+                            "name": "Шестерни Toshiba",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие ЗИП Toshiba",
+                            "children": []
+                        },
+                        {
+                            "name": "Лампы экспозиции и нагрева Toshiba",
+                            "children": []
+                        },
+                        {
+                            "name": "Ракели Toshiba",
+                            "children": []
+                        },
+                        {
+                            "name": "Фотобарабаны Toshiba",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Xerox",
+                    "children": [
+                        {
+                            "name": "Лампы экспозиции и нагрева Xerox",
+                            "children": []
+                        },
+                        {
+                            "name": "Валы к КМА Xerox",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие ЗИП Xerox",
+                            "children": []
+                        },
+                        {
+                            "name": "Фотобарабаны Xerox",
+                            "children": []
+                        },
+                        {
+                            "name": "ЧИПы Xerox",
+                            "children": []
+                        },
+                        {
+                            "name": "Ракели Xerox",
+                            "children": []
+                        },
+                        {
+                            "name": "Шестерни Xerox",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Samsung",
+                    "children": [
+                        {
+                            "name": "Ракели Samsung",
+                            "children": []
+                        },
+                        {
+                            "name": "Фотобарабаны Samsung",
+                            "children": []
+                        },
+                        {
+                            "name": "ЧИПы Samsung",
+                            "children": []
+                        },
+                        {
+                            "name": "Струйные картриджи Samsung",
+                            "children": []
+                        },
+                        {
+                            "name": "Струйные картриджи Samsung",
+                            "children": []
+                        },
+                        {
+                            "name": "Валы к КМА Samsung",
+                            "children": []
+                        },
+                        {
+                            "name": "Лампы экспозиции и нагрева Samsung",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие ЗИП Samsung",
+                            "children": []
+                        },
+                        {
+                            "name": "Шестерни Samsung",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Kyocera",
+                    "children": [
+                        {
+                            "name": "Фотобарабаны Kyocera",
+                            "children": []
+                        },
+                        {
+                            "name": "ЧИПы Kyocera",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие ЗИП Kyocera",
+                            "children": []
+                        },
+                        {
+                            "name": "Ракели Kyocera",
+                            "children": []
+                        },
+                        {
+                            "name": "Валы к КМА Kyocera",
+                            "children": []
+                        },
+                        {
+                            "name": "Шестерни Kyocera",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Lexmark",
+                    "children": [
+                        {
+                            "name": "Прочие ЗИП Lexmark",
+                            "children": []
+                        },
+                        {
+                            "name": "Фотобарабаны Lexmark",
+                            "children": []
+                        },
+                        {
+                            "name": "ЧИПы Lexmark",
+                            "children": []
+                        },
+                        {
+                            "name": "Валы к КМА Lexmark",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Oki",
+                    "children": [
+                        {
+                            "name": "Прочие ЗИП Oki",
+                            "children": []
+                        },
+                        {
+                            "name": "Фотобарабаны Oki",
+                            "children": []
+                        },
+                        {
+                            "name": "ЧИПы Oki",
+                            "children": []
+                        },
+                        {
+                            "name": "Матричные картриджи Oki",
+                            "children": []
+                        },
+                        {
+                            "name": "Шестерни Oki",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Pantum",
+                    "children": [
+                        {
+                            "name": "Чипы Pantum",
+                            "children": []
+                        },
+                        {
+                            "name": "Фотобарабаны Pantum",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ricoh",
+                    "children": [
+                        {
+                            "name": "Валы к КМА Ricoh",
+                            "children": []
+                        },
+                        {
+                            "name": "ЧИПы Ricoh",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие ЗИП Ricoh",
+                            "children": []
+                        },
+                        {
+                            "name": "Струйные картриджи Ricoh",
+                            "children": []
+                        },
+                        {
+                            "name": "Лампы экспозиции и нагрева Ricoh",
+                            "children": []
+                        },
+                        {
+                            "name": "Фотобарабаны Ricoh",
+                            "children": []
+                        },
+                        {
+                            "name": "Ракели Ricoh",
+                            "children": []
+                        },
+                        {
+                            "name": "Шестерни Ricoh",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Konica Minolta",
+                    "children": [
+                        {
+                            "name": "Ракели Konica Minolta",
+                            "children": []
+                        },
+                        {
+                            "name": "Валы к КМА Konica Minolta",
+                            "children": []
+                        },
+                        {
+                            "name": "ЧИПы Konica Minolta",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие ЗИП Konica Minolta",
+                            "children": []
+                        },
+                        {
+                            "name": "Фотобарабаны Konica Minolta",
+                            "children": []
+                        },
+                        {
+                            "name": "Лампы экспозиции и нагрева Konica Minolta",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "OCE",
+                    "children": [
+                        {
+                            "name": "Фотобарабаны OCE",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие ЗИП OCE",
+                            "children": []
+                        },
+                        {
+                            "name": "Ракели OCE",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Brother",
+                    "children": [
+                        {
+                            "name": "Фотобарабаны Brother",
+                            "children": []
+                        },
+                        {
+                            "name": "Пленки Brother",
+                            "children": []
+                        },
+                        {
+                            "name": "Валы к КМА Brother",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие ЗИП Brother",
+                            "children": []
+                        },
+                        {
+                            "name": "Лампы экспозиции и нагрева Brother",
+                            "children": []
+                        },
+                        {
+                            "name": "Шестерни Brother",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Canon",
+                    "children": [
+                        {
+                            "name": "Ракели Canon",
+                            "children": []
+                        },
+                        {
+                            "name": "Фотобарабаны Canon",
+                            "children": []
+                        },
+                        {
+                            "name": "ЧИПы Canon",
+                            "children": []
+                        },
+                        {
+                            "name": "Шестерни Canon",
+                            "children": []
+                        },
+                        {
+                            "name": "Лампы экспозиции и нагрева Canon",
+                            "children": []
+                        },
+                        {
+                            "name": "Валы к КМА Canon",
+                            "children": []
+                        },
+                        {
+                            "name": "Прочие ЗИП Canon",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "HP",
+                    "children": [
+                        {
+                            "name": "Прочие ЗИП HP",
+                            "children": []
+                        },
+                        {
+                            "name": "Ракели HP",
+                            "children": []
+                        },
+                        {
+                            "name": "Фотобарабаны HP",
+                            "children": []
+                        },
+                        {
+                            "name": "ЧИПы HP",
+                            "children": []
+                        },
+                        {
+                            "name": "Шестерни HP",
+                            "children": []
+                        },
+                        {
+                            "name": "Валы к КМА HP",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Сопутствующие товары",
+            "children": []
+        },
+        {
+            "name": "Некондиционный товар (НТВ)",
+            "children": []
+        },
+        {
+            "name": "Компьютерные аксессуары",
+            "children": []
+        },
+        {
+            "name": "Товар",
+            "children": []
+        },
+        {
+            "name": "Картриджи оригинальные",
+            "children": [
+                {
+                    "name": "Прочие",
+                    "children": [
+                        {
+                            "name": "Матричные картриджи и пленки",
+                            "children": []
+                        },
+                        {
+                            "name": "Перезаправляемые картриджи",
+                            "children": []
+                        },
+                        {
+                            "name": "СНПЧ",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Lexmark",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Lexmark",
+                            "children": []
+                        },
+                        {
+                            "name": "Струйные картриджи Lexmark",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Oki",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Oki",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Panasonic",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Panasonic",
+                            "children": []
+                        },
+                        {
+                            "name": "Пленки Panasonic",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ricoh",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Ricoh",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Konica Minolta",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Konica Minolta",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Kyocera",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Kyocera",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Canon",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Canon",
+                            "children": []
+                        },
+                        {
+                            "name": "Струйные картриджи Canon",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "HP",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи НР",
+                            "children": []
+                        },
+                        {
+                            "name": "Струйные картриджи НР",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Riso",
+                    "children": [
+                        {
+                            "name": "Краски Riso",
+                            "children": []
+                        },
+                        {
+                            "name": "Мастер-пленки Riso",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Samsung",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Samsung",
+                            "children": []
+                        },
+                        {
+                            "name": "Матричные картриджи Samsung",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Xerox",
+                    "children": [
+                        {
+                            "name": "Лазерные картриджи Xerox",
+                            "children": []
+                        },
+                        {
+                            "name": "Струйные картриджи Xerox",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Epson",
+                    "children": [
+                        {
+                            "name": "Струйные картриджи Epson",
+                            "children": []
+                        },
+                        {
+                            "name": "Лазерные картриджи Epson",
+                            "children": []
+                        },
+                        {
+                            "name": "Матричные картриджи Epson",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Brother",
+                    "children": [
+                        {
+                            "name": "Струйные картриджи Brother",
+                            "children": []
+                        },
+                        {
+                            "name": "Лазерные картриджи Brother",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Принтеры и МФУ",
+            "children": []
+        },
+        {
+            "name": "Бумага и пленка",
+            "children": []
+        }
+    ]
+}
